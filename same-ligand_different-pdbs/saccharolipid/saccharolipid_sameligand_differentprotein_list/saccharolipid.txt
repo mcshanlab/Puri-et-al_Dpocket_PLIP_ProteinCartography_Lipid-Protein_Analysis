@@ -1,0 +1,877 @@
+Ligands shared by distinct proteins:
+
+Ligand: 24G
+  Protein 1:
+    Protein names : ['UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase', 'LpxC', 'UDP-3-O-acyl-GlcNAc deacetylase']
+    LeidenCluster : LC13
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD4mdt-A-A-24G1
+      BD4mdt-B-B-24G1
+      BD4mdt-C-C-24G1
+      BD4mdt-D-D-24G1
+  Protein 2:
+    Protein names : ['UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase', 'UDP-3-O-acyl-GlcNAc deacetylase']
+    LeidenCluster : LC13
+    Pfam          : PF03331;
+    InterPro      : ['Ribosomal_Su5_D2-typ_SF [IPR020568]', 'UDP-acyl_GlcNac_deAcase [IPR004463]', 'UDP-acyl_GlcNac_deAcase_C [IPR011334]', 'UDP-acyl_N-AcGlcN_deAcase_N [IPR015870]']
+    Protids:
+      BD4oze-A-A-24G1
+      BD4oze-B-B-24G1
+  Protein 3:
+    Protein names : nan
+    LeidenCluster : LC13
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD4oze-A-B-24G1_A
+  Protein 4:
+    Protein names : ['UDP-3-O-acyl-N-acetylglucosamine deacetylase']
+    LeidenCluster : LC13
+    Pfam          : PF03331;
+    InterPro      : ['Ribosomal_Su5_D2-typ_SF [IPR020568]', 'UDP-acyl_GlcNac_deAcase [IPR004463]', 'UDP-acyl_GlcNac_deAcase_C [IPR011334]', 'UDP-acyl_N-AcGlcN_deAcase_N [IPR015870]']
+    Protids:
+      BD8v24-B-B-24G1
+      BD8v24-D-D-24G1
+
+Ligand: LMO
+  Protein 1:
+    Protein names : ['Melibiose permease', 'Melibiose carrier', 'Melibiose transporter', 'Melibiose/cation symporter', 'Na+', 'Li+)/melibiose symporter', 'Thiomethylgalactoside permease II']
+    LeidenCluster : LC00
+    Pfam          : PF13347;
+    InterPro      : ['MFS_2 [IPR039672]', 'MFS_trans_sf [IPR036259]', 'Na/Gal_symport [IPR001927]', 'Na/Gal_symport_CS [IPR018043]']
+    Protids:
+      BD7l16-A-A-LMO1
+  Protein 2:
+    Protein names : ['Melibiose permease', 'Melibiose carrier', 'Melibiose transporter', 'Melibiose/cation symporter', 'Na+ (Li+)/melibiose symporter', 'Thiomethylgalactoside permease II']
+    LeidenCluster : LC00
+    Pfam          : PF13347;
+    InterPro      : ['MFS_2 [IPR039672]', 'MFS_trans_sf [IPR036259]', 'Na/Gal_symport [IPR001927]', 'Na/Gal_symport_CS [IPR018043]']
+    Protids:
+      BD8fq9-A-A-LMO1
+
+Ligand: LP5
+  Protein 1:
+    Protein names : ['Lymphocyte antigen 96', 'MD-2 protein', 'ESOP-1']
+    LeidenCluster : LC12
+    Pfam          : PF02221;
+    InterPro      : ['Ig_E-set [IPR014756]', 'LY96 [IPR039217]', 'ML_dom [IPR003172]']
+    Protids:
+      BD2e59-A-A-LP51
+  Protein 2:
+    Protein names : ['Protein MD-1', 'Ly-86', 'Lymphocyte antigen 86']
+    LeidenCluster : LC12
+    Pfam          : PF02221;
+    InterPro      : ['Ig_E-set [IPR014756]', 'LY86 [IPR039945]', 'ML_dom [IPR003172]']
+    Protids:
+      BD3mu3-A-A-LP51
+      BD3mu3-B-B-LP51
+  Protein 3:
+    Protein names : ['Lactotransferrin', 'Lactoferrin', 'Lactoferricin-B', 'Lfcin-B']
+    LeidenCluster : LC00
+    Pfam          : PF00405;
+    InterPro      : ['Lactotransferrin [IPR030684]', 'Transferrin [IPR016357]', 'Transferrin-like_dom [IPR001156]', 'Transferrin_Fe_BS [IPR018195]']
+    Protids:
+      BD3rgy-A-A-LP51
+  Protein 4:
+    Protein names : ['Peptidoglycan recognition protein 1', 'Peptidoglycan recognition protein short', 'PGRP-S']
+    LeidenCluster : LC00
+    Pfam          : PF01510;
+    InterPro      : ['Amidase/PGRP_sf [IPR036505]', 'Amidase_domain [IPR002502]', 'Peptidoglycan_recognition [IPR017331]', 'PGRP [IPR015510]', 'PGRP_domain_met/bac [IPR006619]']
+    Protids:
+      BD3rt4-C-C-LP51
+      BD4gf9-C-C-LP51
+      BD4oug-C-C-LP51
+  Protein 5:
+    Protein names : ['Lymphocyte antigen 96', 'Ly-96', 'ESOP-1', 'Protein MD-2']
+    LeidenCluster : LC12
+    Pfam          : nan
+    InterPro      : ['Ig_E-set [IPR014756]', 'LY96 [IPR039217]', 'ML_dom [IPR003172]']
+    Protids:
+      BD3vq1-C-C-LP51
+      BD3vq1-D-D-LP51
+      BD3vq2-C-C-LP51
+      BD3vq2-D-D-LP51
+      BD5ijd-C-C-LP51
+      BD5ijd-D-D-LP51
+  Protein 6:
+    Protein names : ['Lymphocyte antigen 96', 'Ly-96', 'ESOP-1', 'Protein MD-2']
+    LeidenCluster : LC12
+    Pfam          : PF02221;
+    InterPro      : ['Ig_E-set [IPR014756]', 'LY96 [IPR039217]', 'ML_dom [IPR003172]']
+    Protids:
+      BD4g8a-C-C-LP51
+      BD4g8a-D-D-LP51
+  Protein 7:
+    Protein names : nan
+    LeidenCluster : LC00
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD4gf9-A-C-LP51_A
+      BD4gf9-D-C-LP51_D
+  Protein 8:
+    Protein names : ['UDP-2,3-diacylglucosamine pyrophosphatase LpxI']
+    LeidenCluster : LC00
+    Pfam          : PF06230;PF17930;
+    InterPro      : ['LpxI [IPR053174]', 'LpxI_C [IPR010415]', 'LpxI_C_sf [IPR043167]', 'LpxI_N [IPR041255]']
+    Protids:
+      BD4ggm-X-X-LP51
+  Protein 9:
+    Protein names : ['rRNA N-glycosidase']
+    LeidenCluster : LC00
+    Pfam          : PF00161;
+    InterPro      : ['Ribosome-inact_prot_sf [IPR036041]', 'Ribosome_inactivat_1/2 [IPR017989]', 'Ribosome_inactivat_prot [IPR001574]', 'Ribosome_inactivat_prot_CS [IPR017988]', 'Ribosome_inactivat_prot_sub1 [IPR016138]', 'Ribosome_inactivat_prot_sub2 [IPR016139]']
+    Protids:
+      BD4guw-A-A-LP51
+  Protein 10:
+    Protein names : ["Tetraacyldisaccharide 4'-kinase", "Lipid A 4'-kinase"]
+    LeidenCluster : LC00
+    Pfam          : PF02606;
+    InterPro      : ['LpxK [IPR003758]', 'P-loop_NTPase [IPR027417]']
+    Protids:
+      BD4lkv-A-A-LP51
+      BD4lkv-C-C-LP51
+  Protein 11:
+    Protein names : ['UDP-2,3-diacylglucosamine hydrolase', 'UDP-2,3-diacylglucosamine pyrophosphatase LpxH', 'UDP-2,3-diacylglucosamine diphosphatase']
+    LeidenCluster : LC14
+    Pfam          : PF00149;
+    InterPro      : ['Calcineurin-like_PHP_ApaH [IPR004843]', 'LpxH-like [IPR043461]', 'Metallo-depent_PP-like [IPR029052]', 'UDP-diacylglucosamine_Hdrlase [IPR010138]']
+    Protids:
+      BD5b49-A-A-LP51
+      BD5b49-B-B-LP51
+      BD5b4a-A-A-LP51
+      BD5b4a-B-B-LP51
+      BD5b4b-A-A-LP51
+      BD5b4b-B-B-LP51
+  Protein 12:
+    Protein names : ['UDP-2,3-diacylglucosamine hydrolase', 'UDP-2,3-diacylglucosamine diphosphatase']
+    LeidenCluster : LC14
+    Pfam          : PF00149;
+    InterPro      : ['Calcineurin-like_PHP_ApaH [IPR004843]', 'LpxH-like [IPR043461]', 'Metallo-depent_PP-like [IPR029052]', 'UDP-diacylglucosamine_Hdrlase [IPR010138]']
+    Protids:
+      BD5k8k-A-A-LP51
+      BD6ph9-A-A-LP51
+  Protein 13:
+    Protein names : ['Ferric enterobactin receptor']
+    LeidenCluster : LC00
+    Pfam          : PF07715;PF00593;
+    InterPro      : ['Plug_dom [IPR012910]', 'Plug_dom_sf [IPR037066]', 'TonB-dep_rcpt-like [IPR039426]', 'TonB-dep_rcpt_b-brl [IPR000531]', 'TonB_rcpt_b-brl_sf [IPR036942]', 'TonB_rcpt_CS [IPR010917]', 'TonB_sidphr_rcpt [IPR010105]']
+    Protids:
+      BD6q5e-A-A-LP51
+  Protein 14:
+    Protein names : ['UDP-2,3-diacylglucosamine hydrolase']
+    LeidenCluster : LC14
+    Pfam          : PF00149;
+    InterPro      : ['Calcineurin-like_PHP_ApaH [IPR004843]', 'LpxH-like [IPR043461]', 'Metallo-depent_PP-like [IPR029052]', 'UDP-diacylglucosamine_Hdrlase [IPR010138]']
+    Protids:
+      BD8qjz-A-A-LP51
+
+Ligand: U20
+  Protein 1:
+    Protein names : ['UDP-N-acetylglucosamine acyltransferase', 'Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase']
+    LeidenCluster : LC06
+    Pfam          : PF13720;PF00132;
+    InterPro      : ['Acetyltransf_C [IPR029098]', 'Acetyltransf_C_sf [IPR037157]', 'Hexapep [IPR001451]', 'Hexapep_transf_CS [IPR018357]', 'Lipid_A_LpxA [IPR010137]', 'Trimer_LpxA-like_sf [IPR011004]']
+    Protids:
+      BD2qia-A-A-U201
+  Protein 2:
+    Protein names : ['Universal stress protein E']
+    LeidenCluster : LC00
+    Pfam          : PF00582;
+    InterPro      : ['UspA [IPR006016]']
+    Protids:
+      BD4wy2-A-A-U201
+  Protein 3:
+    Protein names : ['Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase', 'UDP-N-acetylglucosamine acyltransferase']
+    LeidenCluster : LC06
+    Pfam          : PF13720;PF00132;
+    InterPro      : ['Acetyltransf_C [IPR029098]', 'Acetyltransf_C_sf [IPR037157]', 'Hexapep [IPR001451]', 'Hexapep_transf_CS [IPR018357]', 'Lipid_A_LpxA [IPR010137]', 'Trimer_LpxA-like_sf [IPR011004]']
+    Protids:
+      BD6p9q-A-A-U201
+      BD6p9r-A-A-U201
+      BD6p9s-A-A-U201
+      BD6p9t-A-A-U201
+
+Ligand: UD1
+  Protein 1:
+    Protein names : ['ALPHA-1,3-MANNOSYL-GLYCOPROTEIN BETA-1,2-N-ACETYLGLUCOSAMINYLTRANSFERASE']
+    LeidenCluster : LC05
+    Pfam          : PF03071;
+    InterPro      : ['Glyco_trans_13 [IPR004139]', 'Glycosyltransferase_13 [IPR052261]', 'Nucleotide-diphossugar_trans [IPR029044]']
+    Protids:
+      BD1foa-A-A-UD11
+  Protein 2:
+    Protein names : ['UDP-N-ACETYLGLUCOSAMINE PYROPHOSPHORYLASE', 'N-ACETYLGLUCOSAMINE-1-PHOSPHATE URIDYLTRANSFERASE']
+    LeidenCluster : LC07
+    Pfam          : PF00132;PF12804;
+    InterPro      : ['Bact_CellWall_BiosynthRecyc [IPR050065]', 'Bifunctional_GlmU [IPR005882]', 'GlmU_C_LbH [IPR038009]', 'Hexapep [IPR001451]', 'Hexapep_transf_CS [IPR018357]', 'MobA-like_NTP_Trfase [IPR025877]', 'Nucleotide-diphossugar_trans [IPR029044]', 'Trimer_LpxA-like_sf [IPR011004]']
+    Protids:
+      BD1fwy-A-A-UD11
+      BD1fwy-B-B-UD11
+      BD1hv9-A-A-UD11
+      BD1hv9-B-B-UD11
+  Protein 3:
+    Protein names : ['N-ACETYLGLUCOSAMINE-1-PHOSPHATE URIDYLTRANSFERASE', 'GLMU', 'UDP-N-ACETYLGLUCOSAMINE PYROPHOSPHORYLASE']
+    LeidenCluster : LC07
+    Pfam          : PF14602;PF00483;
+    InterPro      : ['Bact_CellWall_BiosynthRecyc [IPR050065]', 'Bifunctional_GlmU [IPR005882]', 'GlmU_C_LbH [IPR038009]', 'Hexapep [IPR001451]', 'Hexapep_transf_CS [IPR018357]', 'NTP_transferase_dom [IPR005835]', 'Nucleotide-diphossugar_trans [IPR029044]', 'Trimer_LpxA-like_sf [IPR011004]']
+    Protids:
+      BD1g97-A-A-UD11
+  Protein 4:
+    Protein names : ['UDP-N-ACETYLGLUCOSAMINE-1-PHOSPHATE URIDYLTRANSFERASE', 'GLMU']
+    LeidenCluster : LC07
+    Pfam          : PF14602;PF00483;
+    InterPro      : ['Bact_CellWall_BiosynthRecyc [IPR050065]', 'Bifunctional_GlmU [IPR005882]', 'GlmU_C_LbH [IPR038009]', 'Hexapep [IPR001451]', 'Hexapep_transf_CS [IPR018357]', 'NTP_transferase_dom [IPR005835]', 'Nucleotide-diphossugar_trans [IPR029044]', 'Trimer_LpxA-like_sf [IPR011004]']
+    Protids:
+      BD1hm9-A-A-UD11
+      BD1hm9-B-B-UD11
+  Protein 5:
+    Protein names : ['UDP-GALACTOSE 4-EPIMERASE', 'UDP-GLUCOSE 4-EPIMERASE']
+    LeidenCluster : LC02
+    Pfam          : PF16363;
+    InterPro      : ['NAD(P)-bd_dom [IPR016040]', 'NAD(P)-bd_dom_sf [IPR036291]', 'UDP_G4E [IPR005886]']
+    Protids:
+      BD1hzj-A-A-UD11
+      BD1hzj-B-B-UD11
+  Protein 6:
+    Protein names : ['UDP-GLUCOSE 4-EPIMERASE', 'UDP-GALACTOSE 4-EPIMERASE']
+    LeidenCluster : LC02
+    Pfam          : PF16363;
+    InterPro      : ['NAD(P)-bd_dom [IPR016040]', 'NAD(P)-bd_dom_sf [IPR036291]', 'UDP_G4E [IPR005886]']
+    Protids:
+      BD1i3m-A-A-UD11
+      BD1i3m-B-B-UD11
+      BD1i3n-A-A-UD11
+      BD1i3n-B-B-UD11
+  Protein 7:
+    Protein names : ['GlcNAc1P uridyltransferase isoform 1: AGX1', 'UDP-N-ACETYLGLUCOSAMINE PYROPHOSPHORYLASE']
+    LeidenCluster : LC09
+    Pfam          : PF01704;
+    InterPro      : ['Nucleotide-diphossugar_trans [IPR029044]', 'UDP-sugar_pyrophosphorylase [IPR039741]', 'UDPGP_fam [IPR002618]']
+    Protids:
+      BD1jv1-A-A-UD11
+      BD1jv1-B-B-UD11
+  Protein 8:
+    Protein names : nan
+    LeidenCluster : LC09
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD1jv1-A-B-UD11_A
+      BD1jv1-B-A-UD11_B
+      BD1jvd-A-B-UD11_A
+      BD1jvd-B-A-UD11_B
+  Protein 9:
+    Protein names : ['UDPGLCNAC PYROPHOSPHORYLASE (AGX2)', 'UDP-N-acetylglucosamine pyrophosphorylase']
+    LeidenCluster : LC09
+    Pfam          : PF01704;
+    InterPro      : ['Nucleotide-diphossugar_trans [IPR029044]', 'UDP-sugar_pyrophosphorylase [IPR039741]', 'UDPGP_fam [IPR002618]']
+    Protids:
+      BD1jvd-A-A-UD11
+      BD1jvd-B-B-UD11
+  Protein 10:
+    Protein names : ['UDP-glucose 4-epimerase', 'UDP-galactose-4-epimerase']
+    LeidenCluster : LC02
+    Pfam          : PF01370;
+    InterPro      : ['Epimerase_deHydtase [IPR001509]', 'NAD(P)-bd_dom_sf [IPR036291]', 'UDP_G4E [IPR005886]']
+    Protids:
+      BD1lrj-A-A-UD11
+      BD1lrk-A-A-UD11
+  Protein 11:
+    Protein names : ['UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase', 'Pentapeptide', 'pyrophosphoryl-undecaprenol N-acetylglucosamine transferase EC 2.4.1.-', 'Undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase']
+    LeidenCluster : LC04
+    Pfam          : PF04101;PF03033;
+    InterPro      : ['GlcNAc_MurG [IPR006009]', 'Glyco_trans_28_C [IPR007235]', 'GlycoTrans_28_N [IPR004276]']
+    Protids:
+      BD1nlm-A-A-UD11
+      BD1nlm-B-B-UD11
+  Protein 12:
+    Protein names : ['Alpha-1,4-N-acetylhexosaminyltransferase EXTL2', 'Alpha-GalNAcT EXTL2', 'EXT-related protein 2', 'Exostosin-like 2']
+    LeidenCluster : LC05
+    Pfam          : PF09258;
+    InterPro      : ['Glycosyltrans_GT2/GT47 [IPR052427]', 'GT64 [IPR015338]', 'Nucleotide-diphossugar_trans [IPR029044]']
+    Protids:
+      BD1on6-A-A-UD11
+      BD1on6-B-B-UD11
+  Protein 13:
+    Protein names : ['UDP-N-ACETYLGLUCOSAMINE ENOLPYRUVYL TRANSFERASE', 'MURA']
+    LeidenCluster : LC01
+    Pfam          : PF00275;
+    InterPro      : ['Enolpyruvate_Tfrase_dom [IPR001986]', 'Enolpyruvate_Tfrase_sf [IPR036968]', 'MurA_subfamily [IPR050068]', "RNA3'P_cycl/enolpyr_Trfase_a/b [IPR013792]", 'UDP_GlcNAc_COvinyl_MurA [IPR005750]']
+    Protids:
+      BD1uae-A-A-UD11
+  Protein 14:
+    Protein names : ['UDP-N-acetylglucosamine 2-epimerase', 'UDP-GlcNAc-2- epimerase', 'Bacteriophage N4 adsorption protein C']
+    LeidenCluster : LC04
+    Pfam          : PF02350;
+    InterPro      : ['UDP_GlcNAc_Epimerase_2_dom [IPR003331]', 'WecB [IPR032892]', 'WecB-like [IPR029767]']
+    Protids:
+      BD1vgv-B-B-UD11
+      BD1vgv-C-C-UD11
+  Protein 15:
+    Protein names : ['aminotransferase']
+    LeidenCluster : LC00
+    Pfam          : PF01041;
+    InterPro      : ['DegT/StrS_aminotransferase [IPR000653]', 'PseC [IPR020026]', 'PyrdxlP-dep_Trfase [IPR015424]', 'PyrdxlP-dep_Trfase_major [IPR015421]', 'PyrdxlP-dep_Trfase_small [IPR015422]']
+    Protids:
+      BD2fnu-A-A-UD11
+      BD2fnu-B-B-UD11
+  Protein 16:
+    Protein names : nan
+    LeidenCluster : LC00
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD2fnu-A-B-UD11_A
+      BD2fnu-B-A-UD11_B
+      BD7mpk-A-C-UD11_A
+      BD7mpk-C-B-UD11_C
+  Protein 17:
+    Protein names : ['UDP-GlcNAc C6 dehydratase', 'flaA1 protein']
+    LeidenCluster : LC02
+    Pfam          : PF02719;
+    InterPro      : ['NAD(P)-bd_dom_sf [IPR036291]', 'Polysac_CapD-like [IPR003869]', 'Polysaccharide_Synthase-Rel [IPR051203]', 'PseB [IPR020025]']
+    Protids:
+      BD2gn4-A-A-UD11
+      BD2gn4-B-B-UD11
+      BD2gn6-A-A-UD11
+      BD2gn6-B-B-UD11
+  Protein 18:
+    Protein names : nan
+    LeidenCluster : LC06
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD2iu8-A-B-UD11_A
+      BD2iu9-A-B-UD11_A
+      BD2iu9-B-C-UD11_B
+      BD5dep-D-F-UD11_D
+      BD5dep-D-F-UD12_D
+      BD5dep-F-E-UD11_F
+  Protein 19:
+    Protein names : ['UDP-3-O-[3-HYDROXYMYRISTOYL] GLUCOSAMINE N-ACYLTRANSFERASE', 'LPXD']
+    LeidenCluster : LC06
+    Pfam          : PF00132;PF04613;
+    InterPro      : ['Hexapep [IPR001451]', 'LpxD [IPR007691]', 'Trimer_LpxA-like_sf [IPR011004]', 'UDP_GlcNAc_AcTrfase_non-rep [IPR020573]']
+    Protids:
+      BD2iu8-B-B-UD11
+      BD2iu9-B-B-UD11
+      BD2iu9-C-C-UD11
+  Protein 20:
+    Protein names : ['ACYL-[ACYL-CARRIER-PROTEIN]--UDP-N-ACETYLGLUCOSAMINE O-ACYLTRANSFERASE', 'UDP-N-ACETYLGLUCOSAMINE ACYLTRANSFERASE']
+    LeidenCluster : LC06
+    Pfam          : PF13720;PF00132;
+    InterPro      : ['Acetyltransf_C [IPR029098]', 'Acetyltransf_C_sf [IPR037157]', 'Hexapep [IPR001451]', 'Hexapep_transf_CS [IPR018357]', 'Lipid_A_LpxA [IPR010137]', 'Trimer_LpxA-like_sf [IPR011004]']
+    Protids:
+      BD2jf3-A-A-UD11
+  Protein 21:
+    Protein names : ['Bifunctional protein glmU']
+    LeidenCluster : LC07
+    Pfam          : PF00132;PF12804;
+    InterPro      : ['Bact_CellWall_BiosynthRecyc [IPR050065]', 'Bifunctional_GlmU [IPR005882]', 'GlmU_C_LbH [IPR038009]', 'Hexapep [IPR001451]', 'Hexapep_transf_CS [IPR018357]', 'MobA-like_NTP_Trfase [IPR025877]', 'Nucleotide-diphossugar_trans [IPR029044]', 'Trimer_LpxA-like_sf [IPR011004]']
+    Protids:
+      BD2oi5-A-A-UD11
+      BD2oi5-B-B-UD11
+      BD2oi6-A-A-UD11
+      BD2oi6-B-B-UD11
+      BD2oi7-A-A-UD11
+      BD2oi7-B-B-UD11
+  Protein 22:
+    Protein names : ['isomerase domain of glutamine-fructose-6-phosphate transaminase (isomerizing)', 'Hexosephosphate aminotransferase']
+    LeidenCluster : LC11
+    Pfam          : PF13522;PF01380;
+    InterPro      : ['GATase_2_dom [IPR017932]', 'GFAT_N [IPR047084]', 'GlmS/AgaS_SIS [IPR035466]', 'GlmS/FrlB_SIS [IPR035490]', 'Ntn_hydrolases_N [IPR029055]', 'SIS_dom [IPR001347]', 'SIS_dom_sf [IPR046348]']
+    Protids:
+      BD2poc-A-A-UD11
+      BD2poc-B-B-UD11
+      BD2poc-C-C-UD11
+      BD2poc-D-D-UD11
+      BD2put-A-A-UD11
+      BD2put-B-B-UD11
+      BD2put-C-C-UD11
+      BD2put-D-D-UD11
+      BD2puv-A-A-UD11
+      BD2puv-B-B-UD11
+      BD2puv-C-C-UD11
+      BD2puv-D-D-UD11
+  Protein 23:
+    Protein names : ['UDP-N-acetylglucosamine 1-carboxyvinyltransferase', 'Enoylpyruvate transferase', 'UDP-N-acetylglucosamine enolpyruvyl transferase', 'EPT']
+    LeidenCluster : LC01
+    Pfam          : PF00275;
+    InterPro      : ['Enolpyruvate_Tfrase_dom [IPR001986]', 'Enolpyruvate_Tfrase_sf [IPR036968]', 'MurA_subfamily [IPR050068]', "RNA3'P_cycl/enolpyr_Trfase_a/b [IPR013792]", 'UDP_GlcNAc_COvinyl_MurA [IPR005750]']
+    Protids:
+      BD2rl1-A-A-UD11
+      BD2rl2-A-A-UD11
+      BD3kqj-A-A-UD11
+      BD3kr6-A-A-UD11
+      BD3lth-A-A-UD11
+      BD3swa-A-A-UD11
+      BD3swa-B-B-UD11
+      BD3upk-A-A-UD11
+      BD3v4t-A-A-UD11
+      BD3v4t-B-B-UD11
+      BD3v4t-C-C-UD11
+      BD3v4t-D-D-UD11
+      BD3v4t-E-E-UD11
+      BD3v4t-F-F-UD11
+      BD3v4t-G-G-UD11
+      BD3v4t-H-H-UD11
+      BD3vcy-A-A-UD11
+      BD3vcy-B-B-UD11
+      BD3vcy-C-C-UD11
+      BD3vcy-D-D-UD11
+      BD4r7u-A-A-UD11
+      BD4r7u-B-B-UD11
+      BD4r7u-C-C-UD11
+      BD4r7u-D-D-UD11
+  Protein 24:
+    Protein names : ['BIFUNCTIONAL PROTEIN GLMU', 'GLMU FROM HAEMOPHILIS INFLUENZAE']
+    LeidenCluster : LC07
+    Pfam          : PF00132;PF12804;
+    InterPro      : ['Bact_CellWall_BiosynthRecyc [IPR050065]', 'Bifunctional_GlmU [IPR005882]', 'GlmU_C_LbH [IPR038009]', 'Hexapep [IPR001451]', 'Hexapep_transf_CS [IPR018357]', 'MobA-like_NTP_Trfase [IPR025877]', 'Nucleotide-diphossugar_trans [IPR029044]', 'Trimer_LpxA-like_sf [IPR011004]']
+    Protids:
+      BD2v0i-A-A-UD11
+  Protein 25:
+    Protein names : ['UDP-N-acetylglucosamine pyrophosphorylase']
+    LeidenCluster : LC09
+    Pfam          : PF01704;
+    InterPro      : ['Nucleotide-diphossugar_trans [IPR029044]', 'UDP-sugar_pyrophosphorylase [IPR039741]', 'UDPGP_fam [IPR002618]']
+    Protids:
+      BD2yqj-A-A-UD11
+      BD2yqj-B-B-UD11
+      BD2yqs-A-A-UD11
+      BD6g9v-B-B-UD11
+  Protein 26:
+    Protein names : ['UDP-N-acetylglucosamine 2-epimerase']
+    LeidenCluster : LC04
+    Pfam          : PF02350;
+    InterPro      : ['UDP_GlcNAc_Epimerase_2_dom [IPR003331]', 'WecB-like [IPR029767]']
+    Protids:
+      BD3beo-A-A-UD11
+      BD3beo-B-B-UD11
+  Protein 27:
+    Protein names : ['Bifunctional protein glmU', '[Includes: UDP-N-acetylglucosamine pyrophosphorylase (EC 2.7.7.23) (N-acetylglucosamine-1-phosphate uridyltransferase)']
+    LeidenCluster : LC07
+    Pfam          : PF00132;PF12804;
+    InterPro      : ['Bact_CellWall_BiosynthRecyc [IPR050065]', 'Bifunctional_GlmU [IPR005882]', 'GlmU_C_LbH [IPR038009]', 'Hexapep [IPR001451]', 'MobA-like_NTP_Trfase [IPR025877]', 'Nucleotide-diphossugar_trans [IPR029044]', 'Trimer_LpxA-like_sf [IPR011004]']
+    Protids:
+      BD3d8v-A-A-UD11
+  Protein 28:
+    Protein names : ['Bifunctional protein glmU', 'UDP-N-acetylglucosamine pyrophosphorylase', 'N-acetylglucosamine-1-phosphate uridyltransferase', 'Glucosamine-1-phosphate N-acetyltransferase']
+    LeidenCluster : LC07
+    Pfam          : PF00132;PF12804;
+    InterPro      : ['Bact_CellWall_BiosynthRecyc [IPR050065]', 'Bifunctional_GlmU [IPR005882]', 'GlmU_C_LbH [IPR038009]', 'Hexapep [IPR001451]', 'MobA-like_NTP_Trfase [IPR025877]', 'Nucleotide-diphossugar_trans [IPR029044]', 'Trimer_LpxA-like_sf [IPR011004]']
+    Protids:
+      BD3dj4-A-A-UD11
+      BD3spt-A-A-UD11
+      BD3st8-A-A-UD11
+  Protein 29:
+    Protein names : ['Zeta-toxin']
+    LeidenCluster : LC00
+    Pfam          : PF06414;
+    InterPro      : ['P-loop_NTPase [IPR027417]', 'Zeta_toxin_domain [IPR010488]']
+    Protids:
+      BD3q8x-D-D-UD11
+  Protein 30:
+    Protein names : ['UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase', 'Undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase']
+    LeidenCluster : LC04
+    Pfam          : PF04101;PF03033;
+    InterPro      : ['GlcNAc_MurG [IPR006009]', 'Glyco_trans_28_C [IPR007235]', 'GlycoTrans_28_N [IPR004276]']
+    Protids:
+      BD3s2u-A-A-UD11
+  Protein 31:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD3swa-B-A-UD11_B
+  Protein 32:
+    Protein names : ['NAD-dependent epimerase/dehydratase', 'TunA']
+    LeidenCluster : LC02
+    Pfam          : PF01370;
+    InterPro      : ['Epimerase_deHydtase [IPR001509]', 'NAD(P)-bd_dom_sf [IPR036291]']
+    Protids:
+      BD3vps-A-A-UD11
+      BD3vps-B-B-UD11
+  Protein 33:
+    Protein names : ['UDP-N-acetylglucosamine 2-epimerase', 'UDP-GlcNAc-2-epimerase']
+    LeidenCluster : LC04
+    Pfam          : PF02350;
+    InterPro      : ['UDP_GlcNAc_Epimerase_2_dom [IPR003331]', 'WecB-like [IPR029767]']
+    Protids:
+      BD4fkz-A-A-UD11
+      BD4fkz-B-B-UD11
+      BD4nes-A-A-UD11
+  Protein 34:
+    Protein names : ['Bifunctional protein GlmU', 'UDP-N-acetylglucosamine pyrophosphorylase', 'N-acetylglucosamine-1-phosphate uridyltransferase', 'Glucosamine-1-phosphate N-acetyltransferase']
+    LeidenCluster : LC07
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD4g3p-A-A-UD11
+  Protein 35:
+    Protein names : ['Bifunctional protein GlmU', 'UDP-N-acetylglucosamine pyrophosphorylase', 'N-acetylglucosamine-1-phosphate uridyltransferase', 'Glucosamine-1-phosphate N-acetyltransferase']
+    LeidenCluster : LC07
+    Pfam          : PF00132;PF12804;
+    InterPro      : ['Bact_CellWall_BiosynthRecyc [IPR050065]', 'Bifunctional_GlmU [IPR005882]', 'GlmU_C_LbH [IPR038009]', 'Hexapep [IPR001451]', 'MobA-like_NTP_Trfase [IPR025877]', 'Nucleotide-diphossugar_trans [IPR029044]', 'Trimer_LpxA-like_sf [IPR011004]']
+    Protids:
+      BD4g3q-A-A-UD11
+      BD4g3s-A-A-UD11
+      BD4g87-A-A-UD11
+  Protein 36:
+    Protein names : ['UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit', 'O-GlcNAc transferase subunit p110', 'O-linked N-acetylglucosamine transferase 110 kDa subunit', 'OGT']
+    LeidenCluster : LC10
+    Pfam          : PF13844;PF00515;PF13414;PF13424;PF13181;
+    InterPro      : ['OGT/SEC/SPY_C [IPR029489]', 'TPR-like_helical_dom_sf [IPR011990]', 'TPR_repeat [IPR019734]']
+    Protids:
+      BD4gz5-A-A-UD11
+      BD4gz5-B-B-UD11
+      BD4gz5-C-C-UD11
+      BD4gz5-D-D-UD11
+      BD4n3c-A-A-UD11
+  Protein 37:
+    Protein names : ['Glucose-1-phosphate thymidylyltransferase']
+    LeidenCluster : LC09
+    Pfam          : PF00483;
+    InterPro      : ['G1P_thy_trans_s [IPR005907]', 'NTP_transferase_dom [IPR005835]', 'Nucleotide-diphossugar_trans [IPR029044]']
+    Protids:
+      BD4hoc-A-A-UD11
+      BD4hoc-B-B-UD11
+  Protein 38:
+    Protein names : ['Putative insecticidal toxin']
+    LeidenCluster : LC05
+    Pfam          : PF04488;PF15645;
+    InterPro      : ['Glycosyltransferase_domain [IPR051706]', 'GlycoTrfase_DXD_sugar-bd_CS [IPR007577]', 'Nucleotide-diphossugar_trans [IPR029044]', 'Tox-PLDMTX_dom [IPR028907]']
+    Protids:
+      BD4mix-A-A-UD11
+      BD4mix-B-B-UD11
+  Protein 39:
+    Protein names : ['Putative acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase']
+    LeidenCluster : LC06
+    Pfam          : PF13720;PF00132;
+    InterPro      : ['Acetyltransf_C [IPR029098]', 'Acetyltransf_C_sf [IPR037157]', 'Hexapep [IPR001451]', 'Lipid_A_LpxA [IPR010137]', 'Trimer_LpxA-like_sf [IPR011004]']
+    Protids:
+      BD4r37-A-A-UD11
+  Protein 40:
+    Protein names : ['Glycosyl transferase', 'group 1 family protein', 'TarM']
+    LeidenCluster : LC04
+    Pfam          : PF00534;
+    InterPro      : ['Glyco_trans_1 [IPR001296]']
+    Protids:
+      BD4wad-A-A-UD11
+  Protein 41:
+    Protein names : ['TarM']
+    LeidenCluster : LC04
+    Pfam          : PF00534;
+    InterPro      : ['Glyco_trans_1 [IPR001296]']
+    Protids:
+      BD4x7m-B-B-UD11
+  Protein 42:
+    Protein names : ['WlaL protein']
+    LeidenCluster : LC02
+    Pfam          : PF02719;
+    InterPro      : ['NAD(P)-bd_dom_sf [IPR036291]', 'Polysac_CapD-like [IPR003869]', 'Polysaccharide_Synthase-Rel [IPR051203]', 'SAM-dependent_MTases_sf [IPR029063]']
+    Protids:
+      BD5bjv-A-A-UD11
+      BD5bjv-B-B-UD11
+  Protein 43:
+    Protein names : ['Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase', 'UDP-N-acetylglucosamine acyltransferase']
+    LeidenCluster : LC06
+    Pfam          : PF13720;PF00132;
+    InterPro      : ['Acetyltransf_C [IPR029098]', 'Acetyltransf_C_sf [IPR037157]', 'Hexapep [IPR001451]', 'Hexapep_transf_CS [IPR018357]', 'Lipid_A_LpxA [IPR010137]', 'Trimer_LpxA-like_sf [IPR011004]']
+    Protids:
+      BD5dep-B-B-UD11
+      BD5dep-B-B-UD12
+      BD5dep-D-D-UD11
+      BD5dep-E-E-UD11
+      BD5dep-F-F-UD11
+      BD5dep-F-F-UD12
+  Protein 44:
+    Protein names : ['UDP-N-Acetylglucosamine 2-epimerase']
+    LeidenCluster : LC04
+    Pfam          : PF02350;
+    InterPro      : ['UDP_GlcNAc_Epimerase_2_dom [IPR003331]', 'WecB-like [IPR029767]']
+    Protids:
+      BD5dld-A-A-UD11
+  Protein 45:
+    Protein names : ['Transferase']
+    LeidenCluster : LC05
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD5h63-A-A-UD11
+      BD5h63-B-B-UD11
+      BD5h63-C-C-UD11
+      BD5h63-D-D-UD11
+  Protein 46:
+    Protein names : nan
+    LeidenCluster : LC05
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD5h63-A-D-UD11_A
+      BD5h63-B-C-UD11_B
+  Protein 47:
+    Protein names : ['Glycosyl transferase']
+    LeidenCluster : LC08
+    Pfam          : PF00535;PF18674;
+    InterPro      : ['Glyco_trans_2-like [IPR001173]', 'Nucleotide-diphossugar_trans [IPR029044]', 'TarS_C1 [IPR041038]']
+    Protids:
+      BD5tze-C-C-UD11
+      BD5tze-E-E-UD11
+      BD5tzj-A-A-UD11
+      BD5tzj-C-C-UD11
+  Protein 48:
+    Protein names : ['Polysaccharide biosynthesis protein CapD']
+    LeidenCluster : LC02
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD6bwc-A-A-UD11
+      BD6bwc-B-B-UD11
+      BD6bwc-C-C-UD11
+      BD6bwc-D-D-UD11
+      BD6bwc-E-E-UD11
+      BD6bwc-F-F-UD11
+  Protein 49:
+    Protein names : ['UDP-galactopyranose mutase']
+    LeidenCluster : LC00
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD6d9d-A-A-UD11
+      BD6d9e-A-A-UD11
+  Protein 50:
+    Protein names : ['Ectonucleotide pyrophosphatase/phosphodiesterase family member 3', 'E-NPP 3', 'Phosphodiesterase I beta', 'PD-Ibeta', 'Phosphodiesterase I/nucleotide pyrophosphatase 3', 'RB13-6 antigen']
+    LeidenCluster : LC00
+    Pfam          : PF01663;PF01033;
+    InterPro      : ['Alkaline_phosphatase_core_sf [IPR017850]', 'DNA/RNA_non-sp_Endonuclease [IPR001604]', 'DNA/RNA_non-sp_Endonuclease_sf [IPR044929]', 'Extracellular_endonuc_su_A [IPR020821]', 'His-Me_finger_sf [IPR044925]', 'Phosphodiest/P_Trfase [IPR002591]', 'Somatomedin_B-like_dom_sf [IPR036024]', 'Somatomedin_B_dom [IPR001212]']
+    Protids:
+      BD6f30-A-A-UD11
+      BD6f30-B-B-UD11
+  Protein 51:
+    Protein names : ['UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase', 'GlcNAc-1-P transferase', 'N-acetylglucosamine-1-phosphate transferase']
+    LeidenCluster : LC00
+    Pfam          : PF21383;PF00953;
+    InterPro      : ['DPAGT1_ins [IPR048439]', 'Glycosyl_transferase_4 [IPR000715]', 'GPT [IPR033895]']
+    Protids:
+      BD6fwz-A-A-UD11
+  Protein 52:
+    Protein names : ['Probable ss-1,3-N-acetylglucosaminyltransferase']
+    LeidenCluster : LC08
+    Pfam          : PF00535;
+    InterPro      : ['Glyco_trans_2-like [IPR001173]', 'Nucleotide-diphossugar_trans [IPR029044]']
+    Protids:
+      BD6h21-A-A-UD11
+      BD6h21-B-B-UD11
+      BD6h21-C-C-UD11
+      BD6h2n-A-A-UD11
+      BD6h2n-B-B-UD11
+      BD6h2n-C-C-UD11
+      BD6h4m-A-A-UD11
+      BD6h4m-B-B-UD11
+      BD6h4m-C-C-UD11
+      BD6h4m-D-D-UD11
+      BD6h4m-E-E-UD11
+      BD6h4m-F-F-UD11
+      BD6h4m-G-G-UD11
+      BD6h4m-H-H-UD11
+      BD6h4m-I-I-UD11
+      BD6h4m-O-O-UD11
+      BD6h4m-Q-Q-UD11
+  Protein 53:
+    Protein names : ['UDP-glucose 4-epimerase', 'UDP-galactose 4-epimerase']
+    LeidenCluster : LC02
+    Pfam          : PF16363;
+    InterPro      : ['NAD(P)-bd_dom [IPR016040]', 'NAD(P)-bd_dom_sf [IPR036291]', 'UDP_G4E [IPR005886]']
+    Protids:
+      BD6k0h-A-A-UD11
+  Protein 54:
+    Protein names : ['UDP-N-acetylglucosamine 1-carboxyvinyltransferase', 'Enoylpyruvate transferase', 'UDP-N-acetylglucosamine enolpyruvyl transferase']
+    LeidenCluster : LC01
+    Pfam          : PF00275;
+    InterPro      : ['Enolpyruvate_Tfrase_dom [IPR001986]', 'Enolpyruvate_Tfrase_sf [IPR036968]', 'MurA_subfamily [IPR050068]', "RNA3'P_cycl/enolpyr_Trfase_a/b [IPR013792]", 'UDP_GlcNAc_COvinyl_MurA [IPR005750]']
+    Protids:
+      BD6q0y-A-A-UD11
+      BD7tb0-A-A-UD11
+      BD7tb0-B-B-UD11
+      BD7tb0-C-C-UD11
+      BD7tb0-D-D-UD11
+  Protein 55:
+    Protein names : ['Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 1', 'D-fructose-6-phosphate amidotransferase 1', 'Glutamine:fructose-6-phosphate amidotransferase 1', 'GFAT1', 'Hexosephosphate aminotransferase 1']
+    LeidenCluster : LC11
+    Pfam          : PF13522;PF01380;
+    InterPro      : ['GATase_2_dom [IPR017932]', 'GFAT [IPR005855]', 'GFAT_N [IPR047084]', 'GlmS/AgaS_SIS [IPR035466]', 'GlmS/FrlB_SIS [IPR035490]', 'Ntn_hydrolases_N [IPR029055]', 'SIS_dom [IPR001347]', 'SIS_dom_sf [IPR046348]']
+    Protids:
+      BD6r4g-A-A-UD11
+      BD6r4g-B-B-UD11
+      BD6r4j-A-A-UD11
+      BD6r4j-B-B-UD11
+      BD6svp-A-A-UD11
+      BD6svp-B-B-UD11
+  Protein 56:
+    Protein names : ['UDP-N-acetylglucosamine 2-epimerase', 'UDP-GlcNAc 2-epimerase']
+    LeidenCluster : LC04
+    Pfam          : PF02350;
+    InterPro      : ['UDP_GlcNAc_Epimerase_2_dom [IPR003331]', 'WecB-like [IPR029767]']
+    Protids:
+      BD6vlc-A-A-UD11
+      BD6vlc-C-C-UD11
+  Protein 57:
+    Protein names : ['NAD-dependent epimerase/dehydratase family protein', 'PelX']
+    LeidenCluster : LC02
+    Pfam          : PF01370;
+    InterPro      : ['Epimerase_deHydtase [IPR001509]', 'Lipid_A_modif_metabolic_enz [IPR050177]', 'NAD(P)-bd_dom_sf [IPR036291]']
+    Protids:
+      BD6wj9-A-A-UD11
+      BD6wj9-B-B-UD11
+      BD6wjb-A-A-UD11
+      BD6wjb-B-B-UD11
+  Protein 58:
+    Protein names : ['UDP-N-acetylhexosamine pyrophosphorylase', 'Antigen X', 'Sperm-associated antigen 2']
+    LeidenCluster : LC09
+    Pfam          : PF01704;
+    InterPro      : ['Nucleotide-diphossugar_trans [IPR029044]', 'UDP-sugar_pyrophosphorylase [IPR039741]', 'UDPGP_fam [IPR002618]']
+    Protids:
+      BD6z2f-A-A-UD11
+      BD6z2f-B-B-UD11
+  Protein 59:
+    Protein names : ['UDP-N-acetylmuramate--L-alanine ligase', 'UDP-N-acetylmuramoyl-L-alanine synthetase']
+    LeidenCluster : LC00
+    Pfam          : PF01225;PF02875;PF08245;
+    InterPro      : ['Mur-like_cat_sf [IPR036565]', 'Mur_ligase_C [IPR004101]', 'Mur_ligase_C_dom_sf [IPR036615]', 'Mur_ligase_cen [IPR013221]', 'Mur_ligase_N [IPR000713]', 'MurCDEF_pg_biosynth [IPR050061]', 'UDP-N-AcMur_Ala_ligase_MurC [IPR005758]']
+    Protids:
+      BD7bvb-A-A-UD11
+      BD7bvb-B-B-UD11
+  Protein 60:
+    Protein names : ['N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase 2', 'Beta-1,3-N-acetylglucosaminyltransferase 1', 'Beta3Gn-T1,3-galactosyltransferase 7', 'b3Gal-T7', 'Beta-3-Gx-T7', 'UDP-Gal:beta-GlcNAc beta-1', 'UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2', 'Beta3Gn-T2', 'UDP-galactose:beta-N-acetylglucosamine beta-1']
+    LeidenCluster : LC05
+    Pfam          : PF01762;
+    InterPro      : ['Glyco_trans_31 [IPR002659]']
+    Protids:
+      BD7jhl-A-A-UD11
+      BD7jhl-B-B-UD11
+  Protein 61:
+    Protein names : ['N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase', 'N-acetylmannosaminyltransferase', 'UDP-N-acetylmannosamine transferase', 'UDP-N-acetylmannosamine:N-acetylglucosaminyl pyrophosphorylundecaprenol N-acetylmannosaminyltransferase']
+    LeidenCluster : LC00
+    Pfam          : PF03808;
+    InterPro      : ['TagA_TarA [IPR034714]', 'WecG_TagA_CpsF [IPR004629]']
+    Protids:
+      BD7mpk-A-A-UD11
+      BD7mpk-B-B-UD11
+      BD7mpk-C-C-UD11
+  Protein 62:
+    Protein names : ['N-acetylglucosamine-1-phosphotransferase subunit alpha', 'N-acetylglucosamine-1-phosphotransferase (GNPT) alpha (GNPTAB) catalytic domain', 'N-acetylglucosamine-1-phosphotransferase subunit beta']
+    LeidenCluster : LC05
+    Pfam          : PF00066;PF17101;PF11380;PF17102;PF17103;
+    InterPro      : ['EF_Hand_1_Ca_BS [IPR018247]', 'Notch_dom [IPR000800]', 'Stealth [IPR047141]', 'Stealth_CR1 [IPR031358]', 'Stealth_CR2 [IPR021520]', 'Stealth_CR3 [IPR031357]', 'Stealth_CR4 [IPR031356]']
+    Protids:
+      BD7sj2-A-A-UD11
+      BD7sj2-B-B-UD11
+  Protein 63:
+    Protein names : ['Hyaluronan synthase']
+    LeidenCluster : LC05
+    Pfam          : PF13641;
+    InterPro      : ['Nucleotide-diphossugar_trans [IPR029044]']
+    Protids:
+      BD7sp8-A-A-UD11
+  Protein 64:
+    Protein names : ['Chitin synthase']
+    LeidenCluster : LC05
+    Pfam          : PF01644;PF08407;
+    InterPro      : ['Chitin_synth [IPR004835]', 'Chitin_synth_fun [IPR004834]', 'Chitin_synth_N [IPR013616]', 'Nucleotide-diphossugar_trans [IPR029044]']
+    Protids:
+      BD7stm-A-A-UD11
+      BD7stm-B-B-UD11
+  Protein 65:
+    Protein names : ['Chitin synthase']
+    LeidenCluster : LC05
+    Pfam          : PF01644;
+    InterPro      : ['Chitin_synth [IPR004835]', 'Chitin_synth_fun [IPR004834]', 'Nucleotide-diphossugar_trans [IPR029044]']
+    Protids:
+      BD7wjn-A-A-UD11
+      BD7wjn-B-B-UD11
+  Protein 66:
+    Protein names : ['UDP-glucose 4-epimerase', 'UDP-Glc/GlcNAc Epimerase']
+    LeidenCluster : LC02
+    Pfam          : PF16363;
+    InterPro      : ['NAD(P)-bd_dom [IPR016040]', 'NAD(P)-bd_dom_sf [IPR036291]', 'UDP_G4E [IPR005886]']
+    Protids:
+      BD7xpq-A-A-UD11
+      BD7xpq-B-B-UD11
+  Protein 67:
+    Protein names : ['UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit', 'O-GlcNAc transferase subunit p110', 'O-linked N-acetylglucosamine transferase 110 kDa subunit']
+    LeidenCluster : LC10
+    Pfam          : PF13844;PF00515;PF13414;PF13424;PF13181;
+    InterPro      : ['OGT/SEC/SPY_C [IPR029489]', 'TPR-like_helical_dom_sf [IPR011990]', 'TPR_repeat [IPR019734]']
+    Protids:
+      BD8fe6-A-A-UD11
+      BD8fe6-C-C-UD11
+      BD8fe6-E-E-UD11
+      BD8fe6-G-G-UD11
+      BD8fe7-A-A-UD11
+      BD8fe7-C-C-UD11
+      BD8fe7-E-E-UD11
+      BD8fe7-G-G-UD11
+      BD8fuf-A-A-UD11
+      BD8fuf-C-C-UD11
+      BD8fuf-E-E-UD11
+      BD8fuf-G-G-UD11
+  Protein 68:
+    Protein names : nan
+    LeidenCluster : LC10
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD8fe7-A-C-UD11_A
+  Protein 69:
+    Protein names : ['TIGR04348 family glycosyltransferase']
+    LeidenCluster : LC04
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD8jjt-A-A-UD11
+      BD8jjt-B-B-UD11
+      BD8jjt-C-C-UD11
+  Protein 70:
+    Protein names : ['Chitin synthase 1', 'Chitin-UDP acetyl-glucosaminyl transferase 1']
+    LeidenCluster : LC05
+    Pfam          : PF01644;PF08407;
+    InterPro      : ['Chitin_synth [IPR004835]', 'Chitin_synth_fun [IPR004834]', 'Chitin_synth_N [IPR013616]', 'Nucleotide-diphossugar_trans [IPR029044]']
+    Protids:
+      BD8k3v-A-A-UD11
+      BD8k3v-B-B-UD11
+      BD8k3w-A-A-UD11
+      BD8k3w-B-B-UD11
+  Protein 71:
+    Protein names : ['UDP-2,3-diacetamido-2,3-dideoxy-glucuronic acid-2-epimerase']
+    LeidenCluster : LC04
+    Pfam          : PF02350;
+    InterPro      : ['UDP_GlcNAc_Epimerase_2_dom [IPR003331]', 'WecB-like [IPR029767]']
+    Protids:
+      BD8sy9-B-B-UD11
+      BD8syb-A-A-UD11
+      BD8syb-B-B-UD11
+      BD8syd-A-A-UD11
+      BD8syd-B-B-UD11
+  Protein 72:
+    Protein names : ['Glycosyltransferase', 'ugt transferase']
+    LeidenCluster : LC04
+    Pfam          : PF00201;
+    InterPro      : ['UDP_glucos_trans [IPR002213]', 'UDP_glycos_trans_CS [IPR035595]']
+    Protids:
+      BD8wvd-A-A-UD11
+  Protein 73:
+    Protein names : ['UDP-N-acetylglucosamine diphosphorylase']
+    LeidenCluster : LC09
+    Pfam          : PF01704;
+    InterPro      : ['Nucleotide-diphossugar_trans [IPR029044]', 'UDP-sugar_pyrophosphorylase [IPR039741]', 'UDPGP_fam [IPR002618]']
+    Protids:
+      BD8yp3-A-A-UD11
+      BD8yp3-B-B-UD11
+      BD8yp3-C-C-UD11
+      BD8yp3-D-D-UD11
+

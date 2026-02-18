@@ -1,0 +1,8 @@
+# Example input list for pocket
+# not split
+BD1a05-A-A-IPM1.pdb	IPM
+BD1a0q-H-H-HEP1.pdb	HEP
+BD1a0r-B-G-FAR1.pdb	FAR
+BD1a2q-A-A-ACN1.pdb	ACN
+BD1a3i-A-A-ACY1.pdb	ACY
+# ....etc

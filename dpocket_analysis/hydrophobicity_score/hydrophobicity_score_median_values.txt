@@ -1,0 +1,9 @@
+Lipid class	Median hydrophobicity_score
+Sterol	53.000
+Polyketide	36.250
+Prenol	56.805
+Saccharolipid	18.720
+Sphingolipid	53.950
+Fatty Acyl	44.650
+Glycerophospholipid	51.000
+Glycerolipid	52.750

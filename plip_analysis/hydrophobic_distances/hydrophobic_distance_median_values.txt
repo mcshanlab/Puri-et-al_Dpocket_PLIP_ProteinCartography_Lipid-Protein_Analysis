@@ -1,0 +1,9 @@
+Lipid class	Median hydrophobic distance (Å)
+sterol	3.750
+Polyketide	3.730
+Prenol	3.720
+saccharo lipid	3.780
+Spingo lipid	3.770
+Fatty Acyl	3.780
+Glycerophopspholipid	3.760
+Glycerolipid	3.780

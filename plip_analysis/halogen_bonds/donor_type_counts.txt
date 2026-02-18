@@ -1,0 +1,6 @@
+class	Br	Cl	F
+Fatty Acyl	0	2	6
+Polyketide	19	42	13
+Prenol	0	8	16
+Spingo lipid	0	0	2
+sterol	0	0	4

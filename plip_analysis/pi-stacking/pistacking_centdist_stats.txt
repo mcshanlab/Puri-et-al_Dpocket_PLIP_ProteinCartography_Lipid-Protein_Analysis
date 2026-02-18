@@ -1,0 +1,8 @@
+Lipid class	Median (Å)	SD (Å)	N
+sterol	5.120	0.436	122
+Polyketide	4.275	0.642	960
+Prenol	3.800	0.585	491
+saccharo lipid	3.820	0.440	63
+Spingo lipid	5.320	nan	1
+Fatty Acyl	4.270	0.657	426
+Glycerophopspholipid	4.180	nan	1

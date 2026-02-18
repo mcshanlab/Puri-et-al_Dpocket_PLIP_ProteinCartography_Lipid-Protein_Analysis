@@ -1,0 +1,6 @@
+Lipid class	Median (°)	SD (°)
+sterol	129.29	5.99
+Polyketide	103.85	15.69
+Prenol	114.45	16.61
+Spingo lipid	145.82	3.77
+Fatty Acyl	110.78	19.45

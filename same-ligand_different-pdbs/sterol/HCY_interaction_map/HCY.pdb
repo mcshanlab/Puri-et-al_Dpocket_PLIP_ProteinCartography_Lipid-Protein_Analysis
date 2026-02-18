@@ -1,0 +1,59 @@
+HETATM    1  C1  HCY A1375      48.582 -15.449  11.648  1.00  0.00           C  
+HETATM    2  O1  HCY A1375      47.923 -14.828  15.158  1.00  0.00           O  
+HETATM    3  C2  HCY A1375      48.205 -15.916  13.053  1.00  0.00           C  
+HETATM    4  O2  HCY A1375      48.447 -15.256   8.184  1.00  0.00           O  
+HETATM    5  C3  HCY A1375      47.845 -14.742  13.942  1.00  0.00           C  
+HETATM    6  O3  HCY A1375      51.750 -11.038   7.605  1.00  0.00           O  
+HETATM    7  C4  HCY A1375      47.399 -13.470  13.357  1.00  0.00           C  
+HETATM    8  O4  HCY A1375      50.665 -10.940   4.442  1.00  0.00           O  
+HETATM    9  C5  HCY A1375      47.332 -13.277  12.033  1.00  0.00           C  
+HETATM   10  O5  HCY A1375      52.337 -12.814   3.761  1.00  0.00           O  
+HETATM   11  C6  HCY A1375      46.739 -11.979  11.562  1.00  0.00           C  
+HETATM   12  C7  HCY A1375      47.603 -11.330  10.502  1.00  0.00           C  
+HETATM   13  C8  HCY A1375      48.093 -12.323   9.450  1.00  0.00           C  
+HETATM   14  C9  HCY A1375      48.721 -13.592  10.034  1.00  0.00           C  
+HETATM   15  C10 HCY A1375      47.778 -14.327  11.019  1.00  0.00           C  
+HETATM   16  C11 HCY A1375      49.390 -14.505   8.967  1.00  0.00           C  
+HETATM   17  C12 HCY A1375      50.320 -13.715   8.027  1.00  0.00           C  
+HETATM   18  C13 HCY A1375      49.703 -12.431   7.476  1.00  0.00           C  
+HETATM   19  C14 HCY A1375      49.153 -11.610   8.635  1.00  0.00           C  
+HETATM   20  C15 HCY A1375      48.745 -10.316   7.986  1.00  0.00           C  
+HETATM   21  C16 HCY A1375      49.727 -10.114   6.843  1.00  0.00           C  
+HETATM   22  C17 HCY A1375      50.587 -11.349   6.806  1.00  0.00           C  
+HETATM   23  C18 HCY A1375      48.583 -12.842   6.525  1.00  0.00           C  
+HETATM   24  C19 HCY A1375      46.521 -14.861  10.327  1.00  0.00           C  
+HETATM   25  C20 HCY A1375      51.057 -11.614   5.387  1.00  0.00           C  
+HETATM   26  C21 HCY A1375      52.067 -12.691   5.159  1.00  0.00           C  
+HETATM   27  H   HCY A1375      48.924 -15.803   7.540  1.00  0.00           H  
+HETATM   28  H   HCY A1375      52.278 -10.359   7.156  1.00  0.00           H  
+HETATM   29  H   HCY A1375      52.993 -13.514   3.619  1.00  0.00           H  
+CONECT    1    3   15
+CONECT    2    5
+CONECT    3    1    5
+CONECT    4   27   16
+CONECT    5    3    2    7
+CONECT    6   28   22
+CONECT    7    5    9
+CONECT    8   25
+CONECT    9    7   11   15
+CONECT   10   29   26
+CONECT   11    9   12
+CONECT   12   11   13
+CONECT   13   12   14   19
+CONECT   14   13   15   16
+CONECT   15    1    9   14   24
+CONECT   16   14    4   17
+CONECT   17   16   18
+CONECT   18   17   19   22   23
+CONECT   19   13   18   20
+CONECT   20   19   21
+CONECT   21   20   22
+CONECT   22   18   21    6   25
+CONECT   23   18
+CONECT   24   15
+CONECT   25   22    8   26
+CONECT   26   25   10
+CONECT   27    4
+CONECT   28    6
+CONECT   29   10
+END

@@ -1,0 +1,8 @@
+class	P	T
+sterol	0.11926605504587157	1.0
+Polyketide	1.0	0.7877094972067039
+Prenol	1.0	0.20638820638820637
+saccharo lipid	1.0	0.10526315789473684
+Spingo lipid	0.0	1.0
+Fatty Acyl	1.0	0.8127659574468085
+Glycerophopspholipid	1.0	0.0

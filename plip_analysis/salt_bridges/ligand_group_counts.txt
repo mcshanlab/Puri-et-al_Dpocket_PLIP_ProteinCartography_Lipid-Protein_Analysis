@@ -1,0 +1,9 @@
+class	Carboxylate	Guanidine	Phosphate	Quartamine	Sulfate	Sulfonicacid	Sulfonium	Tertamine
+Fatty Acyl	9890	22	2716	11	0	1	0	4
+Glycerolipid	866	0	0	0	0	597	0	0
+Glycerophopspholipid	4116	4	7719	647	0	0	0	0
+Polyketide	502	42	6	0	4	5	0	139
+Prenol	309	4	1882	0	0	4	0	11
+Spingo lipid	4	0	92	6	6	0	0	0
+saccharo lipid	171	0	460	0	0	0	0	0
+sterol	960	0	3	22	28	57	1	6

@@ -1,0 +1,936 @@
+Ligands shared by distinct proteins:
+
+Ligand: 16C
+  Protein 1:
+    Protein names : ['Ceramide transfer protein', 'hCERT', 'Collagen type IV alpha-3-binding protein', 'Goodpasture antigen-binding protein', 'GPBP', 'START domain-containing protein 11', 'StARD11', 'StAR-related lipid transfer protein 11']
+    LeidenCluster : LC02
+    Pfam          : PF00169;PF01852;
+    InterPro      : ['PH-like_dom_sf [IPR011993]', 'PH_domain [IPR001849]', 'STARD11_START [IPR041952]', 'START-like_dom_sf [IPR023393]', 'START_lipid-bd_dom [IPR002913]', 'START_lipid_transfer [IPR051213]']
+    Protids:
+      BD2e3o-A-A-16C1
+      BD2e3p-A-A-16C1
+  Protein 2:
+    Protein names : ['Endoglycoceramidase II', 'EC 3.2.1.123']
+    LeidenCluster : LC05
+    Pfam          : PF00150;PF18564;
+    InterPro      : ['GH5_C [IPR041036]', 'Glyco_hydro_5 [IPR001547]', 'Glyco_hydro_5_CS [IPR018087]', 'Glyco_hydro_b [IPR013780]', 'Glycoside_hydrolase_SF [IPR017853]', 'Glycosphingolipid_Hydrolases [IPR052066]']
+    Protids:
+      BD2osx-A-A-16C1
+  Protein 3:
+    Protein names : ['Potassium channel subfamily K member 2', 'Outward rectifying potassium channel protein TREK-1', 'TREK-1 K(+) channel subunit', 'Two pore potassium channel TPKC1']
+    LeidenCluster : LC08
+    Pfam          : PF07885;
+    InterPro      : ['2pore_dom_K_chnl [IPR003280]', '2pore_dom_K_chnl_TREK [IPR003976]', 'K_chnl_dom [IPR013099]']
+    Protids:
+      BD6cq8-A-A-16C1
+      BD6cq9-A-A-16C1
+      BD6w8a-A-A-16C1
+      BD6w8f-A-A-16C1
+      BD8ue9-A-A-16C1
+      BD8uec-A-A-16C1
+      BD8uf6-A-A-16C1
+      BD8uf6-B-B-16C1
+  Protein 4:
+    Protein names : nan
+    LeidenCluster : LC08
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD6cq9-B-A-16C1_B
+      BD6w8f-B-A-16C1_B
+      BD8uf6-A-B-16C1_A
+  Protein 5:
+    Protein names : ['Sphingomyelin synthase-related protein 1', 'SMSr', 'Ceramide phosphoethanolamine synthase', 'CPE synthase', 'Sterile alpha motif domain-containing protein 8', 'SAM domain-containing protein 8']
+    LeidenCluster : LC06
+    Pfam          : PF14360;PF00536;
+    InterPro      : ['SAM [IPR001660]', 'SAM/pointed_sf [IPR013761]', 'Sphingomyelin_synth-like [IPR045221]', 'Sphingomyelin_synth-like_dom [IPR025749]']
+    Protids:
+      BD8ijq-A-A-16C1
+      BD8ijq-B-B-16C1
+      BD8ijq-C-C-16C1
+      BD8ijq-D-D-16C1
+      BD8ijq-E-E-16C1
+      BD8ijq-F-F-16C1
+
+Ligand: 18C
+  Protein 1:
+    Protein names : ['Ceramide transfer protein', 'hCERT', 'Collagen type IV alpha-3-binding protein', 'Goodpasture antigen-binding protein', 'GPBP', 'START domain-containing protein 11', 'StARD11', 'StAR-related lipid transfer protein 11']
+    LeidenCluster : LC02
+    Pfam          : PF00169;PF01852;
+    InterPro      : ['PH-like_dom_sf [IPR011993]', 'PH_domain [IPR001849]', 'STARD11_START [IPR041952]', 'START-like_dom_sf [IPR023393]', 'START_lipid-bd_dom [IPR002913]', 'START_lipid_transfer [IPR051213]']
+    Protids:
+      BD2e3q-A-A-18C1
+      BD2e3r-A-A-18C1
+  Protein 2:
+    Protein names : ['Putative secreted endoglycosylceramidase']
+    LeidenCluster : LC05
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD5j14-A-A-18C1
+      BD5j14-B-B-18C1
+      BD5j7z-A-A-18C1
+  Protein 3:
+    Protein names : nan
+    LeidenCluster : LC05
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD5j14-A-B-18C1_A
+      BD5j14-B-A-18C1_B
+
+Ligand: 1PW
+  Protein 1:
+    Protein names : ['Ceramide-1-phosphate transfer protein', 'CPTP', 'Glycolipid transfer protein domain-containing protein 1', 'GLTP domain-containing protein 1']
+    LeidenCluster : LC03
+    Pfam          : PF08718;
+    InterPro      : ['GLTP_sf [IPR036497]', 'Glycolipid_transfer_prot_dom [IPR014830]']
+    Protids:
+      BD4k80-A-A-1PW1
+  Protein 2:
+    Protein names : ['Accelerated cell death 11', 'Ceramide-1-phosphate transfer protein ACD11', 'Glycolipid transfer protein domain-containing protein ACD11']
+    LeidenCluster : LC04
+    Pfam          : PF08718;
+    InterPro      : ['GLTP_sf [IPR036497]', 'Glycolipid_transfer_prot_dom [IPR014830]']
+    Protids:
+      BD4nto-A-A-1PW1
+      BD4nto-B-B-1PW1
+      BD4nto-B-B-1PW2
+      BD4nto-C-C-1PW1
+      BD4nto-C-C-1PW2
+  Protein 3:
+    Protein names : nan
+    LeidenCluster : LC04
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD4nto-B-C-1PW1_B
+      BD4nto-B-C-1PW2_B
+  Protein 4:
+    Protein names : ['Sodium channel protein type 9 subunit alpha', 'Neuroendocrine sodium channel', 'hNE-Na', 'Peripheral sodium channel 1', 'PN1', 'Sodium channel protein type IX subunit alpha', 'Voltage-gated sodium channel subunit alpha Nav1.7']
+    LeidenCluster : LC02
+    Pfam          : PF00520;PF06512;PF11933;
+    InterPro      : ['Ion_trans_dom [IPR005821]', 'IQ_motif_EF-hand-BS [IPR000048]', 'Na_channel_asu [IPR001696]', 'Na_chnl_inactivation_gate [IPR044564]', 'Na_trans_assoc_dom [IPR010526]', 'Na_trans_cytopl [IPR024583]', 'VGCC_Ca_Na [IPR043203]', 'Volt_channel_dom_sf [IPR027359]']
+    Protids:
+      BD7w9k-A-A-1PW1
+      BD7w9p-A-A-1PW1
+      BD7xve-A-A-1PW1
+      BD7xvf-A-A-1PW1
+      BD8i5y-A-A-1PW1
+  Protein 5:
+    Protein names : ['Sodium channel protein type 9 subunit alpha', 'Neuroendocrine sodium channel', 'hNE-Na', 'Peripheral sodium channel 1', 'Sodium channel protein type IX subunit alpha', 'Voltage-gated sodium channel subunit alpha Nav1.7']
+    LeidenCluster : LC02
+    Pfam          : PF00520;PF06512;PF11933;
+    InterPro      : ['Ion_trans_dom [IPR005821]', 'IQ_motif_EF-hand-BS [IPR000048]', 'Na_channel_asu [IPR001696]', 'Na_chnl_inactivation_gate [IPR044564]', 'Na_trans_assoc_dom [IPR010526]', 'Na_trans_cytopl [IPR024583]', 'VGCC_Ca_Na [IPR043203]', 'Volt_channel_dom_sf [IPR027359]']
+    Protids:
+      BD8xmm-A-A-1PW1
+
+Ligand: 1PZ
+  Protein 1:
+    Protein names : ['Ceramide-1-phosphate transfer protein', 'CPTP', 'Glycolipid transfer protein domain-containing protein 1', 'GLTP domain-containing protein 1']
+    LeidenCluster : LC03
+    Pfam          : PF08718;
+    InterPro      : ['GLTP_sf [IPR036497]', 'Glycolipid_transfer_prot_dom [IPR014830]']
+    Protids:
+      BD4k85-A-A-1PZ1
+      BD4k85-B-B-1PZ1
+      BD4k85-C-C-1PZ1
+      BD4k85-D-D-1PZ1
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC03
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD4k85-A-B-1PZ1_A
+      BD4k85-B-A-1PZ1_B
+      BD4k85-C-D-1PZ1_C
+  Protein 3:
+    Protein names : ['Accelerated cell death 11', 'Ceramide-1-phosphate transfer protein ACD11', 'Glycolipid transfer protein domain-containing protein ACD11']
+    LeidenCluster : LC04
+    Pfam          : PF08718;
+    InterPro      : ['GLTP_sf [IPR036497]', 'Glycolipid_transfer_prot_dom [IPR014830]']
+    Protids:
+      BD4ntg-A-A-1PZ1
+      BD4nti-A-A-1PZ1
+      BD4nti-A-A-1PZ2
+      BD4nti-B-B-1PZ1
+  Protein 4:
+    Protein names : nan
+    LeidenCluster : LC04
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD4ntg-B-A-1PZ1_B
+
+Ligand: 1Q0
+  Protein 1:
+    Protein names : ['Ceramide-1-phosphate transfer protein', 'CPTP', 'Glycolipid transfer protein domain-containing protein 1', 'GLTP domain-containing protein 1']
+    LeidenCluster : LC03
+    Pfam          : PF08718;
+    InterPro      : ['GLTP_sf [IPR036497]', 'Glycolipid_transfer_prot_dom [IPR014830]']
+    Protids:
+      BD4k8n-A-A-1Q01
+      BD4k8n-B-B-1Q01
+      BD4k8n-C-C-1Q01
+      BD4k8n-F-F-1Q01
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC03
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD4k8n-D-F-1Q01_D
+      BD4k8n-E-A-1Q01_E
+      BD4k8n-F-D-1Q01_F
+  Protein 3:
+    Protein names : ['Genome polyprotein']
+    LeidenCluster : LC02
+    Pfam          : PF21659;PF02832;PF00869;PF01004;PF01570;
+    InterPro      : ['Env_glycoprot_M_flavivir [IPR000069]', 'Env_glycoprot_M_sf_flavivir [IPR038302]', 'Flav_gly_cen_dom_subdom1 [IPR013755]', 'Flavi_E_Ig-like [IPR027287]', 'Flavi_E_Stem/Anchor_dom [IPR026470]', 'Flavi_E_Stem/Anchor_dom_sf [IPR038345]', 'Flavi_Glycoprot_E_cen/dimer [IPR011998]', 'Flavi_propep [IPR002535]', 'Flavi_propep_sf [IPR038688]', 'Flavivir/Alphavir_Ig-like_sf [IPR000336]', 'Glycoprot_cen/dimer_sf [IPR036253]', 'Glycoprot_E_dimer_dom [IPR038055]', 'GlyE_cen_dom_subdom2 [IPR013756]', 'Ig_E-set [IPR014756]']
+    Protids:
+      BD7kv8-A-A-1Q01
+
+Ligand: 1T9
+  Protein 1:
+    Protein names : ['Ceramide-1-phosphate transfer protein', 'CPTP', 'Glycolipid transfer protein domain-containing protein 1', 'GLTP domain-containing protein 1']
+    LeidenCluster : LC03
+    Pfam          : PF08718;
+    InterPro      : ['GLTP_sf [IPR036497]', 'Glycolipid_transfer_prot_dom [IPR014830]']
+    Protids:
+      BD4kf6-A-A-1T91
+      BD4kf6-C-C-1T91
+      BD4kf6-F-F-1T91
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC03
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD4kf6-A-C-1T91_A
+      BD4kf6-D-A-1T91_D
+
+Ligand: 3GB
+  Protein 1:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'CD antigen CD1d.1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD3sdc-A-A-3GB1
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD3sdc-C-A-3GB1_C
+
+Ligand: 3GD
+  Protein 1:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'CD antigen CD1d.1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD3sdd-A-A-3GD1
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD3sdd-C-A-3GD1_C
+
+Ligand: 3GH
+  Protein 1:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'CD antigen CD1d.1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD3ard-A-A-3GH1
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD3ard-C-A-3GH1_C
+
+Ligand: 49X
+  Protein 1:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'CD antigen CD1d.1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD4y4h-A-A-49X1
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD4y4h-C-A-49X1_C
+
+Ligand: 4GH
+  Protein 1:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'CD antigen CD1d.1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD3are-A-A-4GH1
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD3are-C-A-4GH1_C
+      BD3vwk-C-A-4GH1_C
+  Protein 3:
+    Protein names : ['Antigen-presenting glycoprotein CD1d', 'R3G1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD3vwk-A-A-4GH1
+
+Ligand: CIS
+  Protein 1:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'CD antigen CD1d.1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD2akr-A-A-CIS1
+      BD2akr-C-C-CIS1
+      BD4apq-A-A-CIS1
+  Protein 2:
+    Protein names : ['Glycolipid transfer protein', 'GLTP']
+    LeidenCluster : LC04
+    Pfam          : PF08718;
+    InterPro      : ['GLTP_sf [IPR036497]', 'Glycolipid_transfer_prot_dom [IPR014830]']
+    Protids:
+      BD3ric-A-A-CIS1
+      BD3rzn-A-A-CIS1
+      BD3s0i-A-A-CIS1
+      BD4gjq-A-A-CIS1
+  Protein 3:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD4apq-C-A-CIS1_C
+      BD4ei5-D-A-CIS1_D
+      BD4mng-E-A-CIS1_E
+  Protein 4:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'CD1d']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD4ei5-A-A-CIS1
+      BD4ei5-E-E-CIS1
+  Protein 5:
+    Protein names : nan
+    LeidenCluster : LC04
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD4gjq-A-B-CIS1_A
+      BD4gjq-B-A-CIS1_B
+  Protein 6:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'CD antigen CD1d.1', 'Antigen-presenting glycoprotein CD1d', 'R3G1', 'CD antigen CD1d']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD4mng-A-A-CIS1
+      BD4mng-C-C-CIS1
+      BD4mq7-A-A-CIS1
+  Protein 7:
+    Protein names : ['T-cell surface glycoprotein CD1a', 'T-cell surface antigen T6/Leu-6', 'hTa1 thymocyte antigen', 'CD antigen CD1a']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD7ryn-A-A-CIS1
+
+Ligand: ELM
+  Protein 1:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'CD antigen CD1d.1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD6c69-A-A-ELM1
+  Protein 2:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'MCG3074', 'isoform CRA_a']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD6cx7-A-A-ELM1
+  Protein 3:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD6cx7-C-A-ELM1_C
+
+Ligand: ELS
+  Protein 1:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'CD antigen CD1d.1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD6c6f-A-A-ELS1
+  Protein 2:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'MCG3074', 'isoform CRA_a']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD6cxf-A-A-ELS1
+  Protein 3:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD6cxf-C-A-ELS1_C
+
+Ligand: FJJ
+  Protein 1:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'MCG3074', 'isoform CRA_a']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD6cwb-A-A-FJJ1
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD6cwb-C-A-FJJ1_C
+
+Ligand: FO4
+  Protein 1:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'CD antigen CD1d.1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD6cyw-A-A-FO41
+  Protein 2:
+    Protein names : ['T-cell surface glycoprotein CD1a', 'T-cell surface antigen T6/Leu-6', 'hTa1 thymocyte antigen', 'CD antigen CD1a']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD7kp1-A-A-FO41
+  Protein 3:
+    Protein names : ['Antigen-presenting glycoprotein CD1d', 'R3G1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD8sgb-A-A-FO41
+  Protein 4:
+    Protein names : ['Antigen-presenting glycoprotein CD1d', 'R3G1']
+    LeidenCluster : LC00
+    Pfam          : PF00170;PF03957;
+    InterPro      : ['AP-1_TF_bZIP [IPR050946]', 'bZIP [IPR004827]', 'bZIP_sf [IPR046347]', 'JNK [IPR005643]', 'Leuzip_Jun [IPR002112]', 'TF_DNA-bd_sf [IPR008917]']
+    Protids:
+      BD8sos-A-A-FO41
+      BD8sos-E-E-FO41
+
+Ligand: GCY
+  Protein 1:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'CD antigen CD1d.1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD3sda-A-A-GCY1
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD3sda-C-A-GCY1_C
+      BD3sdx-E-A-GCY1_E
+  Protein 3:
+    Protein names : ['Antigen-presenting glycoprotein CD1d', 'R3G1', 'CD antigen CD1d']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD3sdx-A-A-GCY1
+      BD3sdx-C-C-GCY1
+
+Ligand: HWP
+  Protein 1:
+    Protein names : ['ATP-binding cassette sub-family G member 1', 'EC 7.6.2.-', 'ATP-binding cassette transporter 8', 'White protein homolog']
+    LeidenCluster : LC02
+    Pfam          : PF01061;PF19055;PF00005;
+    InterPro      : ['AAA+_ATPase [IPR003593]', 'ABC2_TM [IPR013525]', 'ABC_transporter-like_ATP-bd [IPR003439]', 'ABC_transporter-like_CS [IPR017871]', 'ABCG_dom [IPR043926]', 'ABCG_transporters [IPR050352]', 'P-loop_NTPase [IPR027417]', 'Pigment_permease/Abcg [IPR005284]']
+    Protids:
+      BD7fdv-A-A-HWP1
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC02
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD7fdv-A-D-HWP1_A
+  Protein 3:
+    Protein names : ['Lens fiber major intrinsic protein', 'Aquaporin-0']
+    LeidenCluster : LC07
+    Pfam          : PF00230;
+    InterPro      : ['Aquaporin-like [IPR023271]', 'Aquaporin_transptr [IPR034294]', 'MIP [IPR000425]', 'MIP_CS [IPR022357]']
+    Protids:
+      BD8sjx-A-A-HWP1
+      BD8sjx-A-A-HWP2
+      BD8sjx-A-A-HWP3
+      BD8sjx-A-A-HWP4
+      BD8sjx-A-A-HWP5
+      BD8sjx-A-A-HWP6
+      BD8sjx-A-A-HWP7
+      BD8sjy-A-A-HWP1
+      BD8sjy-A-A-HWP2
+      BD8sjy-A-A-HWP3
+      BD8sjy-A-A-HWP4
+      BD8sjy-A-A-HWP5
+
+Ligand: JTD
+  Protein 1:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'CD antigen CD1d.1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD6mji-A-A-JTD1
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD6mji-C-A-JTD1_C
+
+Ligand: JTJ
+  Protein 1:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'CD antigen CD1d.1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD6mja-A-A-JTJ1
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD6mja-C-A-JTJ1_C
+
+Ligand: JTV
+  Protein 1:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'CD antigen CD1d.1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD6miy-A-A-JTV1
+      BD6miy-E-E-JTV1
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD6miy-C-A-JTV1_C
+
+Ligand: JU1
+  Protein 1:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'CD antigen CD1d.1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD6miv-A-A-JU11
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD6miv-C-A-JU11_C
+
+Ligand: JU4
+  Protein 1:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'CD antigen CD1d.1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD6mjj-A-A-JU41
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD6mjj-C-A-JU41_C
+
+Ligand: JUD
+  Protein 1:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'CD antigen CD1d.1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD6mjq-A-A-JUD1
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD6mjq-C-A-JUD1_C
+      BD6mjq-G-E-JUD1_G
+
+Ligand: LGN
+  Protein 1:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD3rzc-A-A-LGN1
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD3rzc-C-A-LGN1_C
+      BD3scm-C-A-LGN1_C
+  Protein 3:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'CD antigen CD1d.1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD3scm-A-A-LGN1
+
+Ligand: QOD
+  Protein 1:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1', 'CD antigen CD1d.1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD7m72-A-A-QOD1
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD7m72-C-A-QOD1_C
+
+Ligand: S1P
+  Protein 1:
+    Protein names : ['Apolipoprotein M', 'Apo-M', 'ApoM', 'Protein G3a']
+    LeidenCluster : LC02
+    Pfam          : PF11032;
+    InterPro      : ['ApoM [IPR022734]', 'Calycin [IPR012674]']
+    Protids:
+      BD2yg2-A-A-S1P1
+      BD2yg2-B-B-S1P1
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD3i9g-H-L-S1P1_H
+  Protein 3:
+    Protein names : ['Sonepcizumab antibody Fab fragment', 'light chain']
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD3i9g-L-L-S1P1
+  Protein 4:
+    Protein names : ['Hemoglobin subunit alpha', 'Alpha-globin', 'Hemoglobin alpha chain']
+    LeidenCluster : LC10
+    Pfam          : PF00042;
+    InterPro      : ['Globin [IPR000971]', 'Globin-like_sf [IPR009050]', 'Globin/Proto [IPR012292]', 'Hemoglobin_a-typ [IPR002338]', 'Hemoglobin_oxygen_transport [IPR050056]', 'Hemoglobin_pi [IPR002339]']
+    Protids:
+      BD5ksi-A-A-S1P1
+      BD5ksi-A-A-S1P2
+      BD5ksj-A-A-S1P1
+  Protein 5:
+    Protein names : nan
+    LeidenCluster : LC10
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD5ksi-A-D-S1P1_A
+      BD5ksi-B-A-S1P1_B
+      BD5ksi-B-C-S1P2_B
+      BD5ksi-D-A-S1P2_D
+      BD5ksi-D-C-S1P1_D
+  Protein 6:
+    Protein names : ['Hemoglobin subunit beta', 'Beta-globin', 'Hemoglobin beta chain']
+    LeidenCluster : LC10
+    Pfam          : PF00042;
+    InterPro      : ['Globin [IPR000971]', 'Globin-like_sf [IPR009050]', 'Globin/Proto [IPR012292]', 'Hemoglobin_b [IPR002337]', 'Hemoglobin_oxygen_transport [IPR050056]']
+    Protids:
+      BD5ksi-D-D-S1P1
+  Protein 7:
+    Protein names : ['Sphingosine 1-phosphate receptor 3', 'S1P receptor 3', 'S1P3', 'Endothelial differentiation G-protein coupled receptor 3', 'Sphingosine 1-phosphate receptor Edg-3', 'S1P receptor Edg-3']
+    LeidenCluster : LC06
+    Pfam          : PF00001;
+    InterPro      : ['EDG3_rcpt [IPR004062]', 'GPCR_Rhodpsn [IPR000276]', 'GPCR_Rhodpsn_7TM [IPR017452]', 'S1P_rcpt [IPR004061]']
+    Protids:
+      BD7c4s-A-A-S1P1
+      BD7c4s-B-B-S1P1
+      BD7ew3-R-R-S1P1
+  Protein 8:
+    Protein names : ['Sulfate transporter 4.1, chloroplastic', 'AST82']
+    LeidenCluster : LC05
+    Pfam          : PF01740;PF00916;
+    InterPro      : ['S04_transporter_CS [IPR018045]', 'SLC26A/SulP_dom [IPR011547]', 'SLC26A/SulP_fam [IPR001902]', 'STAS_dom [IPR002645]', 'STAS_dom_sf [IPR036513]']
+    Protids:
+      BD7lhv-A-A-S1P1
+      BD7lhv-A-A-S1P2
+  Protein 9:
+    Protein names : nan
+    LeidenCluster : LC05
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD7lhv-A-B-S1P1_A
+  Protein 10:
+    Protein names : ['Sphingosine 1-phosphate receptor 2', 'S1P receptor 2', 'S1P2', 'Endothelial differentiation G-protein coupled receptor 5', 'Sphingosine 1-phosphate receptor Edg-5', 'S1P receptor Edg-5']
+    LeidenCluster : LC06
+    Pfam          : PF00001;
+    InterPro      : ['EDG5_rcpt [IPR004063]', 'GPCR_Rhodpsn [IPR000276]', 'GPCR_Rhodpsn_7TM [IPR017452]', 'S1P_rcpt [IPR004061]']
+    Protids:
+      BD7t6b-R-R-S1P1
+  Protein 11:
+    Protein names : ['Sphingosine 1-phosphate receptor 1', 'S1P receptor 1', 'S1P1', 'Endothelial differentiation G-protein coupled receptor 1', 'Sphingosine 1-phosphate receptor Edg-1', 'S1P receptor Edg-1', 'CD antigen CD363']
+    LeidenCluster : LC06
+    Pfam          : PF00001;
+    InterPro      : ['EDG1 [IPR000987]', 'GPCR_Rhodpsn [IPR000276]', 'GPCR_Rhodpsn_7TM [IPR017452]', 'S1P_rcpt [IPR004061]']
+    Protids:
+      BD7td3-R-R-S1P1
+      BD7vie-F-F-S1P1
+      BD7wf7-A-A-S1P1
+  Protein 12:
+    Protein names : ['Sphingosine-1-phosphate transporter SPNS2', 'Protein spinster homolog 2']
+    LeidenCluster : LC02
+    Pfam          : PF07690;
+    InterPro      : ['MFS [IPR011701]', 'MFS_dom [IPR020846]', 'MFS_spinster-like [IPR044770]', 'MFS_trans_sf [IPR036259]']
+    Protids:
+      BD7yub-R-R-S1P1
+      BD8ex4-A-A-S1P1
+      BD8ex6-A-A-S1P1
+  Protein 13:
+    Protein names : ['Sphingosine-1-phosphate transporter SPNS2', 'GlgA glycogen synthase', 'Protein spinster homolog 2', 'Glycogen synthase']
+    LeidenCluster : LC02
+    Pfam          : PF13692;PF08323;
+    InterPro      : ['GS/SS [IPR011835]', 'Starch_synth_cat_dom [IPR013534]']
+    Protids:
+      BD8jhq-A-A-S1P1
+
+Ligand: SGF
+  Protein 1:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD4elm-A-A-SGF1
+      BD4elm-C-C-SGF1
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD4elm-F-C-SGF1_F
+  Protein 3:
+    Protein names : ['T-cell surface glycoprotein CD1b', 'CD antigen CD1b']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD8gle-A-A-SGF1
+
+Ligand: SPU
+  Protein 1:
+    Protein names : ['Calmodulin', 'CaM']
+    LeidenCluster : LC02
+    Pfam          : PF13499;
+    InterPro      : ['Calmodulin_Centrin_Ca-Bind [IPR050145]', 'EF-hand-dom_pair [IPR011992]', 'EF_Hand_1_Ca_BS [IPR018247]', 'EF_hand_dom [IPR002048]']
+    Protids:
+      BD3if7-A-A-SPU1
+      BD3if7-A-A-SPU2
+      BD3if7-A-A-SPU3
+      BD3if7-A-A-SPU4
+  Protein 2:
+    Protein names : ['Accelerated cell death 11', 'Ceramide-1-phosphate transfer protein ACD11', 'Glycolipid transfer protein domain-containing protein ACD11']
+    LeidenCluster : LC04
+    Pfam          : PF08718;
+    InterPro      : ['GLTP_sf [IPR036497]', 'Glycolipid_transfer_prot_dom [IPR014830]']
+    Protids:
+      BD4nt2-A-A-SPU1
+
+Ligand: SQS
+  Protein 1:
+    Protein names : ['Sphingosine kinase 1', 'SK 1', 'SPK 1']
+    LeidenCluster : LC05
+    Pfam          : PF00781;
+    InterPro      : ['ATP-NAD_kinase_N [IPR017438]', 'Diacylglycerol_kinase_cat_dom [IPR001206]', 'Lipid_Phosphate_FormReg [IPR050187]', 'NAD/diacylglycerol_kinase_sf [IPR016064]']
+    Protids:
+      BD3vzb-A-A-SQS1
+      BD3vzb-B-B-SQS1
+  Protein 2:
+    Protein names : ['Genome polyprotein']
+    LeidenCluster : LC02
+    Pfam          : PF08727;PF00548;PF02226;PF00947;PF01552;PF00680;PF00073;PF00910;
+    InterPro      : ['DNA/RNA_pol_sf [IPR043502]', 'Helicase_SF3_ssDNA/RNA_vir [IPR000605]', 'Helicase_SF3_ssRNA_vir [IPR014759]', 'P-loop_NTPase [IPR027417]', 'P3A [IPR014838]', 'P3A_soluble_dom [IPR036203]', 'PCV_3C_PRO [IPR044067]', 'Peptidase_C3 [IPR000081]', 'Peptidase_C3A/C3B_picornavir [IPR000199]', 'Peptidase_S1_PA [IPR009003]', 'Peptidase_S1_PA_chymotrypsin [IPR043504]', 'Pico_P1A [IPR003138]', 'Pico_P2B [IPR002527]', 'Picornavirus_capsid [IPR001676]', 'Rev_trsase/Diguanyl_cyclase [IPR043128]', 'Rhv-like [IPR033703]', 'RNA-dir_pol_C [IPR001205]', 'RNA-dir_pol_PSvirus [IPR007094]', 'Viral_coat [IPR029053]']
+    Protids:
+      BD8c6d-A-A-SQS1
+
+Ligand: V8P
+  Protein 1:
+    Protein names : ['Antigen-presenting glycoprotein CD1d1']
+    LeidenCluster : LC00
+    Pfam          : PF07654;PF16497;
+    InterPro      : ['Ig-like_dom [IPR007110]', 'Ig-like_dom_sf [IPR036179]', 'Ig-like_fold [IPR013783]', 'Ig_C1-set [IPR003597]', 'MHC_class-I_related [IPR050208]', 'MHC_I-like_Ag-recog [IPR011161]', 'MHC_I-like_Ag-recog_sf [IPR037055]', 'MHC_I/II-like_Ag-recog [IPR011162]']
+    Protids:
+      BD6xng-A-A-V8P1
+      BD6xng-A-A-V8P2
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC01
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD6xng-C-A-V8P2_C
+
+Ligand: Z1T
+  Protein 1:
+    Protein names : nan
+    LeidenCluster : LC05
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD7yiy-B-D-Z1T1_B
+      BD7yjm-B-D-Z1T1_B
+      BD7yjo-B-D-Z1T1_B
+  Protein 2:
+    Protein names : ['ORM1-like protein 3']
+    LeidenCluster : LC09
+    Pfam          : PF04061;
+    InterPro      : ['ORMDL [IPR007203]']
+    Protids:
+      BD7yiy-D-D-Z1T1
+  Protein 3:
+    Protein names : ['Long chain base biosynthesis protein 2a', 'AtLCB2a', 'EC 2.3.1.50', 'Long chain base biosynthesis protein 2', 'AtLCB2']
+    LeidenCluster : LC05
+    Pfam          : PF00155;
+    InterPro      : ['Aminotrans_II_pyridoxalP_BS [IPR001917]', 'Aminotransferase_I/II [IPR004839]', 'AON_synthase_class-II [IPR050087]', 'PyrdxlP-dep_Trfase [IPR015424]', 'PyrdxlP-dep_Trfase_major [IPR015421]', 'PyrdxlP-dep_Trfase_small [IPR015422]']
+    Protids:
+      BD7yjk-B-B-Z1T1
+  Protein 4:
+    Protein names : nan
+    LeidenCluster : LC09
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD7yjk-D-B-Z1T1_D
+  Protein 5:
+    Protein names : ['ORMDL family protein', 'Uncharacterized protein At1g01230']
+    LeidenCluster : LC09
+    Pfam          : PF04061;
+    InterPro      : ['ORMDL [IPR007203]']
+    Protids:
+      BD7yjm-D-D-Z1T1
+      BD7yjo-D-D-Z1T1
+  Protein 6:
+    Protein names : ['Serine palmitoyltransferase 2', 'SPT 2', 'Long chain base biosynthesis protein 2']
+    LeidenCluster : LC05
+    Pfam          : PF00155;
+    InterPro      : ['Aminotrans_II_pyridoxalP_BS [IPR001917]', 'Aminotransferase_I/II [IPR004839]', 'AON_synthase_class-II [IPR050087]', 'PyrdxlP-dep_Trfase [IPR015424]', 'PyrdxlP-dep_Trfase_major [IPR015421]', 'PyrdxlP-dep_Trfase_small [IPR015422]']
+    Protids:
+      BD8iaj-B-B-Z1T1
+      BD8iaj-F-F-Z1T1
+  Protein 7:
+    Protein names : ['Protein ORM2']
+    LeidenCluster : LC09
+    Pfam          : PF04061;
+    InterPro      : ['ORMDL [IPR007203]']
+    Protids:
+      BD8iam-D-D-Z1T1
+      BD8iam-H-H-Z1T1
+
+Ligand: Z8A
+  Protein 1:
+    Protein names : ['Protein ORM1']
+    LeidenCluster : LC09
+    Pfam          : PF04061;
+    InterPro      : ['ORMDL [IPR007203]']
+    Protids:
+      BD8c80-A-A-Z8A1
+      BD8c81-A-A-Z8A1
+      BD8c82-A-A-Z8A1
+      BD8c82-E-E-Z8A1
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC05
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD8c82-C-A-Z8A1_C
+
+Ligand: ZKM
+  Protein 1:
+    Protein names : ['Toll-like receptor 4', 'CD antigen CD284', 'Variable lymphocyte receptor B']
+    LeidenCluster : LC02
+    Pfam          : PF11921;PF13855;PF01462;
+    InterPro      : ['Leu-rich_rpt [IPR001611]', 'Leu-rich_rpt_typical-subtyp [IPR003591]', 'LRFN [IPR050467]', 'LRR_dom_sf [IPR032675]', 'LRRNT [IPR000372]', 'Variable_lymphocyte_rcpt_C [IPR024592]']
+    Protids:
+      BD7mlm-A-A-ZKM1
+      BD7mlm-A-A-ZKM2
+  Protein 2:
+    Protein names : nan
+    LeidenCluster : LC02
+    Pfam          : nan
+    InterPro      : nan
+    Protids:
+      BD7mlm-C-A-ZKM1_C
+      BD7mlm-C-A-ZKM2_C
+  Protein 3:
+    Protein names : ['Lymphocyte antigen 96', 'Ly-96', 'ESOP-1', 'Protein MD-2']
+    LeidenCluster : LC02
+    Pfam          : nan
+    InterPro      : ['Ig_E-set [IPR014756]', 'LY96 [IPR039217]', 'ML_dom [IPR003172]']
+    Protids:
+      BD7mlm-C-C-ZKM1
+

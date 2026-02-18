@@ -1,0 +1,8 @@
+class	Aromatic	guanidine	quartamine	tertamine
+Fatty Acyl	413	3	27	2
+Glycerophopspholipid	2	0	737	0
+Polyketide	122	3	0	9
+Prenol	47	1	0	1
+Spingo lipid	0	0	2	0
+saccharo lipid	5	0	0	0
+sterol	20	0	4	0

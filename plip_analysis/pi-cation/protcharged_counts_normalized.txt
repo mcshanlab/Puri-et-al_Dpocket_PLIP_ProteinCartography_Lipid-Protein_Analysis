@@ -1,0 +1,8 @@
+class	True	False
+sterol	1.0	0.2
+Polyketide	1.0	0.09836065573770492
+Prenol	1.0	0.0425531914893617
+saccharo lipid	1.0	0.0
+Spingo lipid	0.0	1.0
+Fatty Acyl	1.0	0.0774818401937046
+Glycerophopspholipid	0.0027137042062415195	1.0

@@ -1,0 +1,10 @@
+mode: "cluster"
+analysis_name: "cluster-mode-sterols"
+input_dir: "demo/cluster-mode_sterols/input"
+output_dir: "demo/cluster-mode_sterols/output"
+
+plotting_modes:
+- "pca_umap"
+- "pca_tsne"
+
+features_file: "uniprot_features.tsv"

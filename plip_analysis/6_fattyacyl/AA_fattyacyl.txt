@@ -1,0 +1,78 @@
+### Halogen Bonds
+   2 ASP
+   1 SER
+   1 LYS
+   1 LEU
+   1 GLU
+   1 GLN
+   1 ASN
+
+### Hydrogen Bonds
+4361 SER
+3522 ARG
+3093 TYR
+2665 THR
+2646 GLY
+2597 ASN
+1977 ASP
+1966 GLN
+1852 GLU
+1665 LYS
+1455 ALA
+1449 LEU
+ 936 VAL
+ 904 HIS
+ 861 PHE
+ 680 ILE
+ 636 TRP
+ 313 MET
+ 302 CYS
+ 190 PRO
+
+### Hydrophobic Interactions
+13637 LEU
+13303 PHE
+8793 ILE
+7406 VAL
+7336 TYR
+5782 TRP
+4574 ALA
+2121 THR
+1605 PRO
+ 967 LYS
+ 836 GLU
+ 685 ARG
+ 674 GLN
+ 484 ASN
+ 470 MET
+ 416 ASP
+ 403 HIS
+  44 SER
+  23 GLY
+   8 CYS
+
+### Metal Complexes
+   1 CYS
+
+### pi-Cation Interactions
+ 370 ARG
+  22 HIS
+  21 LYS
+  18 TRP
+  11 TYR
+   3 PHE
+
+### pi-Stacking
+ 232 PHE
+  82 TYR
+  61 TRP
+  50 HIS
+   1 PRO
+
+### Salt Bridges
+6166 ARG
+3310 LYS
+3131 HIS
+  24 ASP
+  13 GLU
+

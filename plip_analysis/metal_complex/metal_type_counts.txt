@@ -1,0 +1,3 @@
+class	Au	Fe	Ru
+Fatty Acyl	1	17	0
+Prenol	0	0	8

@@ -1,0 +1,3 @@
+Lipid class	Median (Å)	SD (Å)
+Prenol	2.185	0.193
+Fatty Acyl	2.800	0.141

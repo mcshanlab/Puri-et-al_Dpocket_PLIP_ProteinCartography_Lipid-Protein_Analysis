@@ -1,0 +1,9 @@
+Polarity score
+Sterol	3.000
+Polyketide	8.000
+Prenol	3.000
+Saccharolipid	16.000
+Sphingolipid	8.000
+Fatty Acyl	3.000
+Glycerophospholipid	4.000
+Glycerolipid	3.000

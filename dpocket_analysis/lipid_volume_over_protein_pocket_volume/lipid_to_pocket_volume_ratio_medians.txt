@@ -1,0 +1,9 @@
+Lipid class	Median (Lipid Volume / Pocket Volume)
+Sterol	0.671
+Polyketide	0.432
+Prenol	0.734
+Saccharolipid	0.405
+Sphingolipid	0.447
+Fatty Acyl	0.395
+Glycerophospholipid	0.911
+Glycerolipid	0.902

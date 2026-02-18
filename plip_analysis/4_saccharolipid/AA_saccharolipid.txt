@@ -1,0 +1,54 @@
+### Hydrogen Bonds
+ 378 ASP
+ 347 ARG
+ 332 GLY
+ 280 ASN
+ 265 THR
+ 214 GLN
+ 195 SER
+ 183 GLU
+ 168 HIS
+ 164 LYS
+ 117 TYR
+ 114 ALA
+ 106 LEU
+  78 VAL
+  41 PHE
+  34 ILE
+  13 TRP
+  13 MET
+   7 PRO
+   3 CYS
+
+### Hydrophobic Interactions
+ 215 LEU
+ 147 PHE
+  62 TYR
+  61 VAL
+  54 ILE
+  39 TRP
+  38 ALA
+  24 LYS
+  22 GLU
+  16 THR
+  15 PRO
+   9 ASN
+   9 ARG
+   7 HIS
+   7 GLN
+   1 ASP
+
+### pi-Cation Interactions
+   5 ARG
+
+### pi-Stacking
+  29 PHE
+  20 HIS
+   8 TYR
+   6 TRP
+
+### Salt Bridges
+ 290 ARG
+ 180 LYS
+ 161 HIS
+

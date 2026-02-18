@@ -1,0 +1,43 @@
+HETATM    1  C1  EIC A 208      -7.651   6.558  43.662  0.50  0.00           C  
+HETATM    2  O1  EIC A 208      -7.763   5.755  42.708  0.50  0.00           O  
+HETATM    3  C2  EIC A 208      -8.871   7.331  44.105  0.50  0.00           C  
+HETATM    4  O2  EIC A 208      -6.568   6.759  44.262  0.50  0.00           O  
+HETATM    5  C3  EIC A 208      -9.213   8.304  42.991  0.50  0.00           C  
+HETATM    6  C4  EIC A 208      -9.881   9.584  43.481  0.50  0.00           C  
+HETATM    7  C5  EIC A 208      -9.472  10.784  42.628  0.50  0.00           C  
+HETATM    8  C6  EIC A 208     -10.672  11.407  41.911  0.50  0.00           C  
+HETATM    9  C7  EIC A 208     -11.299  12.439  42.829  0.50  0.00           C  
+HETATM   10  C8  EIC A 208     -12.362  13.302  42.168  0.50  0.00           C  
+HETATM   11  C9  EIC A 208     -12.488  14.545  43.018  0.50  0.00           C  
+HETATM   12  C10 EIC A 208     -12.102  15.751  42.584  0.50  0.00           C  
+HETATM   13  C11 EIC A 208     -11.527  15.969  41.199  0.50  0.00           C  
+HETATM   14  C12 EIC A 208     -12.392  16.951  40.419  0.50  0.00           C  
+HETATM   15  C13 EIC A 208     -11.894  17.880  39.580  0.50  0.00           C  
+HETATM   16  C14 EIC A 208     -10.414  18.054  39.326  0.50  0.00           C  
+HETATM   17  C15 EIC A 208     -10.092  19.532  39.078  0.50  0.00           C  
+HETATM   18  C16 EIC A 208      -9.427  19.788  37.720  0.50  0.00           C  
+HETATM   19  C17 EIC A 208      -9.648  21.224  37.230  0.50  0.00           C  
+HETATM   20  C18 EIC A 208      -8.338  21.975  37.162  0.50  0.00           C  
+HETATM   21  H   EIC A 208      -6.532   7.370  44.971  1.00  0.00           H  
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1    5
+CONECT    4    1   21
+CONECT    5    3    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19
+CONECT   21    4
+END

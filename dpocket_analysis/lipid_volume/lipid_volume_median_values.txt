@@ -1,0 +1,9 @@
+Lipid class	Median lipid volume (Å³)
+Sterol	329.820
+Polyketide	290.235
+Prenol	474.850
+Saccharolipid	418.160
+Sphingolipid	510.005
+Fatty Acyl	167.990
+Glycerophospholipid	514.370
+Glycerolipid	395.255

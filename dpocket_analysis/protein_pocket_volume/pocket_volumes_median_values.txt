@@ -1,0 +1,9 @@
+Lipid class	Median pocket volume (Å³)
+Sterol	488.42
+Polyketide	677.66
+Prenol	601.50
+Saccharolipid	1030.72
+Sphingolipid	981.21
+Fatty Acyl	345.17
+Glycerophospholipid	488.03
+Glycerolipid	436.99

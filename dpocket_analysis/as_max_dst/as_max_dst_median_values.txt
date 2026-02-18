@@ -1,0 +1,9 @@
+as_max_dst
+Sterol	14.490
+Polyketide	14.205
+Prenol	18.380
+Saccharolipid	18.050
+Sphingolipid	19.985
+Fatty Acyl	10.750
+Glycerophospholipid	16.500
+Glycerolipid	15.400
