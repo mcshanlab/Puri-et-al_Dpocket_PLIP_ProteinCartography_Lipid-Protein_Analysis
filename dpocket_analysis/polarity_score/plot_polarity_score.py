@@ -90,6 +90,19 @@ data_list = [merged[merged["class"] == c][prop_col] for c in target_sheets]
 sample_sizes = [len(vals) for vals in data_list]
 
 # --------------------------------------
+# EXPORT EXACT VALUES USED IN VIOLIN PLOT
+# --------------------------------------
+violin_output_file = "polarity_score_violin_values.tsv"
+
+with open(violin_output_file, "w") as f:
+    f.write("class\tpolarity_score\n")
+    for cls, vals in zip(target_sheets, data_list):
+        for v in vals:
+            f.write(f"{cls}\t{v}\n")
+
+print(f"Saved violin plot values to: {violin_output_file}")
+
+# --------------------------------------
 # Calculate medians and save to text file
 # --------------------------------------
 medians = [vals.median() for vals in data_list]

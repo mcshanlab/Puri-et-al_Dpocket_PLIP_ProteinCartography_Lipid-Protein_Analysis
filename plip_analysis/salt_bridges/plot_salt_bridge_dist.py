@@ -12,7 +12,7 @@ from pathlib import Path
 # --------------------------------------
 # User configuration
 # --------------------------------------
-base_dir = Path("/Users/amcshan3/Desktop/Manuscripts/PLIP_Dpocket_Lipid_Puri_2025/used-to-make/plip_amino_acid/salt_bridges")
+base_dir = Path(".")
 output_pdf = "saltbridge_distance_violin.pdf"
 median_output_txt = "saltbridge_distance_medians.txt"
 
@@ -75,6 +75,20 @@ merged = pd.concat(all_data, ignore_index=True)
 target_classes = merged["class"].unique().tolist()
 merged["class"] = pd.Categorical(merged["class"], categories=target_classes, ordered=True)
 data_list = [merged[merged["class"] == c]["distance"] for c in target_classes]
+
+
+# --------------------------------------
+# EXPORT EXACT VALUES USED IN VIOLIN PLOT
+# --------------------------------------
+violin_output_file = "saltbridge_distance_violin_values.tsv"
+
+with open(violin_output_file, "w") as f:
+    f.write("class\tsaltbridge_distance\n")
+    for cls, vals in zip(target_classes, data_list):
+        for v in vals:
+            f.write(f"{cls}\t{v}\n")
+
+print(f"Saved violin plot values to: {violin_output_file}")
 
 # --------------------------------------
 # Save medians and standard deviations

@@ -1,0 +1,16 @@
+GO Cellular Component	Median pocket volume (Å³)
+plasma membrane [GO:0005886]	453.12
+plasma membrane-derived thylakoid membrane [GO:0031676]	496.56
+membrane [GO:0016020]	458.25
+photosystem II [GO:0009523]	529.55
+cytoplasm [GO:0005737]	564.18
+mitochondrial inner membrane [GO:0005743]	463.64
+cytosol [GO:0005829]	502.30
+photosystem I [GO:0009522]	578.21
+chloroplast thylakoid membrane [GO:0009535]	543.38
+mitochondrion [GO:0005739]	441.73
+respiratory chain complex IV [GO:0045277]	419.29
+nucleus [GO:0005634]	612.25
+endoplasmic reticulum membrane [GO:0005789]	477.09
+endoplasmic reticulum [GO:0005783]	593.40
+mitochondrial respiratory chain complex I [GO:0005747]	442.43

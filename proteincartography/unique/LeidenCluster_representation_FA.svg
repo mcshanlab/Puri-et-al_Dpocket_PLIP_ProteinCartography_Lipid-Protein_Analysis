@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 523.9" style="enable-background:new 0 0 1200 523.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'ArialMT';}
+	.st1{font-size:18px;}
+	.st2{fill:none;stroke:#000000;}
+	.st3{font-size:10px;}
+	.st4{font-size:14px;}
+	.st5{fill:#4682B4;stroke:#000000;}
+	.st6{fill:none;stroke:#FF0000;stroke-width:2;}
+	.st7{fill:#FF0000;}
+</style>
+<text transform="matrix(1 0 0 1 437.5 31.7903)" class="st0 st1">LeidenCluster Representation (Top 40) - Fatty Acyls</text>
+<line class="st2" x1="70" y1="473.9" x2="1120" y2="473.9"/>
+<line class="st2" x1="70" y1="473.9" x2="70" y2="22.9"/>
+<line class="st2" x1="1120" y1="473.9" x2="1120" y2="22.9"/>
+<line class="st2" x1="65" y1="473.9" x2="70" y2="473.9"/>
+<text transform="matrix(1 0 0 1 54.4385 477.89)" class="st0 st3">0</text>
+<line class="st2" x1="65" y1="383.9" x2="70" y2="383.9"/>
+<text transform="matrix(1 0 0 1 37.7539 387.9255)" class="st0 st3">1015</text>
+<line class="st2" x1="65" y1="294" x2="70" y2="294"/>
+<text transform="matrix(1 0 0 1 37.7539 297.9609)" class="st0 st3">2030</text>
+<line class="st2" x1="65" y1="203.9" x2="70" y2="203.9"/>
+<text transform="matrix(1 0 0 1 37.7539 207.9077)" class="st0 st3">3046</text>
+<line class="st2" x1="65" y1="113.9" x2="70" y2="113.9"/>
+<text transform="matrix(1 0 0 1 37.7539 117.9432)" class="st0 st3">4061</text>
+<line class="st2" x1="65" y1="23.9" x2="70" y2="23.9"/>
+<text transform="matrix(1 0 0 1 37.7539 27.89)" class="st0 st3">5077</text>
+<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 15 289.2455)" class="st0 st4">Number of structures</text>
+<line class="st2" x1="1120" y1="473.9" x2="1125" y2="473.9"/>
+<text transform="matrix(1 0 0 1 1130 477.89)" class="st0 st3">0.0</text>
+<line class="st2" x1="1120" y1="383.9" x2="1125" y2="383.9"/>
+<text transform="matrix(1 0 0 1 1130 387.89)" class="st0 st3">0.2</text>
+<line class="st2" x1="1120" y1="293.9" x2="1125" y2="293.9"/>
+<text transform="matrix(1 0 0 1 1130 297.89)" class="st0 st3">0.4</text>
+<line class="st2" x1="1120" y1="203.9" x2="1125" y2="203.9"/>
+<text transform="matrix(1 0 0 1 1130 207.89)" class="st0 st3">0.6</text>
+<line class="st2" x1="1120" y1="113.9" x2="1125" y2="113.9"/>
+<text transform="matrix(1 0 0 1 1130 117.89)" class="st0 st3">0.8</text>
+<line class="st2" x1="1120" y1="23.9" x2="1125" y2="23.9"/>
+<text transform="matrix(1 0 0 1 1130 27.89)" class="st0 st3">1.0</text>
+<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 1162.6992 164.351)" class="st0 st4">Cumulative fraction</text>
+<rect x="70" y="23.9" class="st5" width="21" height="450"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 62.1631 507.7267)" class="st0 st3">LC000</text>
+<rect x="96.2" y="317.9" class="st5" width="21" height="156"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 88.4131 507.7267)" class="st0 st3">LC001</text>
+<rect x="122.5" y="320.8" class="st5" width="21" height="153.1"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 114.6631 507.7267)" class="st0 st3">LC002</text>
+<rect x="148.8" y="401.8" class="st5" width="21" height="72.1"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 140.9131 507.7267)" class="st0 st3">LC003</text>
+<rect x="175" y="406.7" class="st5" width="21" height="67.2"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 167.1631 507.7267)" class="st0 st3">LC004</text>
+<rect x="201.2" y="408.4" class="st5" width="21" height="65.5"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 193.4131 507.7267)" class="st0 st3">LC005</text>
+<rect x="227.5" y="413.8" class="st5" width="21" height="60.1"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 219.6631 507.7267)" class="st0 st3">LC006</text>
+<rect x="253.8" y="415.5" class="st5" width="21" height="58.4"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 245.9131 507.7267)" class="st0 st3">LC007</text>
+<rect x="280" y="417.7" class="st5" width="21" height="56.2"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 272.1631 507.7267)" class="st0 st3">LC008</text>
+<rect x="306.2" y="417.9" class="st5" width="21" height="56"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 298.4131 507.7267)" class="st0 st3">LC009</text>
+<rect x="332.5" y="425.2" class="st5" width="21" height="48.7"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 324.6631 507.7267)" class="st0 st3">LC010</text>
+<rect x="358.8" y="429" class="st5" width="21" height="44.9"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 351.438 507.2023)" class="st0 st3">LC011</text>
+<rect x="385" y="429.2" class="st5" width="21" height="44.7"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 377.1631 507.7267)" class="st0 st3">LC012</text>
+<rect x="411.2" y="429.4" class="st5" width="21" height="44.5"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 403.4131 507.7267)" class="st0 st3">LC013</text>
+<rect x="437.5" y="430" class="st5" width="21" height="43.9"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 429.6631 507.7267)" class="st0 st3">LC014</text>
+<rect x="463.8" y="433.4" class="st5" width="21" height="40.5"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 455.9131 507.7267)" class="st0 st3">LC015</text>
+<rect x="490" y="435.2" class="st5" width="21" height="38.7"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 482.1631 507.7267)" class="st0 st3">LC016</text>
+<rect x="516.2" y="435.6" class="st5" width="21" height="38.3"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 508.4131 507.7267)" class="st0 st3">LC017</text>
+<rect x="542.5" y="436.8" class="st5" width="21" height="37.1"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 534.6631 507.7267)" class="st0 st3">LC018</text>
+<rect x="568.8" y="438.9" class="st5" width="21" height="35"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 560.9131 507.7267)" class="st0 st3">LC019</text>
+<rect x="595" y="440.6" class="st5" width="21" height="33.3"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 587.1631 507.7267)" class="st0 st3">LC020</text>
+<rect x="621.2" y="442.4" class="st5" width="21" height="31.5"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 613.4131 507.7267)" class="st0 st3">LC021</text>
+<rect x="647.5" y="442.9" class="st5" width="21" height="31"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 639.6631 507.7267)" class="st0 st3">LC022</text>
+<rect x="673.8" y="443.4" class="st5" width="21" height="30.5"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 665.9131 507.7267)" class="st0 st3">LC023</text>
+<rect x="700" y="444.2" class="st5" width="21" height="29.7"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 692.1631 507.7267)" class="st0 st3">LC024</text>
+<rect x="726.2" y="447.3" class="st5" width="21" height="26.6"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 718.4131 507.7267)" class="st0 st3">LC025</text>
+<rect x="752.5" y="447.7" class="st5" width="21" height="26.2"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 744.6631 507.7267)" class="st0 st3">LC026</text>
+<rect x="778.8" y="448.9" class="st5" width="21" height="25"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 770.9131 507.7267)" class="st0 st3">LC027</text>
+<rect x="805" y="449" class="st5" width="21" height="24.9"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 797.1631 507.7267)" class="st0 st3">LC028</text>
+<rect x="831.2" y="449.1" class="st5" width="21" height="24.8"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 823.4131 507.7267)" class="st0 st3">LC029</text>
+<rect x="857.5" y="449.7" class="st5" width="21" height="24.2"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 849.6631 507.7267)" class="st0 st3">LC030</text>
+<rect x="883.8" y="450" class="st5" width="21" height="23.8"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 875.9131 507.7267)" class="st0 st3">LC031</text>
+<rect x="910" y="450.1" class="st5" width="21" height="23.8"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 902.1631 507.7267)" class="st0 st3">LC032</text>
+<rect x="936.2" y="450.4" class="st5" width="21" height="23.5"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 928.4133 507.7267)" class="st0 st3">LC033</text>
+<rect x="962.5" y="450.5" class="st5" width="21" height="23.4"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 954.6631 507.7267)" class="st0 st3">LC034</text>
+<rect x="988.8" y="450.6" class="st5" width="21" height="23.3"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 980.9131 507.7267)" class="st0 st3">LC035</text>
+<rect x="1015" y="451.1" class="st5" width="21" height="22.8"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 1007.1631 507.7267)" class="st0 st3">LC036</text>
+<rect x="1041.2" y="451.5" class="st5" width="21" height="22.4"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 1033.4131 507.7267)" class="st0 st3">LC037</text>
+<rect x="1067.5" y="451.6" class="st5" width="21" height="22.3"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 1059.6631 507.7267)" class="st0 st3">LC038</text>
+<rect x="1093.8" y="452.6" class="st5" width="21" height="21.3"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 1085.9131 507.7267)" class="st0 st3">LC039</text>
+<polyline class="st6" points="80.5,397.3 106.8,370.8 133,344.8 159.2,332.5 185.5,321.1 211.8,309.9 238,299.7 264.2,289.8 
+	290.5,280.2 316.8,270.7 343,262.4 369.2,254.8 395.5,247.2 421.8,239.6 448,232.1 474.2,225.2 500.5,218.7 526.8,212.1 553,205.8 
+	579.2,199.9 605.5,194.2 631.8,188.9 658,183.6 684.2,178.4 710.5,173.3 736.8,168.8 763,164.4 789.2,160.1 815.5,155.9 
+	841.8,151.6 868,147.5 894.2,143.5 920.5,139.4 946.8,135.4 973,131.5 999.2,127.5 1025.5,123.6 1051.8,119.8 1078,116 
+	1104.2,112.4 "/>
+<circle class="st7" cx="80.5" cy="397.3" r="3"/>
+<circle class="st7" cx="106.8" cy="370.8" r="3"/>
+<circle class="st7" cx="133" cy="344.8" r="3"/>
+<circle class="st7" cx="159.2" cy="332.5" r="3"/>
+<circle class="st7" cx="185.5" cy="321.1" r="3"/>
+<circle class="st7" cx="211.8" cy="309.9" r="3"/>
+<circle class="st7" cx="238" cy="299.7" r="3"/>
+<circle class="st7" cx="264.2" cy="289.8" r="3"/>
+<circle class="st7" cx="290.5" cy="280.2" r="3"/>
+<circle class="st7" cx="316.8" cy="270.7" r="3"/>
+<circle class="st7" cx="343" cy="262.4" r="3"/>
+<circle class="st7" cx="369.2" cy="254.8" r="3"/>
+<circle class="st7" cx="395.5" cy="247.2" r="3"/>
+<circle class="st7" cx="421.8" cy="239.6" r="3"/>
+<circle class="st7" cx="448" cy="232.1" r="3"/>
+<circle class="st7" cx="474.2" cy="225.2" r="3"/>
+<circle class="st7" cx="500.5" cy="218.7" r="3"/>
+<circle class="st7" cx="526.8" cy="212.1" r="3"/>
+<circle class="st7" cx="553" cy="205.8" r="3"/>
+<circle class="st7" cx="579.2" cy="199.9" r="3"/>
+<circle class="st7" cx="605.5" cy="194.2" r="3"/>
+<circle class="st7" cx="631.8" cy="188.9" r="3"/>
+<circle class="st7" cx="658" cy="183.6" r="3"/>
+<circle class="st7" cx="684.2" cy="178.4" r="3"/>
+<circle class="st7" cx="710.5" cy="173.3" r="3"/>
+<circle class="st7" cx="736.8" cy="168.8" r="3"/>
+<circle class="st7" cx="763" cy="164.4" r="3"/>
+<circle class="st7" cx="789.2" cy="160.1" r="3"/>
+<circle class="st7" cx="815.5" cy="155.9" r="3"/>
+<circle class="st7" cx="841.8" cy="151.6" r="3"/>
+<circle class="st7" cx="868" cy="147.5" r="3"/>
+<circle class="st7" cx="894.2" cy="143.5" r="3"/>
+<circle class="st7" cx="920.5" cy="139.4" r="3"/>
+<circle class="st7" cx="946.8" cy="135.4" r="3"/>
+<circle class="st7" cx="973" cy="131.5" r="3"/>
+<circle class="st7" cx="999.2" cy="127.5" r="3"/>
+<circle class="st7" cx="1025.5" cy="123.6" r="3"/>
+<circle class="st7" cx="1051.8" cy="119.8" r="3"/>
+<circle class="st7" cx="1078" cy="116" r="3"/>
+<circle class="st7" cx="1104.2" cy="112.4" r="3"/>
+</svg>

@@ -12,7 +12,7 @@ import numpy as np
 # --------------------------------------
 # User configuration
 # --------------------------------------
-base_dir = Path("/Users/amcshan3/Desktop/Manuscripts/PLIP_Dpocket_Lipid_Puri_2025/used-to-make/plip_amino_acid/pi-stacking")
+base_dir = Path(".")
 output_pdf = "pistacking_centdist_violin.pdf"
 median_output_txt = "pistacking_centdist_stats.txt"
 
@@ -74,6 +74,19 @@ target_classes = merged["class"].unique().tolist()
 merged["class"] = pd.Categorical(merged["class"], categories=target_classes, ordered=True)
 
 data_list = [merged[merged["class"] == c]["centdist"] for c in target_classes]
+
+# --------------------------------------
+# EXPORT EXACT VALUES USED IN VIOLIN PLOT
+# --------------------------------------
+violin_output_file = "centdist_violin_values.tsv"
+
+with open(violin_output_file, "w") as f:
+    f.write("class\tcentdist\n")
+    for cls, vals in zip(target_classes, data_list):
+        for v in vals:
+            f.write(f"{cls}\t{v}\n")
+
+print(f"Saved violin plot values to: {violin_output_file}")
 
 # --------------------------------------
 # Compute median ± SD

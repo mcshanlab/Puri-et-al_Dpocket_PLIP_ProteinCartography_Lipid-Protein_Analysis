@@ -1,0 +1,2734 @@
+================================================================================
+GO Cellular Component: Golgi apparatus [GO:0005794]
+================================================================================
+
+hydrophobic: mean=2.900, sd=1.524, threshold=5.948
+  no outliers; top contributors:
+    bd7aw6-b-b-fvp1 (count=5)
+    bd7p1p-a-aa-4ix1 (count=5)
+    bd7aw6-a-a-fvp1 (count=4)
+    bd6d49-a-a-fvp1 (count=3)
+    bd7sj2-a-a-ud11 (count=3)
+
+hbond: mean=6.400, sd=3.502, threshold=13.405
+  no outliers; top contributors:
+    bd7sj2-a-a-ud11 (count=13)
+    bd7sj2-b-b-ud11 (count=11)
+    bd6d49-a-a-fvp1 (count=9)
+    bd6d49-b-b-fvp1 (count=6)
+    bd6d4a-a-a-fvp1 (count=6)
+
+pistacking: mean=0.100, sd=0.316, threshold=0.732
+  bd7p1p-a-aa-4ix1 (count=1)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+    bd6d4a-b-b-fvp1 (count=0)
+    bd7aw6-a-a-fvp1 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+    bd6d4a-b-b-fvp1 (count=0)
+    bd7aw6-a-a-fvp1 (count=0)
+
+saltbridge: mean=1.100, sd=0.876, threshold=2.851
+  bd7sj2-a-a-ud11 (count=3)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+    bd6d4a-b-b-fvp1 (count=0)
+    bd7aw6-a-a-fvp1 (count=0)
+
+================================================================================
+GO Cellular Component: Golgi medial cisterna [GO:0005797]
+================================================================================
+
+hydrophobic: mean=3.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd1foa-a-a-ud11 (count=3)
+
+hbond: mean=14.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd1foa-a-a-ud11 (count=14)
+
+pistacking: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd1foa-a-a-ud11 (count=0)
+
+pication: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd1foa-a-a-ud11 (count=0)
+
+halogen: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd1foa-a-a-ud11 (count=0)
+
+saltbridge: mean=1.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd1foa-a-a-ud11 (count=1)
+
+metal: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd1foa-a-a-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: Golgi membrane [GO:0000139]
+================================================================================
+
+hydrophobic: mean=1.667, sd=1.155, threshold=3.976
+  no outliers; top contributors:
+    bd1foa-a-a-ud11 (count=3)
+    bd7jhl-a-a-ud11 (count=1)
+    bd7jhl-b-b-ud11 (count=1)
+
+hbond: mean=13.667, sd=0.577, threshold=14.821
+  no outliers; top contributors:
+    bd1foa-a-a-ud11 (count=14)
+    bd7jhl-b-b-ud11 (count=14)
+    bd7jhl-a-a-ud11 (count=13)
+
+pistacking: mean=0.667, sd=0.577, threshold=1.821
+  no outliers; top contributors:
+    bd7jhl-a-a-ud11 (count=1)
+    bd7jhl-b-b-ud11 (count=1)
+    bd1foa-a-a-ud11 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1foa-a-a-ud11 (count=0)
+    bd7jhl-a-a-ud11 (count=0)
+    bd7jhl-b-b-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1foa-a-a-ud11 (count=0)
+    bd7jhl-a-a-ud11 (count=0)
+    bd7jhl-b-b-ud11 (count=0)
+
+saltbridge: mean=1.667, sd=1.155, threshold=3.976
+  no outliers; top contributors:
+    bd7jhl-a-a-ud11 (count=3)
+    bd1foa-a-a-ud11 (count=1)
+    bd7jhl-b-b-ud11 (count=1)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1foa-a-a-ud11 (count=0)
+    bd7jhl-a-a-ud11 (count=0)
+    bd7jhl-b-b-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: NSL complex [GO:0044545]
+================================================================================
+
+hydrophobic: mean=1.333, sd=0.767, threshold=2.867
+  bd8fe7-g-g-ud11 (count=3)
+
+hbond: mean=13.722, sd=3.561, threshold=20.845
+  no outliers; top contributors:
+    bd4gz5-c-c-ud11 (count=17)
+    bd8fe6-a-a-ud11 (count=17)
+    bd8fe6-g-g-ud11 (count=16)
+    bd8fuf-e-e-ud11 (count=16)
+    bd4gz5-a-a-ud11 (count=15)
+
+pistacking: mean=0.944, sd=0.236, threshold=1.416
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=1)
+    bd4gz5-b-b-ud11 (count=1)
+    bd4gz5-c-c-ud11 (count=1)
+    bd4gz5-d-d-ud11 (count=1)
+    bd4n3c-a-a-ud11 (count=1)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+saltbridge: mean=2.389, sd=0.979, threshold=4.346
+  no outliers; top contributors:
+    bd8fuf-g-g-ud11 (count=4)
+    bd4gz5-a-a-ud11 (count=3)
+    bd4gz5-b-b-ud11 (count=3)
+    bd4gz5-c-c-ud11 (count=3)
+    bd4gz5-d-d-ud11 (count=3)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: apical plasma membrane [GO:0016324]
+================================================================================
+
+hydrophobic: mean=2.000, sd=0.000, threshold=2.000
+  no outliers; top contributors:
+    bd6f30-a-a-ud11 (count=2)
+    bd6f30-b-b-ud11 (count=2)
+
+hbond: mean=5.000, sd=2.828, threshold=10.657
+  no outliers; top contributors:
+    bd6f30-b-b-ud11 (count=7)
+    bd6f30-a-a-ud11 (count=3)
+
+pistacking: mean=2.000, sd=0.000, threshold=2.000
+  no outliers; top contributors:
+    bd6f30-a-a-ud11 (count=2)
+    bd6f30-b-b-ud11 (count=2)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6f30-a-a-ud11 (count=0)
+    bd6f30-b-b-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6f30-a-a-ud11 (count=0)
+    bd6f30-b-b-ud11 (count=0)
+
+saltbridge: mean=5.000, sd=0.000, threshold=5.000
+  no outliers; top contributors:
+    bd6f30-a-a-ud11 (count=5)
+    bd6f30-b-b-ud11 (count=5)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6f30-a-a-ud11 (count=0)
+    bd6f30-b-b-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]
+================================================================================
+
+hydrophobic: mean=2.962, sd=0.196, threshold=3.354
+  no outliers; top contributors:
+    bd7bgl-a-a-tqn1 (count=3)
+    bd7bgl-b-b-tqn1 (count=3)
+    bd7bgl-c-c-tqn1 (count=3)
+    bd7bgl-d-d-tqn1 (count=3)
+    bd7bgl-e-e-tqn1 (count=3)
+
+hbond: mean=4.000, sd=0.000, threshold=4.000
+  no outliers; top contributors:
+    bd7bgl-a-a-tqn1 (count=4)
+    bd7bgl-b-b-tqn1 (count=4)
+    bd7bgl-c-c-tqn1 (count=4)
+    bd7bgl-d-d-tqn1 (count=4)
+    bd7bgl-e-e-tqn1 (count=4)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7bgl-a-a-tqn1 (count=0)
+    bd7bgl-b-b-tqn1 (count=0)
+    bd7bgl-c-c-tqn1 (count=0)
+    bd7bgl-d-d-tqn1 (count=0)
+    bd7bgl-e-e-tqn1 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7bgl-a-a-tqn1 (count=0)
+    bd7bgl-b-b-tqn1 (count=0)
+    bd7bgl-c-c-tqn1 (count=0)
+    bd7bgl-d-d-tqn1 (count=0)
+    bd7bgl-e-e-tqn1 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7bgl-a-a-tqn1 (count=0)
+    bd7bgl-b-b-tqn1 (count=0)
+    bd7bgl-c-c-tqn1 (count=0)
+    bd7bgl-d-d-tqn1 (count=0)
+    bd7bgl-e-e-tqn1 (count=0)
+
+saltbridge: mean=1.000, sd=0.000, threshold=1.000
+  no outliers; top contributors:
+    bd7bgl-a-a-tqn1 (count=1)
+    bd7bgl-b-b-tqn1 (count=1)
+    bd7bgl-c-c-tqn1 (count=1)
+    bd7bgl-d-d-tqn1 (count=1)
+    bd7bgl-e-e-tqn1 (count=1)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7bgl-a-a-tqn1 (count=0)
+    bd7bgl-b-b-tqn1 (count=0)
+    bd7bgl-c-c-tqn1 (count=0)
+    bd7bgl-d-d-tqn1 (count=0)
+    bd7bgl-e-e-tqn1 (count=0)
+
+================================================================================
+GO Cellular Component: basement membrane [GO:0005604]
+================================================================================
+
+hydrophobic: mean=2.500, sd=3.536, threshold=9.571
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=5)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+hbond: mean=3.000, sd=1.414, threshold=5.828
+  no outliers; top contributors:
+    bd7p1p-aa-aa-4ix1 (count=4)
+    bd7p1p-a-aa-4ix1 (count=2)
+
+pistacking: mean=0.500, sd=0.707, threshold=1.914
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=1)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+================================================================================
+GO Cellular Component: caveola [GO:0005901]
+================================================================================
+
+hydrophobic: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=0)
+
+hbond: mean=10.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=10)
+
+pistacking: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=0)
+
+pication: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=0)
+
+halogen: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=0)
+
+saltbridge: mean=2.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=2)
+
+metal: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=0)
+
+================================================================================
+GO Cellular Component: cell outer membrane [GO:0009279]
+================================================================================
+
+hydrophobic: mean=2.926, sd=0.267, threshold=3.460
+  no outliers; top contributors:
+    bd7bgl-a-a-tqn1 (count=3)
+    bd7bgl-b-b-tqn1 (count=3)
+    bd7bgl-c-c-tqn1 (count=3)
+    bd7bgl-d-d-tqn1 (count=3)
+    bd7bgl-e-e-tqn1 (count=3)
+
+hbond: mean=3.852, sd=0.770, threshold=5.391
+  no outliers; top contributors:
+    bd7bgl-a-a-tqn1 (count=4)
+    bd7bgl-b-b-tqn1 (count=4)
+    bd7bgl-c-c-tqn1 (count=4)
+    bd7bgl-d-d-tqn1 (count=4)
+    bd7bgl-e-e-tqn1 (count=4)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6q5e-a-a-lp51 (count=0)
+    bd7bgl-a-a-tqn1 (count=0)
+    bd7bgl-b-b-tqn1 (count=0)
+    bd7bgl-c-c-tqn1 (count=0)
+    bd7bgl-d-d-tqn1 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6q5e-a-a-lp51 (count=0)
+    bd7bgl-a-a-tqn1 (count=0)
+    bd7bgl-b-b-tqn1 (count=0)
+    bd7bgl-c-c-tqn1 (count=0)
+    bd7bgl-d-d-tqn1 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6q5e-a-a-lp51 (count=0)
+    bd7bgl-a-a-tqn1 (count=0)
+    bd7bgl-b-b-tqn1 (count=0)
+    bd7bgl-c-c-tqn1 (count=0)
+    bd7bgl-d-d-tqn1 (count=0)
+
+saltbridge: mean=0.963, sd=0.192, threshold=1.348
+  no outliers; top contributors:
+    bd7bgl-a-a-tqn1 (count=1)
+    bd7bgl-b-b-tqn1 (count=1)
+    bd7bgl-c-c-tqn1 (count=1)
+    bd7bgl-d-d-tqn1 (count=1)
+    bd7bgl-e-e-tqn1 (count=1)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6q5e-a-a-lp51 (count=0)
+    bd7bgl-a-a-tqn1 (count=0)
+    bd7bgl-b-b-tqn1 (count=0)
+    bd7bgl-c-c-tqn1 (count=0)
+    bd7bgl-d-d-tqn1 (count=0)
+
+================================================================================
+GO Cellular Component: cell periphery [GO:0071944]
+================================================================================
+
+hydrophobic: mean=0.750, sd=0.500, threshold=1.750
+  no outliers; top contributors:
+    bd8k3v-a-a-ud11 (count=1)
+    bd8k3v-b-b-ud11 (count=1)
+    bd8k3w-b-b-ud11 (count=1)
+    bd8k3w-a-a-ud11 (count=0)
+
+hbond: mean=4.750, sd=0.957, threshold=6.665
+  no outliers; top contributors:
+    bd8k3w-b-b-ud11 (count=6)
+    bd8k3w-a-a-ud11 (count=5)
+    bd8k3v-a-a-ud11 (count=4)
+    bd8k3v-b-b-ud11 (count=4)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd8k3v-a-a-ud11 (count=0)
+    bd8k3v-b-b-ud11 (count=0)
+    bd8k3w-a-a-ud11 (count=0)
+    bd8k3w-b-b-ud11 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd8k3v-a-a-ud11 (count=0)
+    bd8k3v-b-b-ud11 (count=0)
+    bd8k3w-a-a-ud11 (count=0)
+    bd8k3w-b-b-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd8k3v-a-a-ud11 (count=0)
+    bd8k3v-b-b-ud11 (count=0)
+    bd8k3w-a-a-ud11 (count=0)
+    bd8k3w-b-b-ud11 (count=0)
+
+saltbridge: mean=2.000, sd=0.000, threshold=2.000
+  no outliers; top contributors:
+    bd8k3v-a-a-ud11 (count=2)
+    bd8k3v-b-b-ud11 (count=2)
+    bd8k3w-a-a-ud11 (count=2)
+    bd8k3w-b-b-ud11 (count=2)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd8k3v-a-a-ud11 (count=0)
+    bd8k3v-b-b-ud11 (count=0)
+    bd8k3w-a-a-ud11 (count=0)
+    bd8k3w-b-b-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: cell projection [GO:0042995]
+================================================================================
+
+hydrophobic: mean=1.333, sd=0.767, threshold=2.867
+  bd8fe7-g-g-ud11 (count=3)
+
+hbond: mean=13.722, sd=3.561, threshold=20.845
+  no outliers; top contributors:
+    bd4gz5-c-c-ud11 (count=17)
+    bd8fe6-a-a-ud11 (count=17)
+    bd8fe6-g-g-ud11 (count=16)
+    bd8fuf-e-e-ud11 (count=16)
+    bd4gz5-a-a-ud11 (count=15)
+
+pistacking: mean=0.944, sd=0.236, threshold=1.416
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=1)
+    bd4gz5-b-b-ud11 (count=1)
+    bd4gz5-c-c-ud11 (count=1)
+    bd4gz5-d-d-ud11 (count=1)
+    bd4n3c-a-a-ud11 (count=1)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+saltbridge: mean=2.389, sd=0.979, threshold=4.346
+  no outliers; top contributors:
+    bd8fuf-g-g-ud11 (count=4)
+    bd4gz5-a-a-ud11 (count=3)
+    bd4gz5-b-b-ud11 (count=3)
+    bd4gz5-c-c-ud11 (count=3)
+    bd4gz5-d-d-ud11 (count=3)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: cell septum [GO:0030428]
+================================================================================
+
+hydrophobic: mean=0.750, sd=0.500, threshold=1.750
+  no outliers; top contributors:
+    bd8k3v-a-a-ud11 (count=1)
+    bd8k3v-b-b-ud11 (count=1)
+    bd8k3w-b-b-ud11 (count=1)
+    bd8k3w-a-a-ud11 (count=0)
+
+hbond: mean=4.750, sd=0.957, threshold=6.665
+  no outliers; top contributors:
+    bd8k3w-b-b-ud11 (count=6)
+    bd8k3w-a-a-ud11 (count=5)
+    bd8k3v-a-a-ud11 (count=4)
+    bd8k3v-b-b-ud11 (count=4)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd8k3v-a-a-ud11 (count=0)
+    bd8k3v-b-b-ud11 (count=0)
+    bd8k3w-a-a-ud11 (count=0)
+    bd8k3w-b-b-ud11 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd8k3v-a-a-ud11 (count=0)
+    bd8k3v-b-b-ud11 (count=0)
+    bd8k3w-a-a-ud11 (count=0)
+    bd8k3w-b-b-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd8k3v-a-a-ud11 (count=0)
+    bd8k3v-b-b-ud11 (count=0)
+    bd8k3w-a-a-ud11 (count=0)
+    bd8k3w-b-b-ud11 (count=0)
+
+saltbridge: mean=2.000, sd=0.000, threshold=2.000
+  no outliers; top contributors:
+    bd8k3v-a-a-ud11 (count=2)
+    bd8k3v-b-b-ud11 (count=2)
+    bd8k3w-a-a-ud11 (count=2)
+    bd8k3w-b-b-ud11 (count=2)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd8k3v-a-a-ud11 (count=0)
+    bd8k3v-b-b-ud11 (count=0)
+    bd8k3w-a-a-ud11 (count=0)
+    bd8k3w-b-b-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: cell surface [GO:0009986]
+================================================================================
+
+hydrophobic: mean=2.700, sd=1.567, threshold=5.834
+  no outliers; top contributors:
+    bd7aw6-b-b-fvp1 (count=5)
+    bd7p1p-a-aa-4ix1 (count=5)
+    bd7aw6-a-a-fvp1 (count=4)
+    bd6d49-a-a-fvp1 (count=3)
+    bd6d49-b-b-fvp1 (count=2)
+
+hbond: mean=5.000, sd=2.055, threshold=9.110
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=9)
+    bd6f30-b-b-ud11 (count=7)
+    bd6d49-b-b-fvp1 (count=6)
+    bd6d4a-a-a-fvp1 (count=6)
+    bd7aw6-a-a-fvp1 (count=5)
+
+pistacking: mean=0.500, sd=0.850, threshold=2.200
+  no outliers; top contributors:
+    bd6f30-a-a-ud11 (count=2)
+    bd6f30-b-b-ud11 (count=2)
+    bd7p1p-a-aa-4ix1 (count=1)
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+    bd6d4a-b-b-fvp1 (count=0)
+    bd6f30-a-a-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+    bd6d4a-b-b-fvp1 (count=0)
+    bd6f30-a-a-ud11 (count=0)
+
+saltbridge: mean=1.600, sd=1.838, threshold=5.276
+  no outliers; top contributors:
+    bd6f30-a-a-ud11 (count=5)
+    bd6f30-b-b-ud11 (count=5)
+    bd6d49-a-a-fvp1 (count=1)
+    bd6d49-b-b-fvp1 (count=1)
+    bd6d4a-a-a-fvp1 (count=1)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+    bd6d4a-b-b-fvp1 (count=0)
+    bd6f30-a-a-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: chitosome [GO:0045009]
+================================================================================
+
+hydrophobic: mean=0.750, sd=0.500, threshold=1.750
+  no outliers; top contributors:
+    bd8k3v-a-a-ud11 (count=1)
+    bd8k3v-b-b-ud11 (count=1)
+    bd8k3w-b-b-ud11 (count=1)
+    bd8k3w-a-a-ud11 (count=0)
+
+hbond: mean=4.750, sd=0.957, threshold=6.665
+  no outliers; top contributors:
+    bd8k3w-b-b-ud11 (count=6)
+    bd8k3w-a-a-ud11 (count=5)
+    bd8k3v-a-a-ud11 (count=4)
+    bd8k3v-b-b-ud11 (count=4)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd8k3v-a-a-ud11 (count=0)
+    bd8k3v-b-b-ud11 (count=0)
+    bd8k3w-a-a-ud11 (count=0)
+    bd8k3w-b-b-ud11 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd8k3v-a-a-ud11 (count=0)
+    bd8k3v-b-b-ud11 (count=0)
+    bd8k3w-a-a-ud11 (count=0)
+    bd8k3w-b-b-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd8k3v-a-a-ud11 (count=0)
+    bd8k3v-b-b-ud11 (count=0)
+    bd8k3w-a-a-ud11 (count=0)
+    bd8k3w-b-b-ud11 (count=0)
+
+saltbridge: mean=2.000, sd=0.000, threshold=2.000
+  no outliers; top contributors:
+    bd8k3v-a-a-ud11 (count=2)
+    bd8k3v-b-b-ud11 (count=2)
+    bd8k3w-a-a-ud11 (count=2)
+    bd8k3w-b-b-ud11 (count=2)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd8k3v-a-a-ud11 (count=0)
+    bd8k3v-b-b-ud11 (count=0)
+    bd8k3w-a-a-ud11 (count=0)
+    bd8k3w-b-b-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: clathrin-coated pit [GO:0005905]
+================================================================================
+
+hydrophobic: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=0)
+
+hbond: mean=10.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=10)
+
+pistacking: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=0)
+
+pication: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=0)
+
+halogen: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=0)
+
+saltbridge: mean=2.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=2)
+
+metal: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=0)
+
+================================================================================
+GO Cellular Component: cortical cytoskeleton [GO:0030863]
+================================================================================
+
+hydrophobic: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=0)
+
+hbond: mean=10.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=10)
+
+pistacking: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=0)
+
+pication: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=0)
+
+halogen: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=0)
+
+saltbridge: mean=2.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=2)
+
+metal: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=0)
+
+================================================================================
+GO Cellular Component: cytoplasm [GO:0005737]
+================================================================================
+
+hydrophobic: mean=2.720, sd=3.207, threshold=9.134
+  bd5b4a-a-a-lp51 (count=14)
+  bd5k8k-a-a-lp51 (count=13)
+  bd5b4b-b-b-lp51 (count=11)
+  bd5b49-a-a-lp51 (count=10)
+  bd5b4b-a-a-lp51 (count=10)
+
+hbond: mean=10.120, sd=3.491, threshold=17.102
+  no outliers; top contributors:
+    bd1hm9-a-a-ud11 (count=16)
+    bd1hm9-b-b-ud11 (count=16)
+    bd4g3q-a-a-ud11 (count=16)
+    bd4x7m-b-b-ud11 (count=16)
+    bd2yqj-a-a-ud11 (count=15)
+
+pistacking: mean=0.053, sd=0.226, threshold=0.506
+  bd1lrk-a-a-ud11 (count=1)
+  bd5dep-d-d-ud11 (count=1)
+  bd5dep-d-f-ud11 (count=1)
+  bd5dep-f-e-ud11 (count=1)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1g97-a-a-ud11 (count=0)
+    bd1hm9-a-a-ud11 (count=0)
+    bd1hm9-b-b-ud11 (count=0)
+    bd1lrj-a-a-ud11 (count=0)
+    bd1lrk-a-a-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1g97-a-a-ud11 (count=0)
+    bd1hm9-a-a-ud11 (count=0)
+    bd1hm9-b-b-ud11 (count=0)
+    bd1lrj-a-a-ud11 (count=0)
+    bd1lrk-a-a-ud11 (count=0)
+
+saltbridge: mean=2.080, sd=1.675, threshold=5.429
+  bd4fkz-a-a-ud11 (count=8)
+  bd4fkz-b-b-ud11 (count=8)
+  bd5k8k-a-a-lp51 (count=7)
+  bd4nes-a-a-ud11 (count=6)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1g97-a-a-ud11 (count=0)
+    bd1hm9-a-a-ud11 (count=0)
+    bd1hm9-b-b-ud11 (count=0)
+    bd1lrj-a-a-ud11 (count=0)
+    bd1lrk-a-a-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: cytosol [GO:0005829]
+================================================================================
+
+hydrophobic: mean=1.403, sd=1.169, threshold=3.740
+  bd2qia-a-a-u201 (count=5)
+  bd6p9r-a-a-u201 (count=5)
+  bd6p9q-a-a-u201 (count=4)
+  bd6p9s-a-a-u201 (count=4)
+  bd6p9t-a-a-u201 (count=4)
+
+hbond: mean=11.119, sd=4.326, threshold=19.771
+  no outliers; top contributors:
+    bd2oi5-b-b-ud11 (count=18)
+    bd2oi6-b-b-ud11 (count=18)
+    bd2oi7-b-b-ud11 (count=18)
+    bd4gz5-c-c-ud11 (count=17)
+    bd8fe6-a-a-ud11 (count=17)
+
+pistacking: mean=0.403, sd=0.494, threshold=1.391
+  no outliers; top contributors:
+    bd1hzj-a-a-ud11 (count=1)
+    bd1hzj-b-b-ud11 (count=1)
+    bd1i3m-a-a-ud11 (count=1)
+    bd1i3m-b-b-ud11 (count=1)
+    bd1i3n-a-a-ud11 (count=1)
+
+pication: mean=0.015, sd=0.122, threshold=0.259
+  bd1vgv-b-b-ud11 (count=1)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1fwy-a-a-ud11 (count=0)
+    bd1fwy-b-b-ud11 (count=0)
+    bd1hv9-a-a-ud11 (count=0)
+    bd1hv9-b-b-ud11 (count=0)
+    bd1hzj-a-a-ud11 (count=0)
+
+saltbridge: mean=2.239, sd=1.156, threshold=4.551
+  bd6z2f-b-b-ud11 (count=6)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1fwy-a-a-ud11 (count=0)
+    bd1fwy-b-b-ud11 (count=0)
+    bd1hv9-a-a-ud11 (count=0)
+    bd1hv9-b-b-ud11 (count=0)
+    bd1hzj-a-a-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: early endosome [GO:0005769]
+================================================================================
+
+hydrophobic: mean=6.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=6)
+
+hbond: mean=4.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=4)
+
+pistacking: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=0)
+
+pication: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=0)
+
+halogen: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=0)
+
+saltbridge: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=0)
+
+metal: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=0)
+
+================================================================================
+GO Cellular Component: endoplasmic reticulum [GO:0005783]
+================================================================================
+
+hydrophobic: mean=0.500, sd=0.707, threshold=1.914
+  no outliers; top contributors:
+    bd1on6-b-b-ud11 (count=1)
+    bd1on6-a-a-ud11 (count=0)
+
+hbond: mean=15.000, sd=1.414, threshold=17.828
+  no outliers; top contributors:
+    bd1on6-a-a-ud11 (count=16)
+    bd1on6-b-b-ud11 (count=14)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1on6-a-a-ud11 (count=0)
+    bd1on6-b-b-ud11 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1on6-a-a-ud11 (count=0)
+    bd1on6-b-b-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1on6-a-a-ud11 (count=0)
+    bd1on6-b-b-ud11 (count=0)
+
+saltbridge: mean=4.000, sd=0.000, threshold=4.000
+  no outliers; top contributors:
+    bd1on6-a-a-ud11 (count=4)
+    bd1on6-b-b-ud11 (count=4)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1on6-a-a-ud11 (count=0)
+    bd1on6-b-b-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: endoplasmic reticulum membrane [GO:0005789]
+================================================================================
+
+hydrophobic: mean=1.333, sd=1.528, threshold=4.388
+  no outliers; top contributors:
+    bd6fwz-a-a-ud11 (count=3)
+    bd1on6-b-b-ud11 (count=1)
+    bd1on6-a-a-ud11 (count=0)
+
+hbond: mean=13.333, sd=3.055, threshold=19.443
+  no outliers; top contributors:
+    bd1on6-a-a-ud11 (count=16)
+    bd1on6-b-b-ud11 (count=14)
+    bd6fwz-a-a-ud11 (count=10)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1on6-a-a-ud11 (count=0)
+    bd1on6-b-b-ud11 (count=0)
+    bd6fwz-a-a-ud11 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1on6-a-a-ud11 (count=0)
+    bd1on6-b-b-ud11 (count=0)
+    bd6fwz-a-a-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1on6-a-a-ud11 (count=0)
+    bd1on6-b-b-ud11 (count=0)
+    bd6fwz-a-a-ud11 (count=0)
+
+saltbridge: mean=4.667, sd=1.155, threshold=6.976
+  no outliers; top contributors:
+    bd6fwz-a-a-ud11 (count=6)
+    bd1on6-a-a-ud11 (count=4)
+    bd1on6-b-b-ud11 (count=4)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1on6-a-a-ud11 (count=0)
+    bd1on6-b-b-ud11 (count=0)
+    bd6fwz-a-a-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: endosome membrane [GO:0010008]
+================================================================================
+
+hydrophobic: mean=10.667, sd=1.528, threshold=13.722
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=12)
+    bd4g8a-c-c-lp51 (count=11)
+    bd4g8a-d-d-lp51 (count=9)
+
+hbond: mean=2.000, sd=1.000, threshold=4.000
+  no outliers; top contributors:
+    bd4g8a-d-d-lp51 (count=3)
+    bd2e59-a-a-lp51 (count=2)
+    bd4g8a-c-c-lp51 (count=1)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=0)
+    bd4g8a-c-c-lp51 (count=0)
+    bd4g8a-d-d-lp51 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=0)
+    bd4g8a-c-c-lp51 (count=0)
+    bd4g8a-d-d-lp51 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=0)
+    bd4g8a-c-c-lp51 (count=0)
+    bd4g8a-d-d-lp51 (count=0)
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=0)
+    bd4g8a-c-c-lp51 (count=0)
+    bd4g8a-d-d-lp51 (count=0)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=0)
+    bd4g8a-c-c-lp51 (count=0)
+    bd4g8a-d-d-lp51 (count=0)
+
+================================================================================
+GO Cellular Component: external side of plasma membrane [GO:0009897]
+================================================================================
+
+hydrophobic: mean=2.444, sd=1.424, threshold=5.292
+  no outliers; top contributors:
+    bd7aw6-b-b-fvp1 (count=5)
+    bd7aw6-a-a-fvp1 (count=4)
+    bd6d49-a-a-fvp1 (count=3)
+    bd6d49-b-b-fvp1 (count=2)
+    bd6d4a-a-a-fvp1 (count=2)
+
+hbond: mean=6.000, sd=2.345, threshold=10.690
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=10)
+    bd6d49-a-a-fvp1 (count=9)
+    bd6f30-b-b-ud11 (count=7)
+    bd6d49-b-b-fvp1 (count=6)
+    bd6d4a-a-a-fvp1 (count=6)
+
+pistacking: mean=0.444, sd=0.882, threshold=2.208
+  no outliers; top contributors:
+    bd6f30-a-a-ud11 (count=2)
+    bd6f30-b-b-ud11 (count=2)
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+    bd6d4a-b-b-fvp1 (count=0)
+    bd6eyj-a-a-c5h1 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+    bd6d4a-b-b-fvp1 (count=0)
+    bd6eyj-a-a-c5h1 (count=0)
+
+saltbridge: mean=2.000, sd=1.732, threshold=5.464
+  no outliers; top contributors:
+    bd6f30-a-a-ud11 (count=5)
+    bd6f30-b-b-ud11 (count=5)
+    bd6eyj-a-a-c5h1 (count=2)
+    bd6d49-a-a-fvp1 (count=1)
+    bd6d49-b-b-fvp1 (count=1)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+    bd6d4a-b-b-fvp1 (count=0)
+    bd6eyj-a-a-c5h1 (count=0)
+
+================================================================================
+GO Cellular Component: extracellular exosome [GO:0070062]
+================================================================================
+
+hydrophobic: mean=0.333, sd=0.516, threshold=1.366
+  no outliers; top contributors:
+    bd6r4g-a-a-ud11 (count=1)
+    bd6svp-a-a-ud11 (count=1)
+    bd6r4g-b-b-ud11 (count=0)
+    bd6r4j-a-a-ud11 (count=0)
+    bd6r4j-b-b-ud11 (count=0)
+
+hbond: mean=8.000, sd=1.265, threshold=10.530
+  no outliers; top contributors:
+    bd6r4g-b-b-ud11 (count=9)
+    bd6r4j-a-a-ud11 (count=9)
+    bd6svp-b-b-ud11 (count=9)
+    bd6r4g-a-a-ud11 (count=8)
+    bd6svp-a-a-ud11 (count=7)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6r4g-a-a-ud11 (count=0)
+    bd6r4g-b-b-ud11 (count=0)
+    bd6r4j-a-a-ud11 (count=0)
+    bd6r4j-b-b-ud11 (count=0)
+    bd6svp-a-a-ud11 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6r4g-a-a-ud11 (count=0)
+    bd6r4g-b-b-ud11 (count=0)
+    bd6r4j-a-a-ud11 (count=0)
+    bd6r4j-b-b-ud11 (count=0)
+    bd6svp-a-a-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6r4g-a-a-ud11 (count=0)
+    bd6r4g-b-b-ud11 (count=0)
+    bd6r4j-a-a-ud11 (count=0)
+    bd6r4j-b-b-ud11 (count=0)
+    bd6svp-a-a-ud11 (count=0)
+
+saltbridge: mean=2.167, sd=0.408, threshold=2.983
+  bd6r4j-b-b-ud11 (count=3)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6r4g-a-a-ud11 (count=0)
+    bd6r4g-b-b-ud11 (count=0)
+    bd6r4j-a-a-ud11 (count=0)
+    bd6r4j-b-b-ud11 (count=0)
+    bd6svp-a-a-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: extracellular region [GO:0005576]
+================================================================================
+
+hydrophobic: mean=3.964, sd=4.078, threshold=12.120
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=12)
+    bd3vq2-c-c-lp51 (count=11)
+    bd4g8a-c-c-lp51 (count=11)
+    bd3vq2-d-d-lp51 (count=10)
+    bd4g8a-d-d-lp51 (count=9)
+
+hbond: mean=5.179, sd=5.085, threshold=15.348
+  bd5h63-a-a-ud11 (count=17)
+  bd5h63-b-b-ud11 (count=17)
+
+pistacking: mean=0.536, sd=0.838, threshold=2.212
+  no outliers; top contributors:
+    bd5h63-a-a-ud11 (count=2)
+    bd5h63-b-b-ud11 (count=2)
+    bd5h63-c-c-ud11 (count=2)
+    bd5h63-d-d-ud11 (count=2)
+    bd6f30-a-a-ud11 (count=2)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=0)
+    bd3mu3-a-a-lp51 (count=0)
+    bd3mu3-b-b-lp51 (count=0)
+    bd3rt4-c-c-lp51 (count=0)
+    bd3vq1-c-c-lp51 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=0)
+    bd3mu3-a-a-lp51 (count=0)
+    bd3mu3-b-b-lp51 (count=0)
+    bd3rt4-c-c-lp51 (count=0)
+    bd3vq1-c-c-lp51 (count=0)
+
+saltbridge: mean=0.679, sd=1.389, threshold=3.457
+  bd6f30-a-a-ud11 (count=5)
+  bd6f30-b-b-ud11 (count=5)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=0)
+    bd3mu3-a-a-lp51 (count=0)
+    bd3mu3-b-b-lp51 (count=0)
+    bd3rt4-c-c-lp51 (count=0)
+    bd3vq1-c-c-lp51 (count=0)
+
+================================================================================
+GO Cellular Component: extracellular space [GO:0005615]
+================================================================================
+
+hydrophobic: mean=2.750, sd=3.202, threshold=9.153
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=6)
+    bd7p1p-a-aa-4ix1 (count=5)
+    bd6eyj-a-a-c5h1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+hbond: mean=5.000, sd=3.464, threshold=11.928
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=10)
+    bd3rgy-a-a-lp51 (count=4)
+    bd7p1p-aa-aa-4ix1 (count=4)
+    bd7p1p-a-aa-4ix1 (count=2)
+
+pistacking: mean=0.250, sd=0.500, threshold=1.250
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=1)
+    bd3rgy-a-a-lp51 (count=0)
+    bd6eyj-a-a-c5h1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=0)
+    bd6eyj-a-a-c5h1 (count=0)
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=0)
+    bd6eyj-a-a-c5h1 (count=0)
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+saltbridge: mean=0.500, sd=1.000, threshold=2.500
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=2)
+    bd3rgy-a-a-lp51 (count=0)
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=0)
+    bd6eyj-a-a-c5h1 (count=0)
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+================================================================================
+GO Cellular Component: extrinsic component of plasma membrane [GO:0019897]
+================================================================================
+
+hydrophobic: mean=10.333, sd=2.000, threshold=14.333
+  no outliers; top contributors:
+    bd5b4a-a-a-lp51 (count=14)
+    bd5k8k-a-a-lp51 (count=13)
+    bd5b4b-b-b-lp51 (count=11)
+    bd5b49-a-a-lp51 (count=10)
+    bd5b4b-a-a-lp51 (count=10)
+
+hbond: mean=9.556, sd=1.740, threshold=13.036
+  no outliers; top contributors:
+    bd5b4b-a-a-lp51 (count=13)
+    bd5b4a-a-a-lp51 (count=11)
+    bd5b49-a-a-lp51 (count=10)
+    bd8qjz-a-a-lp51 (count=10)
+    bd5b4a-b-b-lp51 (count=9)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5b49-a-a-lp51 (count=0)
+    bd5b49-b-b-lp51 (count=0)
+    bd5b4a-a-a-lp51 (count=0)
+    bd5b4a-b-b-lp51 (count=0)
+    bd5b4b-a-a-lp51 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5b49-a-a-lp51 (count=0)
+    bd5b49-b-b-lp51 (count=0)
+    bd5b4a-a-a-lp51 (count=0)
+    bd5b4a-b-b-lp51 (count=0)
+    bd5b4b-a-a-lp51 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5b49-a-a-lp51 (count=0)
+    bd5b49-b-b-lp51 (count=0)
+    bd5b4a-a-a-lp51 (count=0)
+    bd5b4a-b-b-lp51 (count=0)
+    bd5b4b-a-a-lp51 (count=0)
+
+saltbridge: mean=4.000, sd=1.581, threshold=7.162
+  no outliers; top contributors:
+    bd5k8k-a-a-lp51 (count=7)
+    bd5b49-a-a-lp51 (count=5)
+    bd5b49-b-b-lp51 (count=4)
+    bd5b4a-a-a-lp51 (count=4)
+    bd5b4a-b-b-lp51 (count=4)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5b49-a-a-lp51 (count=0)
+    bd5b49-b-b-lp51 (count=0)
+    bd5b4a-a-a-lp51 (count=0)
+    bd5b4a-b-b-lp51 (count=0)
+    bd5b4b-a-a-lp51 (count=0)
+
+================================================================================
+GO Cellular Component: glutamatergic synapse [GO:0098978]
+================================================================================
+
+hydrophobic: mean=1.333, sd=0.767, threshold=2.867
+  bd8fe7-g-g-ud11 (count=3)
+
+hbond: mean=13.722, sd=3.561, threshold=20.845
+  no outliers; top contributors:
+    bd4gz5-c-c-ud11 (count=17)
+    bd8fe6-a-a-ud11 (count=17)
+    bd8fe6-g-g-ud11 (count=16)
+    bd8fuf-e-e-ud11 (count=16)
+    bd4gz5-a-a-ud11 (count=15)
+
+pistacking: mean=0.944, sd=0.236, threshold=1.416
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=1)
+    bd4gz5-b-b-ud11 (count=1)
+    bd4gz5-c-c-ud11 (count=1)
+    bd4gz5-d-d-ud11 (count=1)
+    bd4n3c-a-a-ud11 (count=1)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+saltbridge: mean=2.389, sd=0.979, threshold=4.346
+  no outliers; top contributors:
+    bd8fuf-g-g-ud11 (count=4)
+    bd4gz5-a-a-ud11 (count=3)
+    bd4gz5-b-b-ud11 (count=3)
+    bd4gz5-c-c-ud11 (count=3)
+    bd4gz5-d-d-ud11 (count=3)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: histone acetyltransferase complex [GO:0000123]
+================================================================================
+
+hydrophobic: mean=1.333, sd=0.767, threshold=2.867
+  bd8fe7-g-g-ud11 (count=3)
+
+hbond: mean=13.722, sd=3.561, threshold=20.845
+  no outliers; top contributors:
+    bd4gz5-c-c-ud11 (count=17)
+    bd8fe6-a-a-ud11 (count=17)
+    bd8fe6-g-g-ud11 (count=16)
+    bd8fuf-e-e-ud11 (count=16)
+    bd4gz5-a-a-ud11 (count=15)
+
+pistacking: mean=0.944, sd=0.236, threshold=1.416
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=1)
+    bd4gz5-b-b-ud11 (count=1)
+    bd4gz5-c-c-ud11 (count=1)
+    bd4gz5-d-d-ud11 (count=1)
+    bd4n3c-a-a-ud11 (count=1)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+saltbridge: mean=2.389, sd=0.979, threshold=4.346
+  no outliers; top contributors:
+    bd8fuf-g-g-ud11 (count=4)
+    bd4gz5-a-a-ud11 (count=3)
+    bd4gz5-b-b-ud11 (count=3)
+    bd4gz5-c-c-ud11 (count=3)
+    bd4gz5-d-d-ud11 (count=3)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: host cell Golgi apparatus [GO:0044177]
+================================================================================
+
+hydrophobic: mean=0.333, sd=0.516, threshold=1.366
+  no outliers; top contributors:
+    bd5h63-a-a-ud11 (count=1)
+    bd5h63-b-b-ud11 (count=1)
+    bd5h63-a-d-ud11 (count=0)
+    bd5h63-b-c-ud11 (count=0)
+    bd5h63-c-c-ud11 (count=0)
+
+hbond: mean=11.000, sd=7.457, threshold=25.913
+  no outliers; top contributors:
+    bd5h63-a-a-ud11 (count=17)
+    bd5h63-b-b-ud11 (count=17)
+    bd5h63-d-d-ud11 (count=15)
+    bd5h63-c-c-ud11 (count=14)
+    bd5h63-a-d-ud11 (count=2)
+
+pistacking: mean=1.333, sd=1.033, threshold=3.399
+  no outliers; top contributors:
+    bd5h63-a-a-ud11 (count=2)
+    bd5h63-b-b-ud11 (count=2)
+    bd5h63-c-c-ud11 (count=2)
+    bd5h63-d-d-ud11 (count=2)
+    bd5h63-a-d-ud11 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5h63-a-a-ud11 (count=0)
+    bd5h63-a-d-ud11 (count=0)
+    bd5h63-b-b-ud11 (count=0)
+    bd5h63-b-c-ud11 (count=0)
+    bd5h63-c-c-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5h63-a-a-ud11 (count=0)
+    bd5h63-a-d-ud11 (count=0)
+    bd5h63-b-b-ud11 (count=0)
+    bd5h63-b-c-ud11 (count=0)
+    bd5h63-c-c-ud11 (count=0)
+
+saltbridge: mean=0.667, sd=1.033, threshold=2.732
+  no outliers; top contributors:
+    bd5h63-a-a-ud11 (count=2)
+    bd5h63-b-b-ud11 (count=2)
+    bd5h63-a-d-ud11 (count=0)
+    bd5h63-b-c-ud11 (count=0)
+    bd5h63-c-c-ud11 (count=0)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5h63-a-a-ud11 (count=0)
+    bd5h63-a-d-ud11 (count=0)
+    bd5h63-b-b-ud11 (count=0)
+    bd5h63-b-c-ud11 (count=0)
+    bd5h63-c-c-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: host cell [GO:0043657]
+================================================================================
+
+hydrophobic: mean=0.333, sd=0.516, threshold=1.366
+  no outliers; top contributors:
+    bd5h63-a-a-ud11 (count=1)
+    bd5h63-b-b-ud11 (count=1)
+    bd5h63-a-d-ud11 (count=0)
+    bd5h63-b-c-ud11 (count=0)
+    bd5h63-c-c-ud11 (count=0)
+
+hbond: mean=11.000, sd=7.457, threshold=25.913
+  no outliers; top contributors:
+    bd5h63-a-a-ud11 (count=17)
+    bd5h63-b-b-ud11 (count=17)
+    bd5h63-d-d-ud11 (count=15)
+    bd5h63-c-c-ud11 (count=14)
+    bd5h63-a-d-ud11 (count=2)
+
+pistacking: mean=1.333, sd=1.033, threshold=3.399
+  no outliers; top contributors:
+    bd5h63-a-a-ud11 (count=2)
+    bd5h63-b-b-ud11 (count=2)
+    bd5h63-c-c-ud11 (count=2)
+    bd5h63-d-d-ud11 (count=2)
+    bd5h63-a-d-ud11 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5h63-a-a-ud11 (count=0)
+    bd5h63-a-d-ud11 (count=0)
+    bd5h63-b-b-ud11 (count=0)
+    bd5h63-b-c-ud11 (count=0)
+    bd5h63-c-c-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5h63-a-a-ud11 (count=0)
+    bd5h63-a-d-ud11 (count=0)
+    bd5h63-b-b-ud11 (count=0)
+    bd5h63-b-c-ud11 (count=0)
+    bd5h63-c-c-ud11 (count=0)
+
+saltbridge: mean=0.667, sd=1.033, threshold=2.732
+  no outliers; top contributors:
+    bd5h63-a-a-ud11 (count=2)
+    bd5h63-b-b-ud11 (count=2)
+    bd5h63-a-d-ud11 (count=0)
+    bd5h63-b-c-ud11 (count=0)
+    bd5h63-c-c-ud11 (count=0)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5h63-a-a-ud11 (count=0)
+    bd5h63-a-d-ud11 (count=0)
+    bd5h63-b-b-ud11 (count=0)
+    bd5h63-b-c-ud11 (count=0)
+    bd5h63-c-c-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: host cell plasma membrane [GO:0020002]
+================================================================================
+
+hydrophobic: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4mix-a-a-ud11 (count=0)
+    bd4mix-b-b-ud11 (count=0)
+
+hbond: mean=11.000, sd=0.000, threshold=11.000
+  no outliers; top contributors:
+    bd4mix-a-a-ud11 (count=11)
+    bd4mix-b-b-ud11 (count=11)
+
+pistacking: mean=1.000, sd=0.000, threshold=1.000
+  no outliers; top contributors:
+    bd4mix-a-a-ud11 (count=1)
+    bd4mix-b-b-ud11 (count=1)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4mix-a-a-ud11 (count=0)
+    bd4mix-b-b-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4mix-a-a-ud11 (count=0)
+    bd4mix-b-b-ud11 (count=0)
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4mix-a-a-ud11 (count=0)
+    bd4mix-b-b-ud11 (count=0)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4mix-a-a-ud11 (count=0)
+    bd4mix-b-b-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: intracellular membrane-bounded organelle [GO:0043231]
+================================================================================
+
+hydrophobic: mean=3.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6fwz-a-a-ud11 (count=3)
+
+hbond: mean=10.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6fwz-a-a-ud11 (count=10)
+
+pistacking: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6fwz-a-a-ud11 (count=0)
+
+pication: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6fwz-a-a-ud11 (count=0)
+
+halogen: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6fwz-a-a-ud11 (count=0)
+
+saltbridge: mean=6.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6fwz-a-a-ud11 (count=6)
+
+metal: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6fwz-a-a-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: lipopolysaccharide receptor complex [GO:0046696]
+================================================================================
+
+hydrophobic: mean=9.111, sd=2.028, threshold=13.166
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=12)
+    bd3vq2-c-c-lp51 (count=11)
+    bd4g8a-c-c-lp51 (count=11)
+    bd3vq2-d-d-lp51 (count=10)
+    bd4g8a-d-d-lp51 (count=9)
+
+hbond: mean=2.778, sd=0.972, threshold=4.721
+  no outliers; top contributors:
+    bd3vq1-c-c-lp51 (count=4)
+    bd3vq2-c-c-lp51 (count=4)
+    bd3vq2-d-d-lp51 (count=3)
+    bd4g8a-d-d-lp51 (count=3)
+    bd5ijd-c-c-lp51 (count=3)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=0)
+    bd3vq1-c-c-lp51 (count=0)
+    bd3vq1-d-d-lp51 (count=0)
+    bd3vq2-c-c-lp51 (count=0)
+    bd3vq2-d-d-lp51 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=0)
+    bd3vq1-c-c-lp51 (count=0)
+    bd3vq1-d-d-lp51 (count=0)
+    bd3vq2-c-c-lp51 (count=0)
+    bd3vq2-d-d-lp51 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=0)
+    bd3vq1-c-c-lp51 (count=0)
+    bd3vq1-d-d-lp51 (count=0)
+    bd3vq2-c-c-lp51 (count=0)
+    bd3vq2-d-d-lp51 (count=0)
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=0)
+    bd3vq1-c-c-lp51 (count=0)
+    bd3vq1-d-d-lp51 (count=0)
+    bd3vq2-c-c-lp51 (count=0)
+    bd3vq2-d-d-lp51 (count=0)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=0)
+    bd3vq1-c-c-lp51 (count=0)
+    bd3vq1-d-d-lp51 (count=0)
+    bd3vq2-c-c-lp51 (count=0)
+    bd3vq2-d-d-lp51 (count=0)
+
+================================================================================
+GO Cellular Component: membrane [GO:0016020]
+================================================================================
+
+hydrophobic: mean=1.571, sd=1.453, threshold=4.477
+  bd7p1p-a-aa-4ix1 (count=5)
+
+hbond: mean=9.714, sd=3.361, threshold=16.436
+  no outliers; top contributors:
+    bd7jhl-b-b-ud11 (count=14)
+    bd7jhl-a-a-ud11 (count=13)
+    bd7sj2-a-a-ud11 (count=13)
+    bd4mix-a-a-ud11 (count=11)
+    bd4mix-b-b-ud11 (count=11)
+
+pistacking: mean=0.357, sd=0.497, threshold=1.352
+  no outliers; top contributors:
+    bd4mix-a-a-ud11 (count=1)
+    bd4mix-b-b-ud11 (count=1)
+    bd7jhl-a-a-ud11 (count=1)
+    bd7jhl-b-b-ud11 (count=1)
+    bd7p1p-a-aa-4ix1 (count=1)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4mix-a-a-ud11 (count=0)
+    bd4mix-b-b-ud11 (count=0)
+    bd5bjv-a-a-ud11 (count=0)
+    bd5bjv-b-b-ud11 (count=0)
+    bd6fwz-a-a-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4mix-a-a-ud11 (count=0)
+    bd4mix-b-b-ud11 (count=0)
+    bd5bjv-a-a-ud11 (count=0)
+    bd5bjv-b-b-ud11 (count=0)
+    bd6fwz-a-a-ud11 (count=0)
+
+saltbridge: mean=1.786, sd=1.762, threshold=5.310
+  bd6fwz-a-a-ud11 (count=6)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4mix-a-a-ud11 (count=0)
+    bd4mix-b-b-ud11 (count=0)
+    bd5bjv-a-a-ud11 (count=0)
+    bd5bjv-b-b-ud11 (count=0)
+    bd6fwz-a-a-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: membrane raft [GO:0045121]
+================================================================================
+
+hydrophobic: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=0)
+
+hbond: mean=10.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=10)
+
+pistacking: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=0)
+
+pication: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=0)
+
+halogen: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=0)
+
+saltbridge: mean=2.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=2)
+
+metal: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6eyj-a-a-c5h1 (count=0)
+
+================================================================================
+GO Cellular Component: mitochondrial intermembrane space [GO:0005758]
+================================================================================
+
+hydrophobic: mean=4.500, sd=0.707, threshold=5.914
+  no outliers; top contributors:
+    bd5klu-a-a-6uz1 (count=5)
+    bd5klu-b-b-6uz1 (count=4)
+
+hbond: mean=2.000, sd=0.000, threshold=2.000
+  no outliers; top contributors:
+    bd5klu-a-a-6uz1 (count=2)
+    bd5klu-b-b-6uz1 (count=2)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5klu-a-a-6uz1 (count=0)
+    bd5klu-b-b-6uz1 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5klu-a-a-6uz1 (count=0)
+    bd5klu-b-b-6uz1 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5klu-a-a-6uz1 (count=0)
+    bd5klu-b-b-6uz1 (count=0)
+
+saltbridge: mean=0.500, sd=0.707, threshold=1.914
+  no outliers; top contributors:
+    bd5klu-b-b-6uz1 (count=1)
+    bd5klu-a-a-6uz1 (count=0)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5klu-a-a-6uz1 (count=0)
+    bd5klu-b-b-6uz1 (count=0)
+
+================================================================================
+GO Cellular Component: mitochondrial membrane [GO:0031966]
+================================================================================
+
+hydrophobic: mean=1.333, sd=0.767, threshold=2.867
+  bd8fe7-g-g-ud11 (count=3)
+
+hbond: mean=13.722, sd=3.561, threshold=20.845
+  no outliers; top contributors:
+    bd4gz5-c-c-ud11 (count=17)
+    bd8fe6-a-a-ud11 (count=17)
+    bd8fe6-g-g-ud11 (count=16)
+    bd8fuf-e-e-ud11 (count=16)
+    bd4gz5-a-a-ud11 (count=15)
+
+pistacking: mean=0.944, sd=0.236, threshold=1.416
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=1)
+    bd4gz5-b-b-ud11 (count=1)
+    bd4gz5-c-c-ud11 (count=1)
+    bd4gz5-d-d-ud11 (count=1)
+    bd4n3c-a-a-ud11 (count=1)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+saltbridge: mean=2.389, sd=0.979, threshold=4.346
+  no outliers; top contributors:
+    bd8fuf-g-g-ud11 (count=4)
+    bd4gz5-a-a-ud11 (count=3)
+    bd4gz5-b-b-ud11 (count=3)
+    bd4gz5-c-c-ud11 (count=3)
+    bd4gz5-d-d-ud11 (count=3)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: mitochondrion [GO:0005739]
+================================================================================
+
+hydrophobic: mean=4.500, sd=0.707, threshold=5.914
+  no outliers; top contributors:
+    bd5klu-a-a-6uz1 (count=5)
+    bd5klu-b-b-6uz1 (count=4)
+
+hbond: mean=2.000, sd=0.000, threshold=2.000
+  no outliers; top contributors:
+    bd5klu-a-a-6uz1 (count=2)
+    bd5klu-b-b-6uz1 (count=2)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5klu-a-a-6uz1 (count=0)
+    bd5klu-b-b-6uz1 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5klu-a-a-6uz1 (count=0)
+    bd5klu-b-b-6uz1 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5klu-a-a-6uz1 (count=0)
+    bd5klu-b-b-6uz1 (count=0)
+
+saltbridge: mean=0.500, sd=0.707, threshold=1.914
+  no outliers; top contributors:
+    bd5klu-b-b-6uz1 (count=1)
+    bd5klu-a-a-6uz1 (count=0)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5klu-a-a-6uz1 (count=0)
+    bd5klu-b-b-6uz1 (count=0)
+
+================================================================================
+GO Cellular Component: neuromuscular junction [GO:0031594]
+================================================================================
+
+hydrophobic: mean=2.500, sd=3.536, threshold=9.571
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=5)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+hbond: mean=3.000, sd=1.414, threshold=5.828
+  no outliers; top contributors:
+    bd7p1p-aa-aa-4ix1 (count=4)
+    bd7p1p-a-aa-4ix1 (count=2)
+
+pistacking: mean=0.500, sd=0.707, threshold=1.914
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=1)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+================================================================================
+GO Cellular Component: nucleoplasm [GO:0005654]
+================================================================================
+
+hydrophobic: mean=1.556, sd=1.157, threshold=3.870
+  bd7aw6-b-b-fvp1 (count=5)
+  bd7aw6-a-a-fvp1 (count=4)
+
+hbond: mean=10.639, sd=5.462, threshold=21.564
+  no outliers; top contributors:
+    bd4gz5-c-c-ud11 (count=17)
+    bd8fe6-a-a-ud11 (count=17)
+    bd1on6-a-a-ud11 (count=16)
+    bd8fe6-g-g-ud11 (count=16)
+    bd8fuf-e-e-ud11 (count=16)
+
+pistacking: mean=0.472, sd=0.506, threshold=1.485
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=1)
+    bd4gz5-b-b-ud11 (count=1)
+    bd4gz5-c-c-ud11 (count=1)
+    bd4gz5-d-d-ud11 (count=1)
+    bd4n3c-a-a-ud11 (count=1)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1jv1-a-a-ud11 (count=0)
+    bd1jv1-a-b-ud11 (count=0)
+    bd1jv1-b-a-ud11 (count=0)
+    bd1jv1-b-b-ud11 (count=0)
+    bd1jvd-a-a-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1jv1-a-a-ud11 (count=0)
+    bd1jv1-a-b-ud11 (count=0)
+    bd1jv1-b-a-ud11 (count=0)
+    bd1jv1-b-b-ud11 (count=0)
+    bd1jvd-a-a-ud11 (count=0)
+
+saltbridge: mean=2.361, sd=1.199, threshold=4.759
+  bd6z2f-b-b-ud11 (count=6)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1jv1-a-a-ud11 (count=0)
+    bd1jv1-a-b-ud11 (count=0)
+    bd1jv1-b-a-ud11 (count=0)
+    bd1jv1-b-b-ud11 (count=0)
+    bd1jvd-a-a-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: nucleus [GO:0005634]
+================================================================================
+
+hydrophobic: mean=1.450, sd=1.146, threshold=3.742
+  bd7p1p-a-aa-4ix1 (count=5)
+
+hbond: mean=12.650, sd=4.727, threshold=22.104
+  no outliers; top contributors:
+    bd4gz5-c-c-ud11 (count=17)
+    bd8fe6-a-a-ud11 (count=17)
+    bd8fe6-g-g-ud11 (count=16)
+    bd8fuf-e-e-ud11 (count=16)
+    bd4gz5-a-a-ud11 (count=15)
+
+pistacking: mean=0.900, sd=0.308, threshold=1.516
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=1)
+    bd4gz5-b-b-ud11 (count=1)
+    bd4gz5-c-c-ud11 (count=1)
+    bd4gz5-d-d-ud11 (count=1)
+    bd4n3c-a-a-ud11 (count=1)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+saltbridge: mean=2.150, sd=1.182, threshold=4.514
+  no outliers; top contributors:
+    bd8fuf-g-g-ud11 (count=4)
+    bd4gz5-a-a-ud11 (count=3)
+    bd4gz5-b-b-ud11 (count=3)
+    bd4gz5-c-c-ud11 (count=3)
+    bd4gz5-d-d-ud11 (count=3)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: outer membrane [GO:0019867]
+================================================================================
+
+hydrophobic: mean=2.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6q5e-a-a-lp51 (count=2)
+
+hbond: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6q5e-a-a-lp51 (count=0)
+
+pistacking: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6q5e-a-a-lp51 (count=0)
+
+pication: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6q5e-a-a-lp51 (count=0)
+
+halogen: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6q5e-a-a-lp51 (count=0)
+
+saltbridge: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6q5e-a-a-lp51 (count=0)
+
+metal: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd6q5e-a-a-lp51 (count=0)
+
+================================================================================
+GO Cellular Component: perinuclear region of cytoplasm [GO:0048471]
+================================================================================
+
+hydrophobic: mean=2.000, sd=1.897, threshold=5.795
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=5)
+    bd1foa-a-a-ud11 (count=3)
+    bd6f30-a-a-ud11 (count=2)
+    bd6f30-b-b-ud11 (count=2)
+    bd6eyj-a-a-c5h1 (count=0)
+
+hbond: mean=6.667, sd=4.633, threshold=15.933
+  no outliers; top contributors:
+    bd1foa-a-a-ud11 (count=14)
+    bd6eyj-a-a-c5h1 (count=10)
+    bd6f30-b-b-ud11 (count=7)
+    bd7p1p-aa-aa-4ix1 (count=4)
+    bd6f30-a-a-ud11 (count=3)
+
+pistacking: mean=0.833, sd=0.983, threshold=2.800
+  no outliers; top contributors:
+    bd6f30-a-a-ud11 (count=2)
+    bd6f30-b-b-ud11 (count=2)
+    bd7p1p-a-aa-4ix1 (count=1)
+    bd1foa-a-a-ud11 (count=0)
+    bd6eyj-a-a-c5h1 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1foa-a-a-ud11 (count=0)
+    bd6eyj-a-a-c5h1 (count=0)
+    bd6f30-a-a-ud11 (count=0)
+    bd6f30-b-b-ud11 (count=0)
+    bd7p1p-a-aa-4ix1 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1foa-a-a-ud11 (count=0)
+    bd6eyj-a-a-c5h1 (count=0)
+    bd6f30-a-a-ud11 (count=0)
+    bd6f30-b-b-ud11 (count=0)
+    bd7p1p-a-aa-4ix1 (count=0)
+
+saltbridge: mean=2.167, sd=2.317, threshold=6.800
+  no outliers; top contributors:
+    bd6f30-a-a-ud11 (count=5)
+    bd6f30-b-b-ud11 (count=5)
+    bd6eyj-a-a-c5h1 (count=2)
+    bd1foa-a-a-ud11 (count=1)
+    bd7p1p-a-aa-4ix1 (count=0)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1foa-a-a-ud11 (count=0)
+    bd6eyj-a-a-c5h1 (count=0)
+    bd6f30-a-a-ud11 (count=0)
+    bd6f30-b-b-ud11 (count=0)
+    bd7p1p-a-aa-4ix1 (count=0)
+
+================================================================================
+GO Cellular Component: peroxisome [GO:0005777]
+================================================================================
+
+hydrophobic: mean=3.000, sd=1.265, threshold=5.530
+  no outliers; top contributors:
+    bd7aw6-b-b-fvp1 (count=5)
+    bd7aw6-a-a-fvp1 (count=4)
+    bd6d49-a-a-fvp1 (count=3)
+    bd6d49-b-b-fvp1 (count=2)
+    bd6d4a-a-a-fvp1 (count=2)
+
+hbond: mean=5.667, sd=1.862, threshold=9.390
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=9)
+    bd6d49-b-b-fvp1 (count=6)
+    bd6d4a-a-a-fvp1 (count=6)
+    bd7aw6-a-a-fvp1 (count=5)
+    bd6d4a-b-b-fvp1 (count=4)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+    bd6d4a-b-b-fvp1 (count=0)
+    bd7aw6-a-a-fvp1 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+    bd6d4a-b-b-fvp1 (count=0)
+    bd7aw6-a-a-fvp1 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+    bd6d4a-b-b-fvp1 (count=0)
+    bd7aw6-a-a-fvp1 (count=0)
+
+saltbridge: mean=1.000, sd=0.000, threshold=1.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=1)
+    bd6d49-b-b-fvp1 (count=1)
+    bd6d4a-a-a-fvp1 (count=1)
+    bd6d4a-b-b-fvp1 (count=1)
+    bd7aw6-a-a-fvp1 (count=1)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+    bd6d4a-b-b-fvp1 (count=0)
+    bd7aw6-a-a-fvp1 (count=0)
+
+================================================================================
+GO Cellular Component: plasma membrane [GO:0005886]
+================================================================================
+
+hydrophobic: mean=2.700, sd=3.071, threshold=8.843
+  bd2e59-a-a-lp51 (count=12)
+  bd3vq2-c-c-lp51 (count=11)
+  bd4g8a-c-c-lp51 (count=11)
+  bd3vq2-d-d-lp51 (count=10)
+  bd4g8a-d-d-lp51 (count=9)
+
+hbond: mean=8.267, sd=5.511, threshold=19.288
+  no outliers; top contributors:
+    bd3s2u-a-a-ud11 (count=17)
+    bd4gz5-c-c-ud11 (count=17)
+    bd8fe6-a-a-ud11 (count=17)
+    bd8fe6-g-g-ud11 (count=16)
+    bd8fuf-e-e-ud11 (count=16)
+
+pistacking: mean=0.300, sd=0.462, threshold=1.224
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=1)
+    bd4gz5-b-b-ud11 (count=1)
+    bd4gz5-c-c-ud11 (count=1)
+    bd4gz5-d-d-ud11 (count=1)
+    bd4n3c-a-a-ud11 (count=1)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1jv1-a-a-ud11 (count=0)
+    bd1jv1-a-b-ud11 (count=0)
+    bd1jv1-b-a-ud11 (count=0)
+    bd1jv1-b-b-ud11 (count=0)
+    bd1jvd-a-a-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1jv1-a-a-ud11 (count=0)
+    bd1jv1-a-b-ud11 (count=0)
+    bd1jv1-b-a-ud11 (count=0)
+    bd1jv1-b-b-ud11 (count=0)
+    bd1jvd-a-a-ud11 (count=0)
+
+saltbridge: mean=1.600, sd=1.380, threshold=4.360
+  bd6z2f-b-b-ud11 (count=6)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd1jv1-a-a-ud11 (count=0)
+    bd1jv1-a-b-ud11 (count=0)
+    bd1jv1-b-a-ud11 (count=0)
+    bd1jv1-b-b-ud11 (count=0)
+    bd1jvd-a-a-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: protein N-acetylglucosaminyltransferase complex [GO:0017122]
+================================================================================
+
+hydrophobic: mean=1.333, sd=0.767, threshold=2.867
+  bd8fe7-g-g-ud11 (count=3)
+
+hbond: mean=13.722, sd=3.561, threshold=20.845
+  no outliers; top contributors:
+    bd4gz5-c-c-ud11 (count=17)
+    bd8fe6-a-a-ud11 (count=17)
+    bd8fe6-g-g-ud11 (count=16)
+    bd8fuf-e-e-ud11 (count=16)
+    bd4gz5-a-a-ud11 (count=15)
+
+pistacking: mean=0.944, sd=0.236, threshold=1.416
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=1)
+    bd4gz5-b-b-ud11 (count=1)
+    bd4gz5-c-c-ud11 (count=1)
+    bd4gz5-d-d-ud11 (count=1)
+    bd4n3c-a-a-ud11 (count=1)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+saltbridge: mean=2.389, sd=0.979, threshold=4.346
+  no outliers; top contributors:
+    bd8fuf-g-g-ud11 (count=4)
+    bd4gz5-a-a-ud11 (count=3)
+    bd4gz5-b-b-ud11 (count=3)
+    bd4gz5-c-c-ud11 (count=3)
+    bd4gz5-d-d-ud11 (count=3)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: protein-containing complex [GO:0032991]
+================================================================================
+
+hydrophobic: mean=1.333, sd=0.767, threshold=2.867
+  bd8fe7-g-g-ud11 (count=3)
+
+hbond: mean=13.722, sd=3.561, threshold=20.845
+  no outliers; top contributors:
+    bd4gz5-c-c-ud11 (count=17)
+    bd8fe6-a-a-ud11 (count=17)
+    bd8fe6-g-g-ud11 (count=16)
+    bd8fuf-e-e-ud11 (count=16)
+    bd4gz5-a-a-ud11 (count=15)
+
+pistacking: mean=0.944, sd=0.236, threshold=1.416
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=1)
+    bd4gz5-b-b-ud11 (count=1)
+    bd4gz5-c-c-ud11 (count=1)
+    bd4gz5-d-d-ud11 (count=1)
+    bd4n3c-a-a-ud11 (count=1)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+saltbridge: mean=2.389, sd=0.979, threshold=4.346
+  no outliers; top contributors:
+    bd8fuf-g-g-ud11 (count=4)
+    bd4gz5-a-a-ud11 (count=3)
+    bd4gz5-b-b-ud11 (count=3)
+    bd4gz5-c-c-ud11 (count=3)
+    bd4gz5-d-d-ud11 (count=3)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd4gz5-a-a-ud11 (count=0)
+    bd4gz5-b-b-ud11 (count=0)
+    bd4gz5-c-c-ud11 (count=0)
+    bd4gz5-d-d-ud11 (count=0)
+    bd4n3c-a-a-ud11 (count=0)
+
+================================================================================
+GO Cellular Component: receptor complex [GO:0043235]
+================================================================================
+
+hydrophobic: mean=9.111, sd=2.028, threshold=13.166
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=12)
+    bd3vq2-c-c-lp51 (count=11)
+    bd4g8a-c-c-lp51 (count=11)
+    bd3vq2-d-d-lp51 (count=10)
+    bd4g8a-d-d-lp51 (count=9)
+
+hbond: mean=2.778, sd=0.972, threshold=4.721
+  no outliers; top contributors:
+    bd3vq1-c-c-lp51 (count=4)
+    bd3vq2-c-c-lp51 (count=4)
+    bd3vq2-d-d-lp51 (count=3)
+    bd4g8a-d-d-lp51 (count=3)
+    bd5ijd-c-c-lp51 (count=3)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=0)
+    bd3vq1-c-c-lp51 (count=0)
+    bd3vq1-d-d-lp51 (count=0)
+    bd3vq2-c-c-lp51 (count=0)
+    bd3vq2-d-d-lp51 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=0)
+    bd3vq1-c-c-lp51 (count=0)
+    bd3vq1-d-d-lp51 (count=0)
+    bd3vq2-c-c-lp51 (count=0)
+    bd3vq2-d-d-lp51 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=0)
+    bd3vq1-c-c-lp51 (count=0)
+    bd3vq1-d-d-lp51 (count=0)
+    bd3vq2-c-c-lp51 (count=0)
+    bd3vq2-d-d-lp51 (count=0)
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=0)
+    bd3vq1-c-c-lp51 (count=0)
+    bd3vq1-d-d-lp51 (count=0)
+    bd3vq2-c-c-lp51 (count=0)
+    bd3vq2-d-d-lp51 (count=0)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd2e59-a-a-lp51 (count=0)
+    bd3vq1-c-c-lp51 (count=0)
+    bd3vq1-d-d-lp51 (count=0)
+    bd3vq2-c-c-lp51 (count=0)
+    bd3vq2-d-d-lp51 (count=0)
+
+================================================================================
+GO Cellular Component: recycling endosome [GO:0055037]
+================================================================================
+
+hydrophobic: mean=6.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=6)
+
+hbond: mean=4.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=4)
+
+pistacking: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=0)
+
+pication: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=0)
+
+halogen: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=0)
+
+saltbridge: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=0)
+
+metal: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=0)
+
+================================================================================
+GO Cellular Component: respirasome [GO:0070469]
+================================================================================
+
+hydrophobic: mean=4.500, sd=0.707, threshold=5.914
+  no outliers; top contributors:
+    bd5klu-a-a-6uz1 (count=5)
+    bd5klu-b-b-6uz1 (count=4)
+
+hbond: mean=2.000, sd=0.000, threshold=2.000
+  no outliers; top contributors:
+    bd5klu-a-a-6uz1 (count=2)
+    bd5klu-b-b-6uz1 (count=2)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5klu-a-a-6uz1 (count=0)
+    bd5klu-b-b-6uz1 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5klu-a-a-6uz1 (count=0)
+    bd5klu-b-b-6uz1 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5klu-a-a-6uz1 (count=0)
+    bd5klu-b-b-6uz1 (count=0)
+
+saltbridge: mean=0.500, sd=0.707, threshold=1.914
+  no outliers; top contributors:
+    bd5klu-b-b-6uz1 (count=1)
+    bd5klu-a-a-6uz1 (count=0)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd5klu-a-a-6uz1 (count=0)
+    bd5klu-b-b-6uz1 (count=0)
+
+================================================================================
+GO Cellular Component: side of membrane [GO:0098552]
+================================================================================
+
+hydrophobic: mean=2.500, sd=3.536, threshold=9.571
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=5)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+hbond: mean=3.000, sd=1.414, threshold=5.828
+  no outliers; top contributors:
+    bd7p1p-aa-aa-4ix1 (count=4)
+    bd7p1p-a-aa-4ix1 (count=2)
+
+pistacking: mean=0.500, sd=0.707, threshold=1.914
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=1)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+================================================================================
+GO Cellular Component: specific granule [GO:0042581]
+================================================================================
+
+hydrophobic: mean=6.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=6)
+
+hbond: mean=4.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=4)
+
+pistacking: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=0)
+
+pication: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=0)
+
+halogen: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=0)
+
+saltbridge: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=0)
+
+metal: mean=0.000, sd=nan, threshold=nan
+  no outliers; top contributors:
+    bd3rgy-a-a-lp51 (count=0)
+
+================================================================================
+GO Cellular Component: specific granule membrane [GO:0035579]
+================================================================================
+
+hydrophobic: mean=3.000, sd=1.265, threshold=5.530
+  no outliers; top contributors:
+    bd7aw6-b-b-fvp1 (count=5)
+    bd7aw6-a-a-fvp1 (count=4)
+    bd6d49-a-a-fvp1 (count=3)
+    bd6d49-b-b-fvp1 (count=2)
+    bd6d4a-a-a-fvp1 (count=2)
+
+hbond: mean=5.667, sd=1.862, threshold=9.390
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=9)
+    bd6d49-b-b-fvp1 (count=6)
+    bd6d4a-a-a-fvp1 (count=6)
+    bd7aw6-a-a-fvp1 (count=5)
+    bd6d4a-b-b-fvp1 (count=4)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+    bd6d4a-b-b-fvp1 (count=0)
+    bd7aw6-a-a-fvp1 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+    bd6d4a-b-b-fvp1 (count=0)
+    bd7aw6-a-a-fvp1 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+    bd6d4a-b-b-fvp1 (count=0)
+    bd7aw6-a-a-fvp1 (count=0)
+
+saltbridge: mean=1.000, sd=0.000, threshold=1.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=1)
+    bd6d49-b-b-fvp1 (count=1)
+    bd6d4a-a-a-fvp1 (count=1)
+    bd6d4a-b-b-fvp1 (count=1)
+    bd7aw6-a-a-fvp1 (count=1)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+    bd6d4a-b-b-fvp1 (count=0)
+    bd7aw6-a-a-fvp1 (count=0)
+
+================================================================================
+GO Cellular Component: synapse [GO:0045202]
+================================================================================
+
+hydrophobic: mean=2.500, sd=3.536, threshold=9.571
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=5)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+hbond: mean=3.000, sd=1.414, threshold=5.828
+  no outliers; top contributors:
+    bd7p1p-aa-aa-4ix1 (count=4)
+    bd7p1p-a-aa-4ix1 (count=2)
+
+pistacking: mean=0.500, sd=0.707, threshold=1.914
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=1)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+================================================================================
+GO Cellular Component: synaptic cleft [GO:0043083]
+================================================================================
+
+hydrophobic: mean=2.500, sd=3.536, threshold=9.571
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=5)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+hbond: mean=3.000, sd=1.414, threshold=5.828
+  no outliers; top contributors:
+    bd7p1p-aa-aa-4ix1 (count=4)
+    bd7p1p-a-aa-4ix1 (count=2)
+
+pistacking: mean=0.500, sd=0.707, threshold=1.914
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=1)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd7p1p-a-aa-4ix1 (count=0)
+    bd7p1p-aa-aa-4ix1 (count=0)
+
+================================================================================
+GO Cellular Component: tertiary granule membrane [GO:0070821]
+================================================================================
+
+hydrophobic: mean=3.000, sd=1.265, threshold=5.530
+  no outliers; top contributors:
+    bd7aw6-b-b-fvp1 (count=5)
+    bd7aw6-a-a-fvp1 (count=4)
+    bd6d49-a-a-fvp1 (count=3)
+    bd6d49-b-b-fvp1 (count=2)
+    bd6d4a-a-a-fvp1 (count=2)
+
+hbond: mean=5.667, sd=1.862, threshold=9.390
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=9)
+    bd6d49-b-b-fvp1 (count=6)
+    bd6d4a-a-a-fvp1 (count=6)
+    bd7aw6-a-a-fvp1 (count=5)
+    bd6d4a-b-b-fvp1 (count=4)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+    bd6d4a-b-b-fvp1 (count=0)
+    bd7aw6-a-a-fvp1 (count=0)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+    bd6d4a-b-b-fvp1 (count=0)
+    bd7aw6-a-a-fvp1 (count=0)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+    bd6d4a-b-b-fvp1 (count=0)
+    bd7aw6-a-a-fvp1 (count=0)
+
+saltbridge: mean=1.000, sd=0.000, threshold=1.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=1)
+    bd6d49-b-b-fvp1 (count=1)
+    bd6d4a-a-a-fvp1 (count=1)
+    bd6d4a-b-b-fvp1 (count=1)
+    bd7aw6-a-a-fvp1 (count=1)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  no outliers; top contributors:
+    bd6d49-a-a-fvp1 (count=0)
+    bd6d49-b-b-fvp1 (count=0)
+    bd6d4a-a-a-fvp1 (count=0)
+    bd6d4a-b-b-fvp1 (count=0)
+    bd7aw6-a-a-fvp1 (count=0)

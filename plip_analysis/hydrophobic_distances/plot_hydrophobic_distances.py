@@ -14,7 +14,7 @@ from pathlib import Path
 # --------------------------------------
 # User configuration
 # --------------------------------------
-input_dir = "/Users/amcshan3/Desktop/Manuscripts/PLIP_Dpocket_Lipid_Puri_2025/used-to-make/plip_amino_acid/hydrophobic_distances"
+input_dir = "."
 output_pdf = "hydrophobic_distance_violin.pdf"
 median_output_txt = "hydrophobic_distance_median_values.txt"
 
@@ -88,6 +88,19 @@ data_list = [merged[merged["class"] == c]["distance"] for c in target_classes]
 
 # Sample sizes
 sample_sizes = [len(vals) for vals in data_list]
+
+# --------------------------------------
+# EXPORT EXACT VALUES USED IN VIOLIN PLOT
+# --------------------------------------
+violin_output_file = "hydrophobic_distances_violin_values.tsv"
+
+with open(violin_output_file, "w") as f:
+    f.write("class\thydrophobic_distance\n")
+    for cls, vals in zip(target_classes, data_list):
+        for v in vals:
+            f.write(f"{cls}\t{v}\n")
+
+print(f"Saved violin plot values to: {violin_output_file}")
 
 # --------------------------------------
 # Calculate medians and save to text file

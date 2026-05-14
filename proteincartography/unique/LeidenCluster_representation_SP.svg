@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 600" style="enable-background:new 0 0 1200 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'ArialMT';}
+	.st1{font-size:18px;}
+	.st2{fill:none;stroke:#000000;}
+	.st3{font-size:10px;}
+	.st4{font-size:14px;}
+	.st5{fill:#4682B4;stroke:#000000;}
+	.st6{fill:none;stroke:#FF0000;stroke-width:2;}
+	.st7{fill:#FF0000;}
+</style>
+<text transform="matrix(1 0 0 1 383.1168 50)" class="st0 st1">LeidenCluster Representation (Top 40) - Sphingolipids</text>
+<line class="st2" x1="70" y1="550" x2="1120" y2="550"/>
+<line class="st2" x1="70" y1="550" x2="70" y2="50"/>
+<line class="st2" x1="1120" y1="550" x2="1120" y2="50"/>
+<line class="st2" x1="65" y1="550" x2="70" y2="550"/>
+<text transform="matrix(1 0 0 1 54.4385 554)" class="st0 st3">0</text>
+<line class="st2" x1="65" y1="467.3" x2="70" y2="467.3"/>
+<text transform="matrix(1 0 0 1 54.4385 471.3469)" class="st0 st3">9</text>
+<line class="st2" x1="65" y1="375.5" x2="70" y2="375.5"/>
+<text transform="matrix(1 0 0 1 48.877 379.5102)" class="st0 st3">19</text>
+<line class="st2" x1="65" y1="283.7" x2="70" y2="283.7"/>
+<text transform="matrix(1 0 0 1 48.877 287.6735)" class="st0 st3">29</text>
+<line class="st2" x1="65" y1="191.8" x2="70" y2="191.8"/>
+<text transform="matrix(1 0 0 1 48.877 195.8367)" class="st0 st3">39</text>
+<line class="st2" x1="65" y1="100" x2="70" y2="100"/>
+<text transform="matrix(1 0 0 1 48.877 104)" class="st0 st3">49</text>
+<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 27.164 372.3203)" class="st0 st4">Number of structures</text>
+<line class="st2" x1="1120" y1="550" x2="1125" y2="550"/>
+<text transform="matrix(1 0 0 1 1130 554)" class="st0 st3">0.0</text>
+<line class="st2" x1="1120" y1="460" x2="1125" y2="460"/>
+<text transform="matrix(1 0 0 1 1130 464)" class="st0 st3">0.2</text>
+<line class="st2" x1="1120" y1="370" x2="1125" y2="370"/>
+<text transform="matrix(1 0 0 1 1130 374)" class="st0 st3">0.4</text>
+<line class="st2" x1="1120" y1="280" x2="1125" y2="280"/>
+<text transform="matrix(1 0 0 1 1130 284)" class="st0 st3">0.6</text>
+<line class="st2" x1="1120" y1="190" x2="1125" y2="190"/>
+<text transform="matrix(1 0 0 1 1130 194)" class="st0 st3">0.8</text>
+<line class="st2" x1="1120" y1="100" x2="1125" y2="100"/>
+<text transform="matrix(1 0 0 1 1130 104)" class="st0 st3">1.0</text>
+<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 1174.2734 232.0365)" class="st0 st4">Cumulative fraction</text>
+<rect x="70" y="100" class="st5" width="76.4" height="450"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 86.0957 581.9041)" class="st0 st3">LC00</text>
+<rect x="165.5" y="274.5" class="st5" width="76.4" height="275.5"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 181.5503 581.9041)" class="st0 st3">LC01</text>
+<rect x="260.9" y="283.7" class="st5" width="76.4" height="266.3"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 277.0049 581.9041)" class="st0 st3">LC02</text>
+<rect x="356.4" y="348" class="st5" width="76.4" height="202"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 372.4595 581.9041)" class="st0 st3">LC03</text>
+<rect x="451.8" y="366.3" class="st5" width="76.4" height="183.7"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 467.9138 581.9041)" class="st0 st3">LC04</text>
+<rect x="547.3" y="375.5" class="st5" width="76.4" height="174.5"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 563.3684 581.9041)" class="st0 st3">LC05</text>
+<rect x="642.7" y="430.6" class="st5" width="76.4" height="119.4"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 658.823 581.9041)" class="st0 st3">LC06</text>
+<rect x="738.2" y="439.8" class="st5" width="76.4" height="110.2"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 754.2776 581.9041)" class="st0 st3">LC07</text>
+<rect x="833.6" y="449" class="st5" width="76.4" height="101"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 849.7322 581.9041)" class="st0 st3">LC08</text>
+<rect x="929.1" y="458.2" class="st5" width="76.4" height="91.8"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 945.1868 581.9041)" class="st0 st3">LC09</text>
+<rect x="1024.5" y="467.3" class="st5" width="76.4" height="82.7"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 1040.6411 581.9041)" class="st0 st3">LC10</text>
+<polyline class="st6" points="108.2,451.6 203.6,391.3 299.1,333 394.5,288.8 490,248.7 585.5,210.5 680.9,184.4 776.4,160.3 
+	871.8,138.2 967.3,118.1 1062.7,100 "/>
+<circle class="st7" cx="108.2" cy="451.6" r="3"/>
+<circle class="st7" cx="203.6" cy="391.3" r="3"/>
+<circle class="st7" cx="299.1" cy="333" r="3"/>
+<circle class="st7" cx="394.5" cy="288.8" r="3"/>
+<circle class="st7" cx="490" cy="248.7" r="3"/>
+<circle class="st7" cx="585.5" cy="210.5" r="3"/>
+<circle class="st7" cx="680.9" cy="184.4" r="3"/>
+<circle class="st7" cx="776.4" cy="160.3" r="3"/>
+<circle class="st7" cx="871.8" cy="138.2" r="3"/>
+<circle class="st7" cx="967.3" cy="118.1" r="3"/>
+<circle class="st7" cx="1062.7" cy="100" r="3"/>
+</svg>

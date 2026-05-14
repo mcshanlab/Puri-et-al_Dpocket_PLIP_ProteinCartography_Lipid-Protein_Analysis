@@ -1,0 +1,1136 @@
+class	GO_CC	hydrophobicity_score
+Sphingolipid	endocytic vesicle lumen [GO:0071682]	11.14
+Sphingolipid	tertiary granule lumen [GO:1904724]	11.14
+Sphingolipid	cytosol [GO:0005829]	11.14
+Sphingolipid	ficolin-1-rich granule lumen [GO:1904813]	11.14
+Sphingolipid	extracellular exosome [GO:0070062]	11.14
+Sphingolipid	blood microparticle [GO:0072562]	11.14
+Sphingolipid	extracellular region [GO:0005576]	11.14
+Sphingolipid	extracellular space [GO:0005615]	11.14
+Sphingolipid	hemoglobin complex [GO:0005833]	11.14
+Sphingolipid	haptoglobin-hemoglobin complex [GO:0031838]	11.14
+Sphingolipid	axon terminus [GO:0043679]	54.13
+Sphingolipid	voltage-gated potassium channel complex [GO:0008076]	54.13
+Sphingolipid	endoplasmic reticulum [GO:0005783]	54.13
+Sphingolipid	cell surface [GO:0009986]	54.13
+Sphingolipid	apical plasma membrane [GO:0016324]	54.13
+Sphingolipid	plasma membrane [GO:0005886]	54.13
+Sphingolipid	astrocyte projection [GO:0097449]	54.13
+Sphingolipid	axon [GO:0030424]	54.13
+Sphingolipid	calyx of Held [GO:0044305]	54.13
+Sphingolipid	neuronal cell body [GO:0043025]	54.13
+Sphingolipid	membrane raft [GO:0045121]	47.93
+Sphingolipid	endosome membrane [GO:0010008]	47.93
+Sphingolipid	plasma membrane [GO:0005886]	47.93
+Sphingolipid	extracellular space [GO:0005615]	47.93
+Sphingolipid	external side of plasma membrane [GO:0009897]	47.93
+Sphingolipid	endoplasmic reticulum [GO:0005783]	45.33
+Sphingolipid	secretory granule membrane [GO:0030667]	45.33
+Sphingolipid	plasma membrane [GO:0005886]	45.33
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	45.33
+Sphingolipid	SPOTS complex [GO:0035339]	45.33
+Sphingolipid	specific granule membrane [GO:0035579]	45.33
+Sphingolipid	cytoplasm [GO:0005737]	32.65
+Sphingolipid	apical plasma membrane [GO:0016324]	52.21
+Sphingolipid	gap junction [GO:0005921]	52.21
+Sphingolipid	plasma membrane [GO:0005886]	52.21
+Sphingolipid	endoplasmic reticulum [GO:0005783]	52.21
+Sphingolipid	cytoplasm [GO:0005737]	46.0
+Sphingolipid	late endosome [GO:0005770]	56.09
+Sphingolipid	endoplasmic reticulum [GO:0005783]	56.09
+Sphingolipid	cytoplasm [GO:0005737]	56.09
+Sphingolipid	endosome membrane [GO:0010008]	56.09
+Sphingolipid	lysosome [GO:0005764]	56.09
+Sphingolipid	early endosome [GO:0005769]	56.09
+Sphingolipid	extracellular space [GO:0005615]	56.09
+Sphingolipid	external side of plasma membrane [GO:0009897]	56.09
+Sphingolipid	lysosomal membrane [GO:0005765]	56.09
+Sphingolipid	cell surface [GO:0009986]	56.09
+Sphingolipid	endosome membrane [GO:0010008]	86.5
+Sphingolipid	cytosol [GO:0005829]	86.5
+Sphingolipid	plasma membrane [GO:0005886]	86.5
+Sphingolipid	nuclear outer membrane [GO:0005640]	86.5
+Sphingolipid	Golgi apparatus [GO:0005794]	86.5
+Sphingolipid	endosome membrane [GO:0010008]	78.67
+Sphingolipid	cytosol [GO:0005829]	78.67
+Sphingolipid	plasma membrane [GO:0005886]	78.67
+Sphingolipid	nuclear outer membrane [GO:0005640]	78.67
+Sphingolipid	Golgi apparatus [GO:0005794]	78.67
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	44.85
+Sphingolipid	endoplasmic reticulum [GO:0005783]	44.85
+Sphingolipid	endosome membrane [GO:0010008]	48.24
+Sphingolipid	cytosol [GO:0005829]	48.24
+Sphingolipid	intracellular membrane-bounded organelle [GO:0043231]	48.24
+Sphingolipid	plasma membrane [GO:0005886]	48.24
+Sphingolipid	membrane [GO:0016020]	48.24
+Sphingolipid	extracellular space [GO:0005615]	48.24
+Sphingolipid	external side of plasma membrane [GO:0009897]	48.24
+Sphingolipid	lysosomal membrane [GO:0005765]	48.24
+Sphingolipid	cell surface [GO:0009986]	48.24
+Sphingolipid	Golgi apparatus [GO:0005794]	48.24
+Sphingolipid	extracellular region [GO:0005576]	11.22
+Sphingolipid	cytosol [GO:0005829]	32.82
+Sphingolipid	nucleoplasm [GO:0005654]	32.82
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	32.82
+Sphingolipid	mitochondrion [GO:0005739]	32.82
+Sphingolipid	Golgi apparatus [GO:0005794]	32.82
+Sphingolipid	late endosome [GO:0005770]	54.37
+Sphingolipid	endoplasmic reticulum [GO:0005783]	54.37
+Sphingolipid	cytoplasm [GO:0005737]	54.37
+Sphingolipid	endosome membrane [GO:0010008]	54.37
+Sphingolipid	lysosome [GO:0005764]	54.37
+Sphingolipid	early endosome [GO:0005769]	54.37
+Sphingolipid	extracellular space [GO:0005615]	54.37
+Sphingolipid	external side of plasma membrane [GO:0009897]	54.37
+Sphingolipid	lysosomal membrane [GO:0005765]	54.37
+Sphingolipid	cell surface [GO:0009986]	54.37
+Sphingolipid	cytosol [GO:0005829]	64.84
+Sphingolipid	endosome membrane [GO:0010008]	49.9
+Sphingolipid	cytosol [GO:0005829]	49.9
+Sphingolipid	plasma membrane [GO:0005886]	49.9
+Sphingolipid	nuclear outer membrane [GO:0005640]	49.9
+Sphingolipid	Golgi apparatus [GO:0005794]	49.9
+Sphingolipid	plasma membrane [GO:0005886]	-13.36
+Sphingolipid	alpha-beta T cell receptor complex [GO:0042105]	-13.36
+Sphingolipid	late endosome [GO:0005770]	67.79
+Sphingolipid	endoplasmic reticulum [GO:0005783]	67.79
+Sphingolipid	cytoplasm [GO:0005737]	67.79
+Sphingolipid	endosome membrane [GO:0010008]	67.79
+Sphingolipid	lysosome [GO:0005764]	67.79
+Sphingolipid	early endosome [GO:0005769]	67.79
+Sphingolipid	extracellular space [GO:0005615]	67.79
+Sphingolipid	external side of plasma membrane [GO:0009897]	67.79
+Sphingolipid	lysosomal membrane [GO:0005765]	67.79
+Sphingolipid	cell surface [GO:0009986]	67.79
+Sphingolipid	membrane raft [GO:0045121]	49.59
+Sphingolipid	endosome membrane [GO:0010008]	49.59
+Sphingolipid	plasma membrane [GO:0005886]	49.59
+Sphingolipid	extracellular space [GO:0005615]	49.59
+Sphingolipid	external side of plasma membrane [GO:0009897]	49.59
+Sphingolipid	late endosome [GO:0005770]	59.44
+Sphingolipid	endoplasmic reticulum [GO:0005783]	59.44
+Sphingolipid	cytoplasm [GO:0005737]	59.44
+Sphingolipid	endosome membrane [GO:0010008]	59.44
+Sphingolipid	lysosome [GO:0005764]	59.44
+Sphingolipid	early endosome [GO:0005769]	59.44
+Sphingolipid	extracellular space [GO:0005615]	59.44
+Sphingolipid	external side of plasma membrane [GO:0009897]	59.44
+Sphingolipid	lysosomal membrane [GO:0005765]	59.44
+Sphingolipid	cell surface [GO:0009986]	59.44
+Sphingolipid	late endosome [GO:0005770]	54.96
+Sphingolipid	endoplasmic reticulum [GO:0005783]	54.96
+Sphingolipid	cytoplasm [GO:0005737]	54.96
+Sphingolipid	endosome membrane [GO:0010008]	54.96
+Sphingolipid	lysosome [GO:0005764]	54.96
+Sphingolipid	early endosome [GO:0005769]	54.96
+Sphingolipid	extracellular space [GO:0005615]	54.96
+Sphingolipid	external side of plasma membrane [GO:0009897]	54.96
+Sphingolipid	lysosomal membrane [GO:0005765]	54.96
+Sphingolipid	cell surface [GO:0009986]	54.96
+Sphingolipid	endosome membrane [GO:0010008]	60.83
+Sphingolipid	cytosol [GO:0005829]	60.83
+Sphingolipid	plasma membrane [GO:0005886]	60.83
+Sphingolipid	nuclear outer membrane [GO:0005640]	60.83
+Sphingolipid	Golgi apparatus [GO:0005794]	60.83
+Sphingolipid	endosome membrane [GO:0010008]	37.56
+Sphingolipid	cytosol [GO:0005829]	37.56
+Sphingolipid	plasma membrane [GO:0005886]	37.56
+Sphingolipid	nuclear outer membrane [GO:0005640]	37.56
+Sphingolipid	Golgi apparatus [GO:0005794]	37.56
+Sphingolipid	membrane [GO:0016020]	50.87
+Sphingolipid	cytosol [GO:0005829]	50.87
+Sphingolipid	endoplasmic reticulum [GO:0005783]	50.87
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	50.87
+Sphingolipid	SPOTS complex [GO:0035339]	57.7
+Sphingolipid	endoplasmic reticulum [GO:0005783]	57.7
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	57.7
+Sphingolipid	protein-containing complex [GO:0032991]	37.5
+Sphingolipid	spindle pole [GO:0000922]	37.5
+Sphingolipid	cytoplasm [GO:0005737]	37.5
+Sphingolipid	cytosol [GO:0005829]	37.5
+Sphingolipid	plasma membrane [GO:0005886]	-26.22
+Sphingolipid	alpha-beta T cell receptor complex [GO:0042105]	-26.22
+Sphingolipid	late endosome [GO:0005770]	59.06
+Sphingolipid	endoplasmic reticulum [GO:0005783]	59.06
+Sphingolipid	cytoplasm [GO:0005737]	59.06
+Sphingolipid	endosome membrane [GO:0010008]	59.06
+Sphingolipid	lysosome [GO:0005764]	59.06
+Sphingolipid	early endosome [GO:0005769]	59.06
+Sphingolipid	extracellular space [GO:0005615]	59.06
+Sphingolipid	external side of plasma membrane [GO:0009897]	59.06
+Sphingolipid	lysosomal membrane [GO:0005765]	59.06
+Sphingolipid	cell surface [GO:0009986]	59.06
+Sphingolipid	late endosome [GO:0005770]	40.13
+Sphingolipid	endoplasmic reticulum [GO:0005783]	40.13
+Sphingolipid	cytoplasm [GO:0005737]	40.13
+Sphingolipid	endosome membrane [GO:0010008]	40.13
+Sphingolipid	lysosome [GO:0005764]	40.13
+Sphingolipid	early endosome [GO:0005769]	40.13
+Sphingolipid	extracellular space [GO:0005615]	40.13
+Sphingolipid	external side of plasma membrane [GO:0009897]	40.13
+Sphingolipid	lysosomal membrane [GO:0005765]	40.13
+Sphingolipid	cell surface [GO:0009986]	40.13
+Sphingolipid	cytosol [GO:0005829]	51.5
+Sphingolipid	plasma membrane [GO:0005886]	68.77
+Sphingolipid	voltage-gated sodium channel complex [GO:0001518]	68.77
+Sphingolipid	axon [GO:0030424]	68.77
+Sphingolipid	voltage-gated calcium channel complex [GO:0005891]	68.77
+Sphingolipid	membrane raft [GO:0045121]	50.56
+Sphingolipid	endosome membrane [GO:0010008]	50.56
+Sphingolipid	plasma membrane [GO:0005886]	50.56
+Sphingolipid	extracellular space [GO:0005615]	50.56
+Sphingolipid	external side of plasma membrane [GO:0009897]	50.56
+Sphingolipid	apical plasma membrane [GO:0016324]	91.2
+Sphingolipid	astrocyte projection [GO:0097449]	91.2
+Sphingolipid	cell surface [GO:0009986]	91.2
+Sphingolipid	plasma membrane [GO:0005886]	91.2
+Sphingolipid	voltage-gated potassium channel complex [GO:0008076]	91.2
+Sphingolipid	calyx of Held [GO:0044305]	91.2
+Sphingolipid	neuronal cell body [GO:0043025]	91.2
+Sphingolipid	axon [GO:0030424]	91.2
+Sphingolipid	axon terminus [GO:0043679]	91.2
+Sphingolipid	endoplasmic reticulum [GO:0005783]	91.2
+Sphingolipid	late endosome [GO:0005770]	60.61
+Sphingolipid	endoplasmic reticulum [GO:0005783]	60.61
+Sphingolipid	cytoplasm [GO:0005737]	60.61
+Sphingolipid	endosome membrane [GO:0010008]	60.61
+Sphingolipid	basolateral plasma membrane [GO:0016323]	60.61
+Sphingolipid	lysosome [GO:0005764]	60.61
+Sphingolipid	early endosome [GO:0005769]	60.61
+Sphingolipid	plasma membrane [GO:0005886]	60.61
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	60.61
+Sphingolipid	extracellular space [GO:0005615]	60.61
+Sphingolipid	external side of plasma membrane [GO:0009897]	60.61
+Sphingolipid	lysosomal membrane [GO:0005765]	60.61
+Sphingolipid	cell surface [GO:0009986]	60.61
+Sphingolipid	endosome membrane [GO:0010008]	62.11
+Sphingolipid	cytosol [GO:0005829]	62.11
+Sphingolipid	plasma membrane [GO:0005886]	62.11
+Sphingolipid	nuclear outer membrane [GO:0005640]	62.11
+Sphingolipid	Golgi apparatus [GO:0005794]	62.11
+Sphingolipid	plasma membrane [GO:0005886]	56.54
+Sphingolipid	membrane [GO:0016020]	56.54
+Sphingolipid	endosome membrane [GO:0010008]	56.54
+Sphingolipid	membrane [GO:0016020]	48.56
+Sphingolipid	cytosol [GO:0005829]	48.56
+Sphingolipid	endoplasmic reticulum [GO:0005783]	48.56
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	48.56
+Sphingolipid	late endosome [GO:0005770]	57.28
+Sphingolipid	endoplasmic reticulum [GO:0005783]	57.28
+Sphingolipid	cytoplasm [GO:0005737]	57.28
+Sphingolipid	endosome membrane [GO:0010008]	57.28
+Sphingolipid	lysosome [GO:0005764]	57.28
+Sphingolipid	early endosome [GO:0005769]	57.28
+Sphingolipid	extracellular space [GO:0005615]	57.28
+Sphingolipid	external side of plasma membrane [GO:0009897]	57.28
+Sphingolipid	lysosomal membrane [GO:0005765]	57.28
+Sphingolipid	cell surface [GO:0009986]	57.28
+Sphingolipid	axon terminus [GO:0043679]	54.13
+Sphingolipid	voltage-gated potassium channel complex [GO:0008076]	54.13
+Sphingolipid	endoplasmic reticulum [GO:0005783]	54.13
+Sphingolipid	cell surface [GO:0009986]	54.13
+Sphingolipid	apical plasma membrane [GO:0016324]	54.13
+Sphingolipid	plasma membrane [GO:0005886]	54.13
+Sphingolipid	astrocyte projection [GO:0097449]	54.13
+Sphingolipid	axon [GO:0030424]	54.13
+Sphingolipid	calyx of Held [GO:0044305]	54.13
+Sphingolipid	neuronal cell body [GO:0043025]	54.13
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	72.6
+Sphingolipid	serine C-palmitoyltransferase complex [GO:0017059]	72.6
+Sphingolipid	extracellular space [GO:0005615]	69.95
+Sphingolipid	lipopolysaccharide receptor complex [GO:0046696]	69.95
+Sphingolipid	receptor complex [GO:0043235]	69.95
+Sphingolipid	plasma membrane [GO:0005886]	69.95
+Sphingolipid	cytoplasm [GO:0005737]	46.17
+Sphingolipid	apical plasma membrane [GO:0016324]	49.5
+Sphingolipid	gap junction [GO:0005921]	49.5
+Sphingolipid	plasma membrane [GO:0005886]	49.5
+Sphingolipid	endoplasmic reticulum [GO:0005783]	49.5
+Sphingolipid	cytoplasm [GO:0005737]	67.71
+Sphingolipid	membrane [GO:0016020]	52.32
+Sphingolipid	cytosol [GO:0005829]	52.32
+Sphingolipid	endoplasmic reticulum [GO:0005783]	52.32
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	52.32
+Sphingolipid	endosome membrane [GO:0010008]	56.55
+Sphingolipid	cytosol [GO:0005829]	56.55
+Sphingolipid	plasma membrane [GO:0005886]	56.55
+Sphingolipid	nuclear outer membrane [GO:0005640]	56.55
+Sphingolipid	Golgi apparatus [GO:0005794]	56.55
+Sphingolipid	endosome membrane [GO:0010008]	42.33
+Sphingolipid	cytosol [GO:0005829]	42.33
+Sphingolipid	plasma membrane [GO:0005886]	42.33
+Sphingolipid	nuclear outer membrane [GO:0005640]	42.33
+Sphingolipid	Golgi apparatus [GO:0005794]	42.33
+Sphingolipid	plasma membrane [GO:0005886]	51.38
+Sphingolipid	membrane [GO:0016020]	51.38
+Sphingolipid	endosome membrane [GO:0010008]	51.38
+Sphingolipid	membrane [GO:0016020]	63.23
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	63.23
+Sphingolipid	endoplasmic reticulum [GO:0005783]	63.23
+Sphingolipid	vacuole [GO:0005773]	63.23
+Sphingolipid	extracellular region [GO:0005576]	10.61
+Sphingolipid	cytosol [GO:0005829]	57.97
+Sphingolipid	clathrin-coated pit [GO:0005905]	59.54
+Sphingolipid	membrane [GO:0016020]	59.54
+Sphingolipid	cytosol [GO:0005829]	59.54
+Sphingolipid	endocytic vesicle [GO:0030139]	59.54
+Sphingolipid	cytoplasm [GO:0005737]	59.54
+Sphingolipid	plasma membrane [GO:0005886]	59.54
+Sphingolipid	intracellular membrane-bounded organelle [GO:0043231]	59.54
+Sphingolipid	presynapse [GO:0098793]	59.54
+Sphingolipid	nucleoplasm [GO:0005654]	59.54
+Sphingolipid	early endosome membrane [GO:0031901]	59.54
+Sphingolipid	nucleus [GO:0005634]	59.54
+Sphingolipid	plasma membrane [GO:0005886]	-19.55
+Sphingolipid	alpha-beta T cell receptor complex [GO:0042105]	-19.55
+Sphingolipid	late endosome [GO:0005770]	58.56
+Sphingolipid	endoplasmic reticulum [GO:0005783]	58.56
+Sphingolipid	cytoplasm [GO:0005737]	58.56
+Sphingolipid	endosome membrane [GO:0010008]	58.56
+Sphingolipid	lysosome [GO:0005764]	58.56
+Sphingolipid	early endosome [GO:0005769]	58.56
+Sphingolipid	extracellular space [GO:0005615]	58.56
+Sphingolipid	external side of plasma membrane [GO:0009897]	58.56
+Sphingolipid	lysosomal membrane [GO:0005765]	58.56
+Sphingolipid	cell surface [GO:0009986]	58.56
+Sphingolipid	apical plasma membrane [GO:0016324]	53.2
+Sphingolipid	astrocyte projection [GO:0097449]	53.2
+Sphingolipid	cell surface [GO:0009986]	53.2
+Sphingolipid	plasma membrane [GO:0005886]	53.2
+Sphingolipid	voltage-gated potassium channel complex [GO:0008076]	53.2
+Sphingolipid	calyx of Held [GO:0044305]	53.2
+Sphingolipid	Schaffer collateral - CA1 synapse [GO:0098685]	53.2
+Sphingolipid	neuronal cell body [GO:0043025]	53.2
+Sphingolipid	axon [GO:0030424]	53.2
+Sphingolipid	axon terminus [GO:0043679]	53.2
+Sphingolipid	postsynapse [GO:0098794]	53.2
+Sphingolipid	endoplasmic reticulum [GO:0005783]	53.2
+Sphingolipid	apical plasma membrane [GO:0016324]	87.0
+Sphingolipid	gap junction [GO:0005921]	87.0
+Sphingolipid	plasma membrane [GO:0005886]	87.0
+Sphingolipid	endoplasmic reticulum [GO:0005783]	87.0
+Sphingolipid	cytosol [GO:0005829]	33.15
+Sphingolipid	nucleoplasm [GO:0005654]	33.15
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	33.15
+Sphingolipid	mitochondrion [GO:0005739]	33.15
+Sphingolipid	Golgi apparatus [GO:0005794]	33.15
+Sphingolipid	axon terminus [GO:0043679]	56.81
+Sphingolipid	voltage-gated potassium channel complex [GO:0008076]	56.81
+Sphingolipid	endoplasmic reticulum [GO:0005783]	56.81
+Sphingolipid	cell surface [GO:0009986]	56.81
+Sphingolipid	apical plasma membrane [GO:0016324]	56.81
+Sphingolipid	plasma membrane [GO:0005886]	56.81
+Sphingolipid	astrocyte projection [GO:0097449]	56.81
+Sphingolipid	axon [GO:0030424]	56.81
+Sphingolipid	calyx of Held [GO:0044305]	56.81
+Sphingolipid	neuronal cell body [GO:0043025]	56.81
+Sphingolipid	recycling endosome [GO:0055037]	63.6
+Sphingolipid	endosome [GO:0005768]	63.6
+Sphingolipid	Golgi membrane [GO:0000139]	63.6
+Sphingolipid	plasma membrane [GO:0005886]	63.6
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	63.6
+Sphingolipid	mitochondrion [GO:0005739]	63.6
+Sphingolipid	external side of plasma membrane [GO:0009897]	63.6
+Sphingolipid	Golgi apparatus [GO:0005794]	63.6
+Sphingolipid	membrane [GO:0016020]	49.76
+Sphingolipid	cytosol [GO:0005829]	49.76
+Sphingolipid	endoplasmic reticulum [GO:0005783]	49.76
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	49.76
+Sphingolipid	membrane raft [GO:0045121]	49.4
+Sphingolipid	endosome membrane [GO:0010008]	49.4
+Sphingolipid	plasma membrane [GO:0005886]	49.4
+Sphingolipid	extracellular space [GO:0005615]	49.4
+Sphingolipid	external side of plasma membrane [GO:0009897]	49.4
+Sphingolipid	apical plasma membrane [GO:0016324]	83.13
+Sphingolipid	gap junction [GO:0005921]	83.13
+Sphingolipid	plasma membrane [GO:0005886]	83.13
+Sphingolipid	endoplasmic reticulum [GO:0005783]	83.13
+Sphingolipid	cytoplasm [GO:0005737]	52.24
+Sphingolipid	plasma membrane [GO:0005886]	55.61
+Sphingolipid	cytoplasm [GO:0005737]	55.61
+Sphingolipid	postsynapse [GO:0098794]	55.61
+Sphingolipid	membrane [GO:0016020]	65.86
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	65.86
+Sphingolipid	endoplasmic reticulum [GO:0005783]	65.86
+Sphingolipid	vacuole [GO:0005773]	65.86
+Sphingolipid	endocytic vesicle lumen [GO:0071682]	25.4
+Sphingolipid	cytosol [GO:0005829]	25.4
+Sphingolipid	extracellular exosome [GO:0070062]	25.4
+Sphingolipid	membrane [GO:0016020]	25.4
+Sphingolipid	blood microparticle [GO:0072562]	25.4
+Sphingolipid	extracellular region [GO:0005576]	25.4
+Sphingolipid	extracellular space [GO:0005615]	25.4
+Sphingolipid	hemoglobin complex [GO:0005833]	25.4
+Sphingolipid	haptoglobin-hemoglobin complex [GO:0031838]	25.4
+Sphingolipid	late endosome [GO:0005770]	57.75
+Sphingolipid	endoplasmic reticulum [GO:0005783]	57.75
+Sphingolipid	cytoplasm [GO:0005737]	57.75
+Sphingolipid	endosome membrane [GO:0010008]	57.75
+Sphingolipid	lysosome [GO:0005764]	57.75
+Sphingolipid	early endosome [GO:0005769]	57.75
+Sphingolipid	extracellular space [GO:0005615]	57.75
+Sphingolipid	external side of plasma membrane [GO:0009897]	57.75
+Sphingolipid	lysosomal membrane [GO:0005765]	57.75
+Sphingolipid	cell surface [GO:0009986]	57.75
+Sphingolipid	recycling endosome [GO:0055037]	27.59
+Sphingolipid	endosome [GO:0005768]	27.59
+Sphingolipid	Golgi membrane [GO:0000139]	27.59
+Sphingolipid	plasma membrane [GO:0005886]	27.59
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	27.59
+Sphingolipid	mitochondrion [GO:0005739]	27.59
+Sphingolipid	external side of plasma membrane [GO:0009897]	27.59
+Sphingolipid	Golgi apparatus [GO:0005794]	27.59
+Sphingolipid	very-low-density lipoprotein particle [GO:0034361]	62.15
+Sphingolipid	low-density lipoprotein particle [GO:0034362]	62.15
+Sphingolipid	spherical high-density lipoprotein particle [GO:0034366]	62.15
+Sphingolipid	extracellular region [GO:0005576]	62.15
+Sphingolipid	high-density lipoprotein particle [GO:0034364]	62.15
+Sphingolipid	discoidal high-density lipoprotein particle [GO:0034365]	62.15
+Sphingolipid	plasma membrane [GO:0005886]	41.03
+Sphingolipid	membrane [GO:0016020]	41.03
+Sphingolipid	endosome membrane [GO:0010008]	41.03
+Sphingolipid	voltage-gated sodium channel complex [GO:0001518]	62.72
+Sphingolipid	axon [GO:0030424]	62.72
+Sphingolipid	plasma membrane [GO:0005886]	62.72
+Sphingolipid	voltage-gated calcium channel complex [GO:0005891]	62.72
+Sphingolipid	endosome membrane [GO:0010008]	0.0
+Sphingolipid	cytosol [GO:0005829]	0.0
+Sphingolipid	plasma membrane [GO:0005886]	0.0
+Sphingolipid	nuclear outer membrane [GO:0005640]	0.0
+Sphingolipid	Golgi apparatus [GO:0005794]	0.0
+Sphingolipid	endosome membrane [GO:0010008]	86.5
+Sphingolipid	cytosol [GO:0005829]	86.5
+Sphingolipid	plasma membrane [GO:0005886]	86.5
+Sphingolipid	nuclear outer membrane [GO:0005640]	86.5
+Sphingolipid	Golgi apparatus [GO:0005794]	86.5
+Sphingolipid	cytoplasm [GO:0005737]	46.0
+Sphingolipid	apical plasma membrane [GO:0016324]	59.43
+Sphingolipid	gap junction [GO:0005921]	59.43
+Sphingolipid	plasma membrane [GO:0005886]	59.43
+Sphingolipid	endoplasmic reticulum [GO:0005783]	59.43
+Sphingolipid	late endosome [GO:0005770]	59.62
+Sphingolipid	endoplasmic reticulum [GO:0005783]	59.62
+Sphingolipid	cytoplasm [GO:0005737]	59.62
+Sphingolipid	endosome membrane [GO:0010008]	59.62
+Sphingolipid	lysosome [GO:0005764]	59.62
+Sphingolipid	early endosome [GO:0005769]	59.62
+Sphingolipid	extracellular space [GO:0005615]	59.62
+Sphingolipid	external side of plasma membrane [GO:0009897]	59.62
+Sphingolipid	lysosomal membrane [GO:0005765]	59.62
+Sphingolipid	cell surface [GO:0009986]	59.62
+Sphingolipid	membrane [GO:0016020]	50.81
+Sphingolipid	cytosol [GO:0005829]	50.81
+Sphingolipid	endoplasmic reticulum [GO:0005783]	50.81
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	50.81
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	45.1
+Sphingolipid	endoplasmic reticulum [GO:0005783]	45.1
+Sphingolipid	membrane raft [GO:0045121]	50.76
+Sphingolipid	endosome [GO:0005768]	50.76
+Sphingolipid	intracellular membrane-bounded organelle [GO:0043231]	50.76
+Sphingolipid	nucleoplasm [GO:0005654]	50.76
+Sphingolipid	plasma membrane [GO:0005886]	50.76
+Sphingolipid	external side of plasma membrane [GO:0009897]	50.76
+Sphingolipid	cytoplasm [GO:0005737]	50.76
+Sphingolipid	late endosome [GO:0005770]	58.4
+Sphingolipid	endoplasmic reticulum [GO:0005783]	58.4
+Sphingolipid	cytoplasm [GO:0005737]	58.4
+Sphingolipid	endosome membrane [GO:0010008]	58.4
+Sphingolipid	lysosome [GO:0005764]	58.4
+Sphingolipid	early endosome [GO:0005769]	58.4
+Sphingolipid	extracellular space [GO:0005615]	58.4
+Sphingolipid	external side of plasma membrane [GO:0009897]	58.4
+Sphingolipid	lysosomal membrane [GO:0005765]	58.4
+Sphingolipid	cell surface [GO:0009986]	58.4
+Sphingolipid	endocytic vesicle lumen [GO:0071682]	28.2
+Sphingolipid	cytosol [GO:0005829]	28.2
+Sphingolipid	extracellular exosome [GO:0070062]	28.2
+Sphingolipid	membrane [GO:0016020]	28.2
+Sphingolipid	blood microparticle [GO:0072562]	28.2
+Sphingolipid	extracellular region [GO:0005576]	28.2
+Sphingolipid	extracellular space [GO:0005615]	28.2
+Sphingolipid	hemoglobin complex [GO:0005833]	28.2
+Sphingolipid	haptoglobin-hemoglobin complex [GO:0031838]	28.2
+Sphingolipid	very-low-density lipoprotein particle [GO:0034361]	64.27
+Sphingolipid	low-density lipoprotein particle [GO:0034362]	64.27
+Sphingolipid	spherical high-density lipoprotein particle [GO:0034366]	64.27
+Sphingolipid	extracellular region [GO:0005576]	64.27
+Sphingolipid	high-density lipoprotein particle [GO:0034364]	64.27
+Sphingolipid	discoidal high-density lipoprotein particle [GO:0034365]	64.27
+Sphingolipid	plasma membrane [GO:0005886]	53.26
+Sphingolipid	cytoplasm [GO:0005737]	53.26
+Sphingolipid	late endosome [GO:0005770]	60.04
+Sphingolipid	endoplasmic reticulum [GO:0005783]	60.04
+Sphingolipid	cytoplasm [GO:0005737]	60.04
+Sphingolipid	endosome membrane [GO:0010008]	60.04
+Sphingolipid	lysosome [GO:0005764]	60.04
+Sphingolipid	early endosome [GO:0005769]	60.04
+Sphingolipid	extracellular space [GO:0005615]	60.04
+Sphingolipid	external side of plasma membrane [GO:0009897]	60.04
+Sphingolipid	lysosomal membrane [GO:0005765]	60.04
+Sphingolipid	cell surface [GO:0009986]	60.04
+Sphingolipid	membrane [GO:0016020]	82.56
+Sphingolipid	serine C-palmitoyltransferase complex [GO:0017059]	82.56
+Sphingolipid	SPOTS complex [GO:0035339]	82.56
+Sphingolipid	endoplasmic reticulum [GO:0005783]	82.56
+Sphingolipid	membrane [GO:0016020]	46.88
+Sphingolipid	host cell cytoplasmic vesicle membrane [GO:0044162]	46.88
+Sphingolipid	T=pseudo3 icosahedral viral capsid [GO:0039618]	46.88
+Sphingolipid	host cell nucleus [GO:0042025]	46.88
+Sphingolipid	endosome membrane [GO:0010008]	52.21
+Sphingolipid	cytosol [GO:0005829]	52.21
+Sphingolipid	plasma membrane [GO:0005886]	52.21
+Sphingolipid	nuclear outer membrane [GO:0005640]	52.21
+Sphingolipid	Golgi apparatus [GO:0005794]	52.21
+Sphingolipid	endosome membrane [GO:0010008]	32.22
+Sphingolipid	cytosol [GO:0005829]	32.22
+Sphingolipid	plasma membrane [GO:0005886]	32.22
+Sphingolipid	nuclear outer membrane [GO:0005640]	32.22
+Sphingolipid	Golgi apparatus [GO:0005794]	32.22
+Sphingolipid	clathrin-coated pit [GO:0005905]	50.6
+Sphingolipid	membrane [GO:0016020]	50.6
+Sphingolipid	cytosol [GO:0005829]	50.6
+Sphingolipid	endocytic vesicle [GO:0030139]	50.6
+Sphingolipid	cytoplasm [GO:0005737]	50.6
+Sphingolipid	plasma membrane [GO:0005886]	50.6
+Sphingolipid	intracellular membrane-bounded organelle [GO:0043231]	50.6
+Sphingolipid	presynapse [GO:0098793]	50.6
+Sphingolipid	nucleoplasm [GO:0005654]	50.6
+Sphingolipid	early endosome membrane [GO:0031901]	50.6
+Sphingolipid	nucleus [GO:0005634]	50.6
+Sphingolipid	cytosol [GO:0005829]	51.5
+Sphingolipid	apical plasma membrane [GO:0016324]	33.67
+Sphingolipid	gap junction [GO:0005921]	33.67
+Sphingolipid	plasma membrane [GO:0005886]	33.67
+Sphingolipid	endoplasmic reticulum [GO:0005783]	33.67
+Sphingolipid	transcription regulator complex [GO:0005667]	60.78
+Sphingolipid	chromatin [GO:0000785]	60.78
+Sphingolipid	nuclear chromosome [GO:0000228]	60.78
+Sphingolipid	RNA polymerase II transcription regulator complex [GO:0090575]	60.78
+Sphingolipid	transcription factor AP-1 complex [GO:0035976]	60.78
+Sphingolipid	nucleoplasm [GO:0005654]	60.78
+Sphingolipid	euchromatin [GO:0000791]	60.78
+Sphingolipid	nucleus [GO:0005634]	60.78
+Sphingolipid	cytosol [GO:0005829]	29.06
+Sphingolipid	nucleoplasm [GO:0005654]	29.06
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	29.06
+Sphingolipid	mitochondrion [GO:0005739]	29.06
+Sphingolipid	Golgi apparatus [GO:0005794]	29.06
+Sphingolipid	late endosome [GO:0005770]	58.57
+Sphingolipid	endoplasmic reticulum [GO:0005783]	58.57
+Sphingolipid	cytoplasm [GO:0005737]	58.57
+Sphingolipid	endosome membrane [GO:0010008]	58.57
+Sphingolipid	lysosome [GO:0005764]	58.57
+Sphingolipid	early endosome [GO:0005769]	58.57
+Sphingolipid	extracellular space [GO:0005615]	58.57
+Sphingolipid	external side of plasma membrane [GO:0009897]	58.57
+Sphingolipid	lysosomal membrane [GO:0005765]	58.57
+Sphingolipid	cell surface [GO:0009986]	58.57
+Sphingolipid	late endosome [GO:0005770]	57.34
+Sphingolipid	endoplasmic reticulum [GO:0005783]	57.34
+Sphingolipid	cytoplasm [GO:0005737]	57.34
+Sphingolipid	endosome membrane [GO:0010008]	57.34
+Sphingolipid	lysosome [GO:0005764]	57.34
+Sphingolipid	early endosome [GO:0005769]	57.34
+Sphingolipid	extracellular space [GO:0005615]	57.34
+Sphingolipid	external side of plasma membrane [GO:0009897]	57.34
+Sphingolipid	lysosomal membrane [GO:0005765]	57.34
+Sphingolipid	cell surface [GO:0009986]	57.34
+Sphingolipid	late endosome [GO:0005770]	58.38
+Sphingolipid	endoplasmic reticulum [GO:0005783]	58.38
+Sphingolipid	cytoplasm [GO:0005737]	58.38
+Sphingolipid	endosome membrane [GO:0010008]	58.38
+Sphingolipid	lysosome [GO:0005764]	58.38
+Sphingolipid	early endosome [GO:0005769]	58.38
+Sphingolipid	extracellular space [GO:0005615]	58.38
+Sphingolipid	external side of plasma membrane [GO:0009897]	58.38
+Sphingolipid	lysosomal membrane [GO:0005765]	58.38
+Sphingolipid	cell surface [GO:0009986]	58.38
+Sphingolipid	late endosome [GO:0005770]	61.71
+Sphingolipid	endoplasmic reticulum [GO:0005783]	61.71
+Sphingolipid	cytoplasm [GO:0005737]	61.71
+Sphingolipid	endosome membrane [GO:0010008]	61.71
+Sphingolipid	lysosome [GO:0005764]	61.71
+Sphingolipid	early endosome [GO:0005769]	61.71
+Sphingolipid	extracellular space [GO:0005615]	61.71
+Sphingolipid	external side of plasma membrane [GO:0009897]	61.71
+Sphingolipid	lysosomal membrane [GO:0005765]	61.71
+Sphingolipid	cell surface [GO:0009986]	61.71
+Sphingolipid	serine C-palmitoyltransferase complex [GO:0017059]	36.25
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	36.25
+Sphingolipid	axon terminus [GO:0043679]	56.81
+Sphingolipid	voltage-gated potassium channel complex [GO:0008076]	56.81
+Sphingolipid	endoplasmic reticulum [GO:0005783]	56.81
+Sphingolipid	cell surface [GO:0009986]	56.81
+Sphingolipid	apical plasma membrane [GO:0016324]	56.81
+Sphingolipid	plasma membrane [GO:0005886]	56.81
+Sphingolipid	astrocyte projection [GO:0097449]	56.81
+Sphingolipid	axon [GO:0030424]	56.81
+Sphingolipid	calyx of Held [GO:0044305]	56.81
+Sphingolipid	neuronal cell body [GO:0043025]	56.81
+Sphingolipid	late endosome [GO:0005770]	57.42
+Sphingolipid	endoplasmic reticulum [GO:0005783]	57.42
+Sphingolipid	cytoplasm [GO:0005737]	57.42
+Sphingolipid	endosome membrane [GO:0010008]	57.42
+Sphingolipid	lysosome [GO:0005764]	57.42
+Sphingolipid	early endosome [GO:0005769]	57.42
+Sphingolipid	extracellular space [GO:0005615]	57.42
+Sphingolipid	external side of plasma membrane [GO:0009897]	57.42
+Sphingolipid	lysosomal membrane [GO:0005765]	57.42
+Sphingolipid	cell surface [GO:0009986]	57.42
+Sphingolipid	apical plasma membrane [GO:0016324]	98.2
+Sphingolipid	astrocyte projection [GO:0097449]	98.2
+Sphingolipid	cell surface [GO:0009986]	98.2
+Sphingolipid	plasma membrane [GO:0005886]	98.2
+Sphingolipid	voltage-gated potassium channel complex [GO:0008076]	98.2
+Sphingolipid	calyx of Held [GO:0044305]	98.2
+Sphingolipid	Schaffer collateral - CA1 synapse [GO:0098685]	98.2
+Sphingolipid	neuronal cell body [GO:0043025]	98.2
+Sphingolipid	axon [GO:0030424]	98.2
+Sphingolipid	axon terminus [GO:0043679]	98.2
+Sphingolipid	postsynapse [GO:0098794]	98.2
+Sphingolipid	endoplasmic reticulum [GO:0005783]	98.2
+Sphingolipid	late endosome [GO:0005770]	55.11
+Sphingolipid	endoplasmic reticulum [GO:0005783]	55.11
+Sphingolipid	cytoplasm [GO:0005737]	55.11
+Sphingolipid	endosome membrane [GO:0010008]	55.11
+Sphingolipid	lysosome [GO:0005764]	55.11
+Sphingolipid	early endosome [GO:0005769]	55.11
+Sphingolipid	extracellular space [GO:0005615]	55.11
+Sphingolipid	external side of plasma membrane [GO:0009897]	55.11
+Sphingolipid	lysosomal membrane [GO:0005765]	55.11
+Sphingolipid	cell surface [GO:0009986]	55.11
+Sphingolipid	viral envelope [GO:0019031]	55.88
+Sphingolipid	host cell endoplasmic reticulum membrane [GO:0044167]	55.88
+Sphingolipid	membrane [GO:0016020]	55.88
+Sphingolipid	viral nucleocapsid [GO:0019013]	55.88
+Sphingolipid	extracellular region [GO:0005576]	55.88
+Sphingolipid	virion membrane [GO:0055036]	55.88
+Sphingolipid	late endosome [GO:0005770]	54.17
+Sphingolipid	endoplasmic reticulum [GO:0005783]	54.17
+Sphingolipid	cytoplasm [GO:0005737]	54.17
+Sphingolipid	endosome membrane [GO:0010008]	54.17
+Sphingolipid	lysosome [GO:0005764]	54.17
+Sphingolipid	early endosome [GO:0005769]	54.17
+Sphingolipid	extracellular space [GO:0005615]	54.17
+Sphingolipid	external side of plasma membrane [GO:0009897]	54.17
+Sphingolipid	lysosomal membrane [GO:0005765]	54.17
+Sphingolipid	cell surface [GO:0009986]	54.17
+Sphingolipid	endoplasmic reticulum [GO:0005783]	63.31
+Sphingolipid	cytoplasm [GO:0005737]	63.31
+Sphingolipid	endosome membrane [GO:0010008]	63.31
+Sphingolipid	basolateral plasma membrane [GO:0016323]	63.31
+Sphingolipid	lysosome [GO:0005764]	63.31
+Sphingolipid	plasma membrane [GO:0005886]	63.31
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	63.31
+Sphingolipid	extracellular space [GO:0005615]	63.31
+Sphingolipid	external side of plasma membrane [GO:0009897]	63.31
+Sphingolipid	lysosomal membrane [GO:0005765]	63.31
+Sphingolipid	cell surface [GO:0009986]	63.31
+Sphingolipid	late endosome [GO:0005770]	59.66
+Sphingolipid	endoplasmic reticulum [GO:0005783]	59.66
+Sphingolipid	cytoplasm [GO:0005737]	59.66
+Sphingolipid	endosome membrane [GO:0010008]	59.66
+Sphingolipid	lysosome [GO:0005764]	59.66
+Sphingolipid	early endosome [GO:0005769]	59.66
+Sphingolipid	extracellular space [GO:0005615]	59.66
+Sphingolipid	external side of plasma membrane [GO:0009897]	59.66
+Sphingolipid	lysosomal membrane [GO:0005765]	59.66
+Sphingolipid	cell surface [GO:0009986]	59.66
+Sphingolipid	endocytic vesicle lumen [GO:0071682]	37.82
+Sphingolipid	tertiary granule lumen [GO:1904724]	37.82
+Sphingolipid	cytosol [GO:0005829]	37.82
+Sphingolipid	ficolin-1-rich granule lumen [GO:1904813]	37.82
+Sphingolipid	extracellular exosome [GO:0070062]	37.82
+Sphingolipid	blood microparticle [GO:0072562]	37.82
+Sphingolipid	extracellular region [GO:0005576]	37.82
+Sphingolipid	extracellular space [GO:0005615]	37.82
+Sphingolipid	hemoglobin complex [GO:0005833]	37.82
+Sphingolipid	haptoglobin-hemoglobin complex [GO:0031838]	37.82
+Sphingolipid	membrane raft [GO:0045121]	56.42
+Sphingolipid	endosome membrane [GO:0010008]	56.42
+Sphingolipid	plasma membrane [GO:0005886]	56.42
+Sphingolipid	extracellular space [GO:0005615]	56.42
+Sphingolipid	external side of plasma membrane [GO:0009897]	56.42
+Sphingolipid	plasma membrane [GO:0005886]	-16.83
+Sphingolipid	alpha-beta T cell receptor complex [GO:0042105]	-16.83
+Sphingolipid	protein-containing complex [GO:0032991]	54.5
+Sphingolipid	spindle pole [GO:0000922]	54.5
+Sphingolipid	cytoplasm [GO:0005737]	54.5
+Sphingolipid	cytosol [GO:0005829]	54.5
+Sphingolipid	late endosome [GO:0005770]	56.58
+Sphingolipid	endoplasmic reticulum [GO:0005783]	56.58
+Sphingolipid	cytoplasm [GO:0005737]	56.58
+Sphingolipid	endosome membrane [GO:0010008]	56.58
+Sphingolipid	lysosome [GO:0005764]	56.58
+Sphingolipid	early endosome [GO:0005769]	56.58
+Sphingolipid	extracellular space [GO:0005615]	56.58
+Sphingolipid	external side of plasma membrane [GO:0009897]	56.58
+Sphingolipid	lysosomal membrane [GO:0005765]	56.58
+Sphingolipid	cell surface [GO:0009986]	56.58
+Sphingolipid	endosome membrane [GO:0010008]	43.44
+Sphingolipid	cytosol [GO:0005829]	43.44
+Sphingolipid	plasma membrane [GO:0005886]	43.44
+Sphingolipid	nuclear outer membrane [GO:0005640]	43.44
+Sphingolipid	Golgi apparatus [GO:0005794]	43.44
+Sphingolipid	endosome membrane [GO:0010008]	61.17
+Sphingolipid	cytosol [GO:0005829]	61.17
+Sphingolipid	plasma membrane [GO:0005886]	61.17
+Sphingolipid	nuclear outer membrane [GO:0005640]	61.17
+Sphingolipid	Golgi apparatus [GO:0005794]	61.17
+Sphingolipid	SPOTS complex [GO:0035339]	53.35
+Sphingolipid	endoplasmic reticulum [GO:0005783]	53.35
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	53.35
+Sphingolipid	SPOTS complex [GO:0035339]	54.3
+Sphingolipid	endoplasmic reticulum [GO:0005783]	54.3
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	54.3
+Sphingolipid	extracellular space [GO:0005615]	60.5
+Sphingolipid	lipopolysaccharide receptor complex [GO:0046696]	60.5
+Sphingolipid	receptor complex [GO:0043235]	60.5
+Sphingolipid	plasma membrane [GO:0005886]	60.5
+Sphingolipid	voltage-gated sodium channel complex [GO:0001518]	67.96
+Sphingolipid	axon [GO:0030424]	67.96
+Sphingolipid	plasma membrane [GO:0005886]	67.96
+Sphingolipid	voltage-gated calcium channel complex [GO:0005891]	67.96
+Sphingolipid	cytoplasm [GO:0005737]	80.0
+Sphingolipid	external side of plasma membrane [GO:0009897]	64.22
+Sphingolipid	cell surface [GO:0009986]	64.22
+Sphingolipid	plasma membrane [GO:0005886]	64.22
+Sphingolipid	basolateral plasma membrane [GO:0016323]	64.22
+Sphingolipid	cytoplasm [GO:0005737]	64.22
+Sphingolipid	lysosome [GO:0005764]	64.22
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	64.22
+Sphingolipid	lysosomal membrane [GO:0005765]	64.22
+Sphingolipid	endosome membrane [GO:0010008]	64.22
+Sphingolipid	extracellular space [GO:0005615]	64.22
+Sphingolipid	endoplasmic reticulum [GO:0005783]	64.22
+Sphingolipid	late endosome [GO:0005770]	62.06
+Sphingolipid	endoplasmic reticulum [GO:0005783]	62.06
+Sphingolipid	cytoplasm [GO:0005737]	62.06
+Sphingolipid	endosome membrane [GO:0010008]	62.06
+Sphingolipid	basolateral plasma membrane [GO:0016323]	62.06
+Sphingolipid	lysosome [GO:0005764]	62.06
+Sphingolipid	early endosome [GO:0005769]	62.06
+Sphingolipid	plasma membrane [GO:0005886]	62.06
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	62.06
+Sphingolipid	extracellular space [GO:0005615]	62.06
+Sphingolipid	external side of plasma membrane [GO:0009897]	62.06
+Sphingolipid	lysosomal membrane [GO:0005765]	62.06
+Sphingolipid	cell surface [GO:0009986]	62.06
+Sphingolipid	apical plasma membrane [GO:0016324]	98.0
+Sphingolipid	gap junction [GO:0005921]	98.0
+Sphingolipid	plasma membrane [GO:0005886]	98.0
+Sphingolipid	endoplasmic reticulum [GO:0005783]	98.0
+Sphingolipid	endosome membrane [GO:0010008]	64.53
+Sphingolipid	cytosol [GO:0005829]	64.53
+Sphingolipid	plasma membrane [GO:0005886]	64.53
+Sphingolipid	nuclear outer membrane [GO:0005640]	64.53
+Sphingolipid	Golgi apparatus [GO:0005794]	64.53
+Sphingolipid	endocytic vesicle lumen [GO:0071682]	13.0
+Sphingolipid	tertiary granule lumen [GO:1904724]	13.0
+Sphingolipid	cytosol [GO:0005829]	13.0
+Sphingolipid	ficolin-1-rich granule lumen [GO:1904813]	13.0
+Sphingolipid	extracellular exosome [GO:0070062]	13.0
+Sphingolipid	blood microparticle [GO:0072562]	13.0
+Sphingolipid	extracellular region [GO:0005576]	13.0
+Sphingolipid	extracellular space [GO:0005615]	13.0
+Sphingolipid	hemoglobin complex [GO:0005833]	13.0
+Sphingolipid	haptoglobin-hemoglobin complex [GO:0031838]	13.0
+Sphingolipid	plasma membrane [GO:0005886]	-23.67
+Sphingolipid	alpha-beta T cell receptor complex [GO:0042105]	-23.67
+Sphingolipid	endosome membrane [GO:0010008]	55.46
+Sphingolipid	cytosol [GO:0005829]	55.46
+Sphingolipid	plasma membrane [GO:0005886]	55.46
+Sphingolipid	nuclear outer membrane [GO:0005640]	55.46
+Sphingolipid	Golgi apparatus [GO:0005794]	55.46
+Sphingolipid	endosome membrane [GO:0010008]	23.0
+Sphingolipid	cytosol [GO:0005829]	23.0
+Sphingolipid	plasma membrane [GO:0005886]	23.0
+Sphingolipid	nuclear outer membrane [GO:0005640]	23.0
+Sphingolipid	Golgi apparatus [GO:0005794]	23.0
+Sphingolipid	membrane [GO:0016020]	50.81
+Sphingolipid	cytosol [GO:0005829]	50.81
+Sphingolipid	endoplasmic reticulum [GO:0005783]	50.81
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	50.81
+Sphingolipid	membrane [GO:0016020]	79.08
+Sphingolipid	serine C-palmitoyltransferase complex [GO:0017059]	79.08
+Sphingolipid	SPOTS complex [GO:0035339]	79.08
+Sphingolipid	endoplasmic reticulum [GO:0005783]	79.08
+Sphingolipid	voltage-gated sodium channel complex [GO:0001518]	55.65
+Sphingolipid	axon [GO:0030424]	55.65
+Sphingolipid	plasma membrane [GO:0005886]	55.65
+Sphingolipid	voltage-gated calcium channel complex [GO:0005891]	55.65
+Sphingolipid	extracellular space [GO:0005615]	60.55
+Sphingolipid	lipopolysaccharide receptor complex [GO:0046696]	60.55
+Sphingolipid	receptor complex [GO:0043235]	60.55
+Sphingolipid	plasma membrane [GO:0005886]	60.55
+Sphingolipid	apical plasma membrane [GO:0016324]	68.73
+Sphingolipid	gap junction [GO:0005921]	68.73
+Sphingolipid	plasma membrane [GO:0005886]	68.73
+Sphingolipid	endoplasmic reticulum [GO:0005783]	68.73
+Sphingolipid	cytoplasm [GO:0005737]	28.62
+Sphingolipid	apical plasma membrane [GO:0016324]	79.29
+Sphingolipid	gap junction [GO:0005921]	79.29
+Sphingolipid	plasma membrane [GO:0005886]	79.29
+Sphingolipid	endoplasmic reticulum [GO:0005783]	79.29
+Sphingolipid	cytoplasm [GO:0005737]	56.83
+Sphingolipid	endosome membrane [GO:0010008]	64.53
+Sphingolipid	cytosol [GO:0005829]	64.53
+Sphingolipid	plasma membrane [GO:0005886]	64.53
+Sphingolipid	nuclear outer membrane [GO:0005640]	64.53
+Sphingolipid	Golgi apparatus [GO:0005794]	64.53
+Sphingolipid	late endosome [GO:0005770]	56.15
+Sphingolipid	endoplasmic reticulum [GO:0005783]	56.15
+Sphingolipid	cytoplasm [GO:0005737]	56.15
+Sphingolipid	endosome membrane [GO:0010008]	56.15
+Sphingolipid	lysosome [GO:0005764]	56.15
+Sphingolipid	early endosome [GO:0005769]	56.15
+Sphingolipid	extracellular space [GO:0005615]	56.15
+Sphingolipid	external side of plasma membrane [GO:0009897]	56.15
+Sphingolipid	lysosomal membrane [GO:0005765]	56.15
+Sphingolipid	cell surface [GO:0009986]	56.15
+Sphingolipid	late endosome [GO:0005770]	58.28
+Sphingolipid	endoplasmic reticulum [GO:0005783]	58.28
+Sphingolipid	cytoplasm [GO:0005737]	58.28
+Sphingolipid	endosome membrane [GO:0010008]	58.28
+Sphingolipid	lysosome [GO:0005764]	58.28
+Sphingolipid	early endosome [GO:0005769]	58.28
+Sphingolipid	extracellular space [GO:0005615]	58.28
+Sphingolipid	external side of plasma membrane [GO:0009897]	58.28
+Sphingolipid	lysosomal membrane [GO:0005765]	58.28
+Sphingolipid	cell surface [GO:0009986]	58.28
+Sphingolipid	apical plasma membrane [GO:0016324]	75.22
+Sphingolipid	astrocyte projection [GO:0097449]	75.22
+Sphingolipid	cell surface [GO:0009986]	75.22
+Sphingolipid	plasma membrane [GO:0005886]	75.22
+Sphingolipid	voltage-gated potassium channel complex [GO:0008076]	75.22
+Sphingolipid	calyx of Held [GO:0044305]	75.22
+Sphingolipid	Schaffer collateral - CA1 synapse [GO:0098685]	75.22
+Sphingolipid	neuronal cell body [GO:0043025]	75.22
+Sphingolipid	axon [GO:0030424]	75.22
+Sphingolipid	axon terminus [GO:0043679]	75.22
+Sphingolipid	postsynapse [GO:0098794]	75.22
+Sphingolipid	endoplasmic reticulum [GO:0005783]	75.22
+Sphingolipid	chloroplast membrane [GO:0031969]	51.0
+Sphingolipid	endocytic vesicle lumen [GO:0071682]	17.5
+Sphingolipid	tertiary granule lumen [GO:1904724]	17.5
+Sphingolipid	cytosol [GO:0005829]	17.5
+Sphingolipid	ficolin-1-rich granule lumen [GO:1904813]	17.5
+Sphingolipid	extracellular exosome [GO:0070062]	17.5
+Sphingolipid	blood microparticle [GO:0072562]	17.5
+Sphingolipid	extracellular region [GO:0005576]	17.5
+Sphingolipid	extracellular space [GO:0005615]	17.5
+Sphingolipid	hemoglobin complex [GO:0005833]	17.5
+Sphingolipid	haptoglobin-hemoglobin complex [GO:0031838]	17.5
+Sphingolipid	apical plasma membrane [GO:0016324]	76.0
+Sphingolipid	astrocyte projection [GO:0097449]	76.0
+Sphingolipid	cell surface [GO:0009986]	76.0
+Sphingolipid	plasma membrane [GO:0005886]	76.0
+Sphingolipid	voltage-gated potassium channel complex [GO:0008076]	76.0
+Sphingolipid	calyx of Held [GO:0044305]	76.0
+Sphingolipid	neuronal cell body [GO:0043025]	76.0
+Sphingolipid	axon [GO:0030424]	76.0
+Sphingolipid	axon terminus [GO:0043679]	76.0
+Sphingolipid	endoplasmic reticulum [GO:0005783]	76.0
+Sphingolipid	plasma membrane [GO:0005886]	11.43
+Sphingolipid	alpha-beta T cell receptor complex [GO:0042105]	11.43
+Sphingolipid	late endosome [GO:0005770]	57.97
+Sphingolipid	endoplasmic reticulum [GO:0005783]	57.97
+Sphingolipid	cytoplasm [GO:0005737]	57.97
+Sphingolipid	endosome membrane [GO:0010008]	57.97
+Sphingolipid	lysosome [GO:0005764]	57.97
+Sphingolipid	early endosome [GO:0005769]	57.97
+Sphingolipid	extracellular space [GO:0005615]	57.97
+Sphingolipid	external side of plasma membrane [GO:0009897]	57.97
+Sphingolipid	lysosomal membrane [GO:0005765]	57.97
+Sphingolipid	cell surface [GO:0009986]	57.97
+Sphingolipid	protein-containing complex [GO:0032991]	60.33
+Sphingolipid	spindle pole [GO:0000922]	60.33
+Sphingolipid	cytoplasm [GO:0005737]	60.33
+Sphingolipid	cytosol [GO:0005829]	60.33
+Sphingolipid	late endosome [GO:0005770]	57.52
+Sphingolipid	endoplasmic reticulum [GO:0005783]	57.52
+Sphingolipid	cytoplasm [GO:0005737]	57.52
+Sphingolipid	endosome membrane [GO:0010008]	57.52
+Sphingolipid	lysosome [GO:0005764]	57.52
+Sphingolipid	early endosome [GO:0005769]	57.52
+Sphingolipid	extracellular space [GO:0005615]	57.52
+Sphingolipid	external side of plasma membrane [GO:0009897]	57.52
+Sphingolipid	lysosomal membrane [GO:0005765]	57.52
+Sphingolipid	cell surface [GO:0009986]	57.52
+Sphingolipid	late endosome [GO:0005770]	57.1
+Sphingolipid	endoplasmic reticulum [GO:0005783]	57.1
+Sphingolipid	cytoplasm [GO:0005737]	57.1
+Sphingolipid	endosome membrane [GO:0010008]	57.1
+Sphingolipid	lysosome [GO:0005764]	57.1
+Sphingolipid	early endosome [GO:0005769]	57.1
+Sphingolipid	extracellular space [GO:0005615]	57.1
+Sphingolipid	external side of plasma membrane [GO:0009897]	57.1
+Sphingolipid	lysosomal membrane [GO:0005765]	57.1
+Sphingolipid	cell surface [GO:0009986]	57.1
+Sphingolipid	SPOTS complex [GO:0035339]	57.45
+Sphingolipid	endoplasmic reticulum [GO:0005783]	57.45
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	57.45
+Sphingolipid	SPOTS complex [GO:0035339]	54.3
+Sphingolipid	endoplasmic reticulum [GO:0005783]	54.3
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	54.3
+Sphingolipid	endosome membrane [GO:0010008]	23.0
+Sphingolipid	cytosol [GO:0005829]	23.0
+Sphingolipid	plasma membrane [GO:0005886]	23.0
+Sphingolipid	nuclear outer membrane [GO:0005640]	23.0
+Sphingolipid	Golgi apparatus [GO:0005794]	23.0
+Sphingolipid	endosome membrane [GO:0010008]	0.0
+Sphingolipid	cytosol [GO:0005829]	0.0
+Sphingolipid	plasma membrane [GO:0005886]	0.0
+Sphingolipid	nuclear outer membrane [GO:0005640]	0.0
+Sphingolipid	Golgi apparatus [GO:0005794]	0.0
+Sphingolipid	plasma membrane [GO:0005886]	-26.62
+Sphingolipid	alpha-beta T cell receptor complex [GO:0042105]	-26.62
+Sphingolipid	late endosome [GO:0005770]	59.5
+Sphingolipid	endoplasmic reticulum [GO:0005783]	59.5
+Sphingolipid	cytoplasm [GO:0005737]	59.5
+Sphingolipid	endosome membrane [GO:0010008]	59.5
+Sphingolipid	lysosome [GO:0005764]	59.5
+Sphingolipid	early endosome [GO:0005769]	59.5
+Sphingolipid	extracellular space [GO:0005615]	59.5
+Sphingolipid	external side of plasma membrane [GO:0009897]	59.5
+Sphingolipid	lysosomal membrane [GO:0005765]	59.5
+Sphingolipid	cell surface [GO:0009986]	59.5
+Sphingolipid	cytosol [GO:0005829]	61.44
+Sphingolipid	plasma membrane [GO:0005886]	-19.55
+Sphingolipid	alpha-beta T cell receptor complex [GO:0042105]	-19.55
+Sphingolipid	cytoplasm [GO:0005737]	32.59
+Sphingolipid	apical plasma membrane [GO:0016324]	62.44
+Sphingolipid	gap junction [GO:0005921]	62.44
+Sphingolipid	plasma membrane [GO:0005886]	62.44
+Sphingolipid	endoplasmic reticulum [GO:0005783]	62.44
+Sphingolipid	membrane [GO:0016020]	41.8
+Sphingolipid	transcription regulator complex [GO:0005667]	61.48
+Sphingolipid	chromatin [GO:0000785]	61.48
+Sphingolipid	nuclear chromosome [GO:0000228]	61.48
+Sphingolipid	RNA polymerase II transcription regulator complex [GO:0090575]	61.48
+Sphingolipid	transcription factor AP-1 complex [GO:0035976]	61.48
+Sphingolipid	nucleoplasm [GO:0005654]	61.48
+Sphingolipid	euchromatin [GO:0000791]	61.48
+Sphingolipid	nucleus [GO:0005634]	61.48
+Sphingolipid	cytoplasm [GO:0005737]	1.75
+Sphingolipid	perinuclear region of cytoplasm [GO:0048471]	1.75
+Sphingolipid	early endosome [GO:0005769]	1.75
+Sphingolipid	phagocytic cup [GO:0001891]	1.75
+Sphingolipid	ruffle [GO:0001726]	1.75
+Sphingolipid	lipopolysaccharide receptor complex [GO:0046696]	1.75
+Sphingolipid	membrane [GO:0016020]	1.75
+Sphingolipid	plasma membrane [GO:0005886]	1.75
+Sphingolipid	receptor complex [GO:0043235]	1.75
+Sphingolipid	external side of plasma membrane [GO:0009897]	1.75
+Sphingolipid	cell surface [GO:0009986]	1.75
+Sphingolipid	Golgi apparatus [GO:0005794]	1.75
+Sphingolipid	cytosol [GO:0005829]	29.39
+Sphingolipid	nucleoplasm [GO:0005654]	29.39
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	29.39
+Sphingolipid	mitochondrion [GO:0005739]	29.39
+Sphingolipid	Golgi apparatus [GO:0005794]	29.39
+Sphingolipid	membrane raft [GO:0045121]	49.03
+Sphingolipid	endosome [GO:0005768]	49.03
+Sphingolipid	intracellular membrane-bounded organelle [GO:0043231]	49.03
+Sphingolipid	nucleoplasm [GO:0005654]	49.03
+Sphingolipid	plasma membrane [GO:0005886]	49.03
+Sphingolipid	external side of plasma membrane [GO:0009897]	49.03
+Sphingolipid	cytoplasm [GO:0005737]	49.03
+Sphingolipid	plasma membrane [GO:0005886]	52.82
+Sphingolipid	cytoplasm [GO:0005737]	52.82
+Sphingolipid	chloroplast membrane [GO:0031969]	95.44
+Sphingolipid	apical plasma membrane [GO:0016324]	54.13
+Sphingolipid	astrocyte projection [GO:0097449]	54.13
+Sphingolipid	cell surface [GO:0009986]	54.13
+Sphingolipid	plasma membrane [GO:0005886]	54.13
+Sphingolipid	voltage-gated potassium channel complex [GO:0008076]	54.13
+Sphingolipid	calyx of Held [GO:0044305]	54.13
+Sphingolipid	Schaffer collateral - CA1 synapse [GO:0098685]	54.13
+Sphingolipid	neuronal cell body [GO:0043025]	54.13
+Sphingolipid	axon [GO:0030424]	54.13
+Sphingolipid	axon terminus [GO:0043679]	54.13
+Sphingolipid	postsynapse [GO:0098794]	54.13
+Sphingolipid	endoplasmic reticulum [GO:0005783]	54.13
+Sphingolipid	late endosome [GO:0005770]	59.28
+Sphingolipid	endoplasmic reticulum [GO:0005783]	59.28
+Sphingolipid	cytoplasm [GO:0005737]	59.28
+Sphingolipid	endosome membrane [GO:0010008]	59.28
+Sphingolipid	lysosome [GO:0005764]	59.28
+Sphingolipid	early endosome [GO:0005769]	59.28
+Sphingolipid	extracellular space [GO:0005615]	59.28
+Sphingolipid	external side of plasma membrane [GO:0009897]	59.28
+Sphingolipid	lysosomal membrane [GO:0005765]	59.28
+Sphingolipid	cell surface [GO:0009986]	59.28
+Sphingolipid	late endosome [GO:0005770]	56.14
+Sphingolipid	endoplasmic reticulum [GO:0005783]	56.14
+Sphingolipid	cytoplasm [GO:0005737]	56.14
+Sphingolipid	endosome membrane [GO:0010008]	56.14
+Sphingolipid	lysosome [GO:0005764]	56.14
+Sphingolipid	early endosome [GO:0005769]	56.14
+Sphingolipid	extracellular space [GO:0005615]	56.14
+Sphingolipid	external side of plasma membrane [GO:0009897]	56.14
+Sphingolipid	lysosomal membrane [GO:0005765]	56.14
+Sphingolipid	cell surface [GO:0009986]	56.14
+Sphingolipid	late endosome [GO:0005770]	54.77
+Sphingolipid	endoplasmic reticulum [GO:0005783]	54.77
+Sphingolipid	cytoplasm [GO:0005737]	54.77
+Sphingolipid	endosome membrane [GO:0010008]	54.77
+Sphingolipid	lysosome [GO:0005764]	54.77
+Sphingolipid	early endosome [GO:0005769]	54.77
+Sphingolipid	extracellular space [GO:0005615]	54.77
+Sphingolipid	external side of plasma membrane [GO:0009897]	54.77
+Sphingolipid	lysosomal membrane [GO:0005765]	54.77
+Sphingolipid	cell surface [GO:0009986]	54.77
+Sphingolipid	protein-containing complex [GO:0032991]	52.88
+Sphingolipid	spindle pole [GO:0000922]	52.88
+Sphingolipid	cytoplasm [GO:0005737]	52.88
+Sphingolipid	cytosol [GO:0005829]	52.88
+Sphingolipid	cytoplasm [GO:0005737]	42.97
+Sphingolipid	plasma membrane [GO:0005886]	-16.0
+Sphingolipid	alpha-beta T cell receptor complex [GO:0042105]	-16.0
+Sphingolipid	membrane raft [GO:0045121]	54.02
+Sphingolipid	endosome membrane [GO:0010008]	54.02
+Sphingolipid	plasma membrane [GO:0005886]	54.02
+Sphingolipid	extracellular space [GO:0005615]	54.02
+Sphingolipid	external side of plasma membrane [GO:0009897]	54.02
+Sphingolipid	membrane [GO:0016020]	63.23
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	63.23
+Sphingolipid	endoplasmic reticulum [GO:0005783]	63.23
+Sphingolipid	vacuole [GO:0005773]	63.23
+Sphingolipid	membrane raft [GO:0045121]	52.62
+Sphingolipid	endosome [GO:0005768]	52.62
+Sphingolipid	intracellular membrane-bounded organelle [GO:0043231]	52.62
+Sphingolipid	nucleoplasm [GO:0005654]	52.62
+Sphingolipid	plasma membrane [GO:0005886]	52.62
+Sphingolipid	external side of plasma membrane [GO:0009897]	52.62
+Sphingolipid	cytoplasm [GO:0005737]	52.62
+Sphingolipid	chloroplast membrane [GO:0031969]	65.12
+Sphingolipid	plasma membrane [GO:0005886]	52.82
+Sphingolipid	cytoplasm [GO:0005737]	52.82
+Sphingolipid	apical plasma membrane [GO:0016324]	37.28
+Sphingolipid	astrocyte projection [GO:0097449]	37.28
+Sphingolipid	cell surface [GO:0009986]	37.28
+Sphingolipid	plasma membrane [GO:0005886]	37.28
+Sphingolipid	voltage-gated potassium channel complex [GO:0008076]	37.28
+Sphingolipid	calyx of Held [GO:0044305]	37.28
+Sphingolipid	Schaffer collateral - CA1 synapse [GO:0098685]	37.28
+Sphingolipid	neuronal cell body [GO:0043025]	37.28
+Sphingolipid	axon [GO:0030424]	37.28
+Sphingolipid	axon terminus [GO:0043679]	37.28
+Sphingolipid	postsynapse [GO:0098794]	37.28
+Sphingolipid	endoplasmic reticulum [GO:0005783]	37.28
+Sphingolipid	cytoplasm [GO:0005737]	28.29
+Sphingolipid	voltage-gated sodium channel complex [GO:0001518]	67.29
+Sphingolipid	axon [GO:0030424]	67.29
+Sphingolipid	plasma membrane [GO:0005886]	67.29
+Sphingolipid	voltage-gated calcium channel complex [GO:0005891]	67.29
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	44.44
+Sphingolipid	endoplasmic reticulum [GO:0005783]	44.44
+Sphingolipid	cytosol [GO:0005829]	56.84
+Sphingolipid	endoplasmic reticulum [GO:0005783]	64.67
+Sphingolipid	cytoplasm [GO:0005737]	64.67
+Sphingolipid	endosome membrane [GO:0010008]	64.67
+Sphingolipid	basolateral plasma membrane [GO:0016323]	64.67
+Sphingolipid	lysosome [GO:0005764]	64.67
+Sphingolipid	plasma membrane [GO:0005886]	64.67
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	64.67
+Sphingolipid	extracellular space [GO:0005615]	64.67
+Sphingolipid	external side of plasma membrane [GO:0009897]	64.67
+Sphingolipid	lysosomal membrane [GO:0005765]	64.67
+Sphingolipid	cell surface [GO:0009986]	64.67
+Sphingolipid	late endosome [GO:0005770]	52.0
+Sphingolipid	endoplasmic reticulum [GO:0005783]	52.0
+Sphingolipid	cytoplasm [GO:0005737]	52.0
+Sphingolipid	endosome membrane [GO:0010008]	52.0
+Sphingolipid	lysosome [GO:0005764]	52.0
+Sphingolipid	early endosome [GO:0005769]	52.0
+Sphingolipid	extracellular space [GO:0005615]	52.0
+Sphingolipid	external side of plasma membrane [GO:0009897]	52.0
+Sphingolipid	lysosomal membrane [GO:0005765]	52.0
+Sphingolipid	cell surface [GO:0009986]	52.0
+Sphingolipid	membrane [GO:0016020]	82.56
+Sphingolipid	serine C-palmitoyltransferase complex [GO:0017059]	82.56
+Sphingolipid	SPOTS complex [GO:0035339]	82.56
+Sphingolipid	endoplasmic reticulum [GO:0005783]	82.56
+Sphingolipid	SPOTS complex [GO:0035339]	54.6
+Sphingolipid	endoplasmic reticulum [GO:0005783]	54.6
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	54.6
+Sphingolipid	endosome membrane [GO:0010008]	53.67
+Sphingolipid	cytosol [GO:0005829]	53.67
+Sphingolipid	plasma membrane [GO:0005886]	53.67
+Sphingolipid	nuclear outer membrane [GO:0005640]	53.67
+Sphingolipid	Golgi apparatus [GO:0005794]	53.67
+Sphingolipid	endosome membrane [GO:0010008]	53.88
+Sphingolipid	cytosol [GO:0005829]	53.88
+Sphingolipid	plasma membrane [GO:0005886]	53.88
+Sphingolipid	nuclear outer membrane [GO:0005640]	53.88
+Sphingolipid	Golgi apparatus [GO:0005794]	53.88
+Sphingolipid	late endosome [GO:0005770]	58.92
+Sphingolipid	endoplasmic reticulum [GO:0005783]	58.92
+Sphingolipid	cytoplasm [GO:0005737]	58.92
+Sphingolipid	endosome membrane [GO:0010008]	58.92
+Sphingolipid	lysosome [GO:0005764]	58.92
+Sphingolipid	early endosome [GO:0005769]	58.92
+Sphingolipid	extracellular space [GO:0005615]	58.92
+Sphingolipid	external side of plasma membrane [GO:0009897]	58.92
+Sphingolipid	lysosomal membrane [GO:0005765]	58.92
+Sphingolipid	cell surface [GO:0009986]	58.92
+Sphingolipid	endocytic vesicle lumen [GO:0071682]	27.5
+Sphingolipid	cytosol [GO:0005829]	27.5
+Sphingolipid	extracellular exosome [GO:0070062]	27.5
+Sphingolipid	membrane [GO:0016020]	27.5
+Sphingolipid	blood microparticle [GO:0072562]	27.5
+Sphingolipid	extracellular region [GO:0005576]	27.5
+Sphingolipid	extracellular space [GO:0005615]	27.5
+Sphingolipid	hemoglobin complex [GO:0005833]	27.5
+Sphingolipid	haptoglobin-hemoglobin complex [GO:0031838]	27.5
+Sphingolipid	apical plasma membrane [GO:0016324]	68.33
+Sphingolipid	gap junction [GO:0005921]	68.33
+Sphingolipid	plasma membrane [GO:0005886]	68.33
+Sphingolipid	endoplasmic reticulum [GO:0005783]	68.33
+Sphingolipid	late endosome [GO:0005770]	59.53
+Sphingolipid	endoplasmic reticulum [GO:0005783]	59.53
+Sphingolipid	cytoplasm [GO:0005737]	59.53
+Sphingolipid	endosome membrane [GO:0010008]	59.53
+Sphingolipid	basolateral plasma membrane [GO:0016323]	59.53
+Sphingolipid	lysosome [GO:0005764]	59.53
+Sphingolipid	early endosome [GO:0005769]	59.53
+Sphingolipid	plasma membrane [GO:0005886]	59.53
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	59.53
+Sphingolipid	extracellular space [GO:0005615]	59.53
+Sphingolipid	external side of plasma membrane [GO:0009897]	59.53
+Sphingolipid	lysosomal membrane [GO:0005765]	59.53
+Sphingolipid	cell surface [GO:0009986]	59.53
+Sphingolipid	apical plasma membrane [GO:0016324]	61.67
+Sphingolipid	gap junction [GO:0005921]	61.67
+Sphingolipid	plasma membrane [GO:0005886]	61.67
+Sphingolipid	endoplasmic reticulum [GO:0005783]	61.67
+Sphingolipid	cytoplasm [GO:0005737]	48.88
+Sphingolipid	voltage-gated sodium channel complex [GO:0001518]	59.19
+Sphingolipid	axon [GO:0030424]	59.19
+Sphingolipid	plasma membrane [GO:0005886]	59.19
+Sphingolipid	voltage-gated calcium channel complex [GO:0005891]	59.19
+Sphingolipid	cytoplasm [GO:0005737]	17.0
+Sphingolipid	perinuclear region of cytoplasm [GO:0048471]	17.0
+Sphingolipid	early endosome [GO:0005769]	17.0
+Sphingolipid	phagocytic cup [GO:0001891]	17.0
+Sphingolipid	ruffle [GO:0001726]	17.0
+Sphingolipid	lipopolysaccharide receptor complex [GO:0046696]	17.0
+Sphingolipid	membrane [GO:0016020]	17.0
+Sphingolipid	plasma membrane [GO:0005886]	17.0
+Sphingolipid	receptor complex [GO:0043235]	17.0
+Sphingolipid	external side of plasma membrane [GO:0009897]	17.0
+Sphingolipid	cell surface [GO:0009986]	17.0
+Sphingolipid	Golgi apparatus [GO:0005794]	17.0
+Sphingolipid	endoplasmic reticulum [GO:0005783]	64.15
+Sphingolipid	cytoplasm [GO:0005737]	64.15
+Sphingolipid	endosome membrane [GO:0010008]	64.15
+Sphingolipid	basolateral plasma membrane [GO:0016323]	64.15
+Sphingolipid	lysosome [GO:0005764]	64.15
+Sphingolipid	plasma membrane [GO:0005886]	64.15
+Sphingolipid	endoplasmic reticulum membrane [GO:0005789]	64.15
+Sphingolipid	extracellular space [GO:0005615]	64.15
+Sphingolipid	external side of plasma membrane [GO:0009897]	64.15
+Sphingolipid	lysosomal membrane [GO:0005765]	64.15
+Sphingolipid	cell surface [GO:0009986]	64.15
+Sphingolipid	cytosol [GO:0005829]	64.45

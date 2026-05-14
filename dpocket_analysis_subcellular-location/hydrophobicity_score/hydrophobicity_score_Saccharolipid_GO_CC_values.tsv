@@ -1,0 +1,635 @@
+class	GO_CC	hydrophobicity_score
+Saccharolipid	Golgi medial cisterna [GO:0005797]	24.53
+Saccharolipid	Golgi membrane [GO:0000139]	24.53
+Saccharolipid	perinuclear region of cytoplasm [GO:0048471]	24.53
+Saccharolipid	cytosol [GO:0005829]	19.61
+Saccharolipid	cytosol [GO:0005829]	19.61
+Saccharolipid	cytoplasm [GO:0005737]	12.66
+Saccharolipid	cytoplasm [GO:0005737]	11.21
+Saccharolipid	cytoplasm [GO:0005737]	10.89
+Saccharolipid	cytosol [GO:0005829]	24.13
+Saccharolipid	cytosol [GO:0005829]	10.13
+Saccharolipid	cytosol [GO:0005829]	28.97
+Saccharolipid	cytosol [GO:0005829]	32.62
+Saccharolipid	cytosol [GO:0005829]	22.44
+Saccharolipid	cytosol [GO:0005829]	24.53
+Saccharolipid	cytosol [GO:0005829]	22.59
+Saccharolipid	cytosol [GO:0005829]	22.87
+Saccharolipid	cytosol [GO:0005829]	15.91
+Saccharolipid	plasma membrane [GO:0005886]	15.91
+Saccharolipid	nucleoplasm [GO:0005654]	15.91
+Saccharolipid	cytosol [GO:0005829]	0.0
+Saccharolipid	plasma membrane [GO:0005886]	0.0
+Saccharolipid	nucleoplasm [GO:0005654]	0.0
+Saccharolipid	cytosol [GO:0005829]	3.5
+Saccharolipid	plasma membrane [GO:0005886]	3.5
+Saccharolipid	nucleoplasm [GO:0005654]	3.5
+Saccharolipid	cytosol [GO:0005829]	15.91
+Saccharolipid	plasma membrane [GO:0005886]	15.91
+Saccharolipid	nucleoplasm [GO:0005654]	15.91
+Saccharolipid	cytosol [GO:0005829]	15.81
+Saccharolipid	plasma membrane [GO:0005886]	15.81
+Saccharolipid	nucleoplasm [GO:0005654]	15.81
+Saccharolipid	cytosol [GO:0005829]	-2.0
+Saccharolipid	plasma membrane [GO:0005886]	-2.0
+Saccharolipid	nucleoplasm [GO:0005654]	-2.0
+Saccharolipid	cytosol [GO:0005829]	-14.0
+Saccharolipid	plasma membrane [GO:0005886]	-14.0
+Saccharolipid	nucleoplasm [GO:0005654]	-14.0
+Saccharolipid	cytosol [GO:0005829]	13.74
+Saccharolipid	plasma membrane [GO:0005886]	13.74
+Saccharolipid	nucleoplasm [GO:0005654]	13.74
+Saccharolipid	cytosol [GO:0005829]	30.16
+Saccharolipid	cytoplasm [GO:0005737]	30.16
+Saccharolipid	cytosol [GO:0005829]	29.06
+Saccharolipid	cytoplasm [GO:0005737]	29.06
+Saccharolipid	plasma membrane [GO:0005886]	20.96
+Saccharolipid	plasma membrane [GO:0005886]	22.92
+Saccharolipid	cytosol [GO:0005829]	-1.77
+Saccharolipid	nucleoplasm [GO:0005654]	-1.77
+Saccharolipid	endoplasmic reticulum [GO:0005783]	-1.77
+Saccharolipid	endoplasmic reticulum membrane [GO:0005789]	-1.77
+Saccharolipid	cytosol [GO:0005829]	2.0
+Saccharolipid	nucleoplasm [GO:0005654]	2.0
+Saccharolipid	endoplasmic reticulum [GO:0005783]	2.0
+Saccharolipid	endoplasmic reticulum membrane [GO:0005789]	2.0
+Saccharolipid	cytosol [GO:0005829]	16.35
+Saccharolipid	cytosol [GO:0005829]	0.56
+Saccharolipid	cytosol [GO:0005829]	3.7
+Saccharolipid	receptor complex [GO:0043235]	75.67
+Saccharolipid	extracellular region [GO:0005576]	75.67
+Saccharolipid	endosome membrane [GO:0010008]	75.67
+Saccharolipid	plasma membrane [GO:0005886]	75.67
+Saccharolipid	lipopolysaccharide receptor complex [GO:0046696]	75.67
+Saccharolipid	cytosol [GO:0005829]	15.38
+Saccharolipid	cytoplasm [GO:0005737]	15.38
+Saccharolipid	cytosol [GO:0005829]	16.77
+Saccharolipid	cytosol [GO:0005829]	11.29
+Saccharolipid	cytosol [GO:0005829]	18.14
+Saccharolipid	cytosol [GO:0005829]	10.22
+Saccharolipid	cytosol [GO:0005829]	20.83
+Saccharolipid	cytosol [GO:0005829]	10.13
+Saccharolipid	cytosol [GO:0005829]	21.38
+Saccharolipid	cytoplasm [GO:0005737]	21.38
+Saccharolipid	cytoplasm [GO:0005737]	18.16
+Saccharolipid	cytoplasm [GO:0005737]	12.44
+Saccharolipid	cytoplasm [GO:0005737]	19.82
+Saccharolipid	cytoplasm [GO:0005737]	17.11
+Saccharolipid	cytoplasm [GO:0005737]	18.53
+Saccharolipid	cytoplasm [GO:0005737]	17.06
+Saccharolipid	cytoplasm [GO:0005737]	12.09
+Saccharolipid	cytoplasm [GO:0005737]	9.94
+Saccharolipid	cytosol [GO:0005829]	18.08
+Saccharolipid	cytosol [GO:0005829]	16.43
+Saccharolipid	cytoplasm [GO:0005737]	18.72
+Saccharolipid	extracellular region [GO:0005576]	56.28
+Saccharolipid	extracellular region [GO:0005576]	56.28
+Saccharolipid	plasma membrane [GO:0005886]	15.96
+Saccharolipid	early endosome [GO:0005769]	15.96
+Saccharolipid	recycling endosome [GO:0055037]	15.96
+Saccharolipid	specific granule [GO:0042581]	15.96
+Saccharolipid	extracellular space [GO:0005615]	15.96
+Saccharolipid	extracellular region [GO:0005576]	6.95
+Saccharolipid	plasma membrane [GO:0005886]	22.6
+Saccharolipid	cytoplasm [GO:0005737]	10.15
+Saccharolipid	cytoplasm [GO:0005737]	12.49
+Saccharolipid	cytoplasm [GO:0005737]	17.31
+Saccharolipid	cytoplasm [GO:0005737]	-9.67
+Saccharolipid	cytoplasm [GO:0005737]	17.95
+Saccharolipid	cytoplasm [GO:0005737]	17.36
+Saccharolipid	cytoplasm [GO:0005737]	19.0
+Saccharolipid	cytoplasm [GO:0005737]	20.68
+Saccharolipid	cytoplasm [GO:0005737]	16.69
+Saccharolipid	cytoplasm [GO:0005737]	15.41
+Saccharolipid	cytoplasm [GO:0005737]	16.89
+Saccharolipid	cytoplasm [GO:0005737]	18.79
+Saccharolipid	cytoplasm [GO:0005737]	18.58
+Saccharolipid	cytoplasm [GO:0005737]	16.69
+Saccharolipid	cytoplasm [GO:0005737]	14.46
+Saccharolipid	cytoplasm [GO:0005737]	14.86
+Saccharolipid	cytoplasm [GO:0005737]	17.35
+Saccharolipid	cytoplasm [GO:0005737]	14.86
+Saccharolipid	receptor complex [GO:0043235]	68.25
+Saccharolipid	extracellular region [GO:0005576]	68.25
+Saccharolipid	plasma membrane [GO:0005886]	68.25
+Saccharolipid	lipopolysaccharide receptor complex [GO:0046696]	68.25
+Saccharolipid	receptor complex [GO:0043235]	60.95
+Saccharolipid	extracellular region [GO:0005576]	60.95
+Saccharolipid	plasma membrane [GO:0005886]	60.95
+Saccharolipid	lipopolysaccharide receptor complex [GO:0046696]	60.95
+Saccharolipid	receptor complex [GO:0043235]	58.55
+Saccharolipid	extracellular region [GO:0005576]	58.55
+Saccharolipid	plasma membrane [GO:0005886]	58.55
+Saccharolipid	lipopolysaccharide receptor complex [GO:0046696]	58.55
+Saccharolipid	receptor complex [GO:0043235]	62.67
+Saccharolipid	extracellular region [GO:0005576]	62.67
+Saccharolipid	plasma membrane [GO:0005886]	62.67
+Saccharolipid	lipopolysaccharide receptor complex [GO:0046696]	62.67
+Saccharolipid	cytoplasm [GO:0005737]	2.1
+Saccharolipid	cytoplasm [GO:0005737]	2.1
+Saccharolipid	cytoplasm [GO:0005737]	9.85
+Saccharolipid	cytoplasm [GO:0005737]	9.94
+Saccharolipid	cytoplasm [GO:0005737]	9.94
+Saccharolipid	receptor complex [GO:0043235]	68.74
+Saccharolipid	extracellular region [GO:0005576]	68.74
+Saccharolipid	endosome membrane [GO:0010008]	68.74
+Saccharolipid	plasma membrane [GO:0005886]	68.74
+Saccharolipid	lipopolysaccharide receptor complex [GO:0046696]	68.74
+Saccharolipid	receptor complex [GO:0043235]	67.65
+Saccharolipid	extracellular region [GO:0005576]	67.65
+Saccharolipid	endosome membrane [GO:0010008]	67.65
+Saccharolipid	plasma membrane [GO:0005886]	67.65
+Saccharolipid	lipopolysaccharide receptor complex [GO:0046696]	67.65
+Saccharolipid	extracellular region [GO:0005576]	-19.5
+Saccharolipid	extracellular region [GO:0005576]	6.95
+Saccharolipid	extracellular region [GO:0005576]	10.74
+Saccharolipid	mitochondrial membrane [GO:0031966]	28.93
+Saccharolipid	cytosol [GO:0005829]	28.93
+Saccharolipid	glutamatergic synapse [GO:0098978]	28.93
+Saccharolipid	histone acetyltransferase complex [GO:0000123]	28.93
+Saccharolipid	plasma membrane [GO:0005886]	28.93
+Saccharolipid	nucleoplasm [GO:0005654]	28.93
+Saccharolipid	NSL complex [GO:0044545]	28.93
+Saccharolipid	protein-containing complex [GO:0032991]	28.93
+Saccharolipid	protein N-acetylglucosaminyltransferase complex [GO:0017122]	28.93
+Saccharolipid	cell projection [GO:0042995]	28.93
+Saccharolipid	nucleus [GO:0005634]	28.93
+Saccharolipid	mitochondrial membrane [GO:0031966]	28.71
+Saccharolipid	cytosol [GO:0005829]	28.71
+Saccharolipid	glutamatergic synapse [GO:0098978]	28.71
+Saccharolipid	histone acetyltransferase complex [GO:0000123]	28.71
+Saccharolipid	plasma membrane [GO:0005886]	28.71
+Saccharolipid	nucleoplasm [GO:0005654]	28.71
+Saccharolipid	NSL complex [GO:0044545]	28.71
+Saccharolipid	protein-containing complex [GO:0032991]	28.71
+Saccharolipid	protein N-acetylglucosaminyltransferase complex [GO:0017122]	28.71
+Saccharolipid	cell projection [GO:0042995]	28.71
+Saccharolipid	nucleus [GO:0005634]	28.71
+Saccharolipid	mitochondrial membrane [GO:0031966]	28.71
+Saccharolipid	cytosol [GO:0005829]	28.71
+Saccharolipid	glutamatergic synapse [GO:0098978]	28.71
+Saccharolipid	histone acetyltransferase complex [GO:0000123]	28.71
+Saccharolipid	plasma membrane [GO:0005886]	28.71
+Saccharolipid	nucleoplasm [GO:0005654]	28.71
+Saccharolipid	NSL complex [GO:0044545]	28.71
+Saccharolipid	protein-containing complex [GO:0032991]	28.71
+Saccharolipid	protein N-acetylglucosaminyltransferase complex [GO:0017122]	28.71
+Saccharolipid	cell projection [GO:0042995]	28.71
+Saccharolipid	nucleus [GO:0005634]	28.71
+Saccharolipid	mitochondrial membrane [GO:0031966]	26.94
+Saccharolipid	cytosol [GO:0005829]	26.94
+Saccharolipid	glutamatergic synapse [GO:0098978]	26.94
+Saccharolipid	histone acetyltransferase complex [GO:0000123]	26.94
+Saccharolipid	plasma membrane [GO:0005886]	26.94
+Saccharolipid	nucleoplasm [GO:0005654]	26.94
+Saccharolipid	NSL complex [GO:0044545]	26.94
+Saccharolipid	protein-containing complex [GO:0032991]	26.94
+Saccharolipid	protein N-acetylglucosaminyltransferase complex [GO:0017122]	26.94
+Saccharolipid	cell projection [GO:0042995]	26.94
+Saccharolipid	nucleus [GO:0005634]	26.94
+Saccharolipid	plasma membrane [GO:0005886]	4.17
+Saccharolipid	plasma membrane [GO:0005886]	5.93
+Saccharolipid	membrane [GO:0016020]	19.52
+Saccharolipid	extracellular region [GO:0005576]	19.52
+Saccharolipid	host cell plasma membrane [GO:0020002]	19.52
+Saccharolipid	membrane [GO:0016020]	25.33
+Saccharolipid	extracellular region [GO:0005576]	25.33
+Saccharolipid	host cell plasma membrane [GO:0020002]	25.33
+Saccharolipid	mitochondrial membrane [GO:0031966]	26.73
+Saccharolipid	cytosol [GO:0005829]	26.73
+Saccharolipid	glutamatergic synapse [GO:0098978]	26.73
+Saccharolipid	histone acetyltransferase complex [GO:0000123]	26.73
+Saccharolipid	plasma membrane [GO:0005886]	26.73
+Saccharolipid	nucleoplasm [GO:0005654]	26.73
+Saccharolipid	NSL complex [GO:0044545]	26.73
+Saccharolipid	protein-containing complex [GO:0032991]	26.73
+Saccharolipid	protein N-acetylglucosaminyltransferase complex [GO:0017122]	26.73
+Saccharolipid	cell projection [GO:0042995]	26.73
+Saccharolipid	nucleus [GO:0005634]	26.73
+Saccharolipid	cytoplasm [GO:0005737]	-10.38
+Saccharolipid	extracellular region [GO:0005576]	13.56
+Saccharolipid	cytoplasm [GO:0005737]	17.19
+Saccharolipid	cytoplasm [GO:0005737]	19.47
+Saccharolipid	cytoplasm [GO:0005737]	14.94
+Saccharolipid	cytoplasm [GO:0005737]	18.79
+Saccharolipid	cytoplasm [GO:0005737]	35.04
+Saccharolipid	cytoplasm [GO:0005737]	10.82
+Saccharolipid	cytoplasm [GO:0005737]	31.85
+Saccharolipid	extrinsic component of plasma membrane [GO:0019897]	31.85
+Saccharolipid	cytoplasm [GO:0005737]	33.76
+Saccharolipid	extrinsic component of plasma membrane [GO:0019897]	33.76
+Saccharolipid	cytoplasm [GO:0005737]	31.15
+Saccharolipid	extrinsic component of plasma membrane [GO:0019897]	31.15
+Saccharolipid	cytoplasm [GO:0005737]	31.72
+Saccharolipid	extrinsic component of plasma membrane [GO:0019897]	31.72
+Saccharolipid	cytoplasm [GO:0005737]	29.37
+Saccharolipid	extrinsic component of plasma membrane [GO:0019897]	29.37
+Saccharolipid	cytoplasm [GO:0005737]	28.64
+Saccharolipid	extrinsic component of plasma membrane [GO:0019897]	28.64
+Saccharolipid	membrane [GO:0016020]	25.85
+Saccharolipid	membrane [GO:0016020]	25.85
+Saccharolipid	cytoplasm [GO:0005737]	6.29
+Saccharolipid	cytoplasm [GO:0005737]	5.21
+Saccharolipid	cytoplasm [GO:0005737]	9.0
+Saccharolipid	cytoplasm [GO:0005737]	40.19
+Saccharolipid	cytoplasm [GO:0005737]	18.38
+Saccharolipid	cytoplasm [GO:0005737]	9.45
+Saccharolipid	cytoplasm [GO:0005737]	42.18
+Saccharolipid	cytoplasm [GO:0005737]	6.29
+Saccharolipid	cytoplasm [GO:0005737]	5.21
+Saccharolipid	host cell [GO:0043657]	13.63
+Saccharolipid	extracellular region [GO:0005576]	13.63
+Saccharolipid	host cell Golgi apparatus [GO:0044177]	13.63
+Saccharolipid	host cell [GO:0043657]	0.0
+Saccharolipid	extracellular region [GO:0005576]	0.0
+Saccharolipid	host cell Golgi apparatus [GO:0044177]	0.0
+Saccharolipid	host cell [GO:0043657]	13.63
+Saccharolipid	extracellular region [GO:0005576]	13.63
+Saccharolipid	host cell Golgi apparatus [GO:0044177]	13.63
+Saccharolipid	host cell [GO:0043657]	-41.5
+Saccharolipid	extracellular region [GO:0005576]	-41.5
+Saccharolipid	host cell Golgi apparatus [GO:0044177]	-41.5
+Saccharolipid	host cell [GO:0043657]	11.3
+Saccharolipid	extracellular region [GO:0005576]	11.3
+Saccharolipid	host cell Golgi apparatus [GO:0044177]	11.3
+Saccharolipid	host cell [GO:0043657]	11.36
+Saccharolipid	extracellular region [GO:0005576]	11.36
+Saccharolipid	host cell Golgi apparatus [GO:0044177]	11.36
+Saccharolipid	receptor complex [GO:0043235]	62.44
+Saccharolipid	extracellular region [GO:0005576]	62.44
+Saccharolipid	plasma membrane [GO:0005886]	62.44
+Saccharolipid	lipopolysaccharide receptor complex [GO:0046696]	62.44
+Saccharolipid	receptor complex [GO:0043235]	67.29
+Saccharolipid	extracellular region [GO:0005576]	67.29
+Saccharolipid	plasma membrane [GO:0005886]	67.29
+Saccharolipid	lipopolysaccharide receptor complex [GO:0046696]	67.29
+Saccharolipid	cytoplasm [GO:0005737]	26.78
+Saccharolipid	extrinsic component of plasma membrane [GO:0019897]	26.78
+Saccharolipid	mitochondrial intermembrane space [GO:0005758]	21.05
+Saccharolipid	respirasome [GO:0070469]	21.05
+Saccharolipid	mitochondrion [GO:0005739]	21.05
+Saccharolipid	mitochondrial intermembrane space [GO:0005758]	14.28
+Saccharolipid	respirasome [GO:0070469]	14.28
+Saccharolipid	mitochondrion [GO:0005739]	14.28
+Saccharolipid	tertiary granule membrane [GO:0070821]	16.42
+Saccharolipid	nucleoplasm [GO:0005654]	16.42
+Saccharolipid	plasma membrane [GO:0005886]	16.42
+Saccharolipid	peroxisome [GO:0005777]	16.42
+Saccharolipid	specific granule membrane [GO:0035579]	16.42
+Saccharolipid	external side of plasma membrane [GO:0009897]	16.42
+Saccharolipid	cell surface [GO:0009986]	16.42
+Saccharolipid	Golgi apparatus [GO:0005794]	16.42
+Saccharolipid	tertiary granule membrane [GO:0070821]	13.41
+Saccharolipid	nucleoplasm [GO:0005654]	13.41
+Saccharolipid	plasma membrane [GO:0005886]	13.41
+Saccharolipid	peroxisome [GO:0005777]	13.41
+Saccharolipid	specific granule membrane [GO:0035579]	13.41
+Saccharolipid	external side of plasma membrane [GO:0009897]	13.41
+Saccharolipid	cell surface [GO:0009986]	13.41
+Saccharolipid	Golgi apparatus [GO:0005794]	13.41
+Saccharolipid	tertiary granule membrane [GO:0070821]	22.91
+Saccharolipid	nucleoplasm [GO:0005654]	22.91
+Saccharolipid	plasma membrane [GO:0005886]	22.91
+Saccharolipid	peroxisome [GO:0005777]	22.91
+Saccharolipid	specific granule membrane [GO:0035579]	22.91
+Saccharolipid	external side of plasma membrane [GO:0009897]	22.91
+Saccharolipid	cell surface [GO:0009986]	22.91
+Saccharolipid	Golgi apparatus [GO:0005794]	22.91
+Saccharolipid	tertiary granule membrane [GO:0070821]	13.22
+Saccharolipid	nucleoplasm [GO:0005654]	13.22
+Saccharolipid	plasma membrane [GO:0005886]	13.22
+Saccharolipid	peroxisome [GO:0005777]	13.22
+Saccharolipid	specific granule membrane [GO:0035579]	13.22
+Saccharolipid	external side of plasma membrane [GO:0009897]	13.22
+Saccharolipid	cell surface [GO:0009986]	13.22
+Saccharolipid	Golgi apparatus [GO:0005794]	13.22
+Saccharolipid	membrane raft [GO:0045121]	-11.19
+Saccharolipid	cortical cytoskeleton [GO:0030863]	-11.19
+Saccharolipid	perinuclear region of cytoplasm [GO:0048471]	-11.19
+Saccharolipid	clathrin-coated pit [GO:0005905]	-11.19
+Saccharolipid	plasma membrane [GO:0005886]	-11.19
+Saccharolipid	caveola [GO:0005901]	-11.19
+Saccharolipid	extracellular space [GO:0005615]	-11.19
+Saccharolipid	external side of plasma membrane [GO:0009897]	-11.19
+Saccharolipid	external side of plasma membrane [GO:0009897]	9.29
+Saccharolipid	apical plasma membrane [GO:0016324]	9.29
+Saccharolipid	cell surface [GO:0009986]	9.29
+Saccharolipid	extracellular region [GO:0005576]	9.29
+Saccharolipid	perinuclear region of cytoplasm [GO:0048471]	9.29
+Saccharolipid	external side of plasma membrane [GO:0009897]	7.03
+Saccharolipid	apical plasma membrane [GO:0016324]	7.03
+Saccharolipid	cell surface [GO:0009986]	7.03
+Saccharolipid	extracellular region [GO:0005576]	7.03
+Saccharolipid	perinuclear region of cytoplasm [GO:0048471]	7.03
+Saccharolipid	membrane [GO:0016020]	12.81
+Saccharolipid	intracellular membrane-bounded organelle [GO:0043231]	12.81
+Saccharolipid	endoplasmic reticulum membrane [GO:0005789]	12.81
+Saccharolipid	cytosol [GO:0005829]	22.91
+Saccharolipid	cytoplasm [GO:0005737]	22.91
+Saccharolipid	cytosol [GO:0005829]	24.41
+Saccharolipid	cytoplasm [GO:0005737]	24.41
+Saccharolipid	cytosol [GO:0005829]	22.91
+Saccharolipid	cytoplasm [GO:0005737]	22.91
+Saccharolipid	cytosol [GO:0005829]	23.95
+Saccharolipid	cytoplasm [GO:0005737]	23.95
+Saccharolipid	cytoplasm [GO:0005737]	27.91
+Saccharolipid	extrinsic component of plasma membrane [GO:0019897]	27.91
+Saccharolipid	cytoplasm [GO:0005737]	14.17
+Saccharolipid	outer membrane [GO:0019867]	57.08
+Saccharolipid	cell outer membrane [GO:0009279]	57.08
+Saccharolipid	extracellular exosome [GO:0070062]	4.8
+Saccharolipid	cytosol [GO:0005829]	4.8
+Saccharolipid	extracellular exosome [GO:0070062]	5.58
+Saccharolipid	cytosol [GO:0005829]	5.58
+Saccharolipid	extracellular exosome [GO:0070062]	9.5
+Saccharolipid	cytosol [GO:0005829]	9.5
+Saccharolipid	extracellular exosome [GO:0070062]	2.8
+Saccharolipid	cytosol [GO:0005829]	2.8
+Saccharolipid	extracellular exosome [GO:0070062]	5.83
+Saccharolipid	cytosol [GO:0005829]	5.83
+Saccharolipid	extracellular exosome [GO:0070062]	2.55
+Saccharolipid	cytosol [GO:0005829]	2.55
+Saccharolipid	cytosol [GO:0005829]	16.42
+Saccharolipid	plasma membrane [GO:0005886]	16.42
+Saccharolipid	nucleoplasm [GO:0005654]	16.42
+Saccharolipid	cytosol [GO:0005829]	14.45
+Saccharolipid	plasma membrane [GO:0005886]	14.45
+Saccharolipid	nucleoplasm [GO:0005654]	14.45
+Saccharolipid	tertiary granule membrane [GO:0070821]	24.18
+Saccharolipid	nucleoplasm [GO:0005654]	24.18
+Saccharolipid	plasma membrane [GO:0005886]	24.18
+Saccharolipid	peroxisome [GO:0005777]	24.18
+Saccharolipid	specific granule membrane [GO:0035579]	24.18
+Saccharolipid	external side of plasma membrane [GO:0009897]	24.18
+Saccharolipid	cell surface [GO:0009986]	24.18
+Saccharolipid	Golgi apparatus [GO:0005794]	24.18
+Saccharolipid	tertiary granule membrane [GO:0070821]	21.58
+Saccharolipid	nucleoplasm [GO:0005654]	21.58
+Saccharolipid	plasma membrane [GO:0005886]	21.58
+Saccharolipid	peroxisome [GO:0005777]	21.58
+Saccharolipid	specific granule membrane [GO:0035579]	21.58
+Saccharolipid	external side of plasma membrane [GO:0009897]	21.58
+Saccharolipid	cell surface [GO:0009986]	21.58
+Saccharolipid	Golgi apparatus [GO:0005794]	21.58
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	50.11
+Saccharolipid	cell outer membrane [GO:0009279]	50.11
+Saccharolipid	bacterial-type flagellum basal body, distal rod, L ring [GO:0009427]	39.57
+Saccharolipid	cell outer membrane [GO:0009279]	39.57
+Saccharolipid	cytoplasm [GO:0005737]	6.96
+Saccharolipid	cytoplasm [GO:0005737]	8.12
+Saccharolipid	membrane [GO:0016020]	12.33
+Saccharolipid	Golgi membrane [GO:0000139]	12.33
+Saccharolipid	membrane [GO:0016020]	12.33
+Saccharolipid	Golgi membrane [GO:0000139]	12.33
+Saccharolipid	plasma membrane [GO:0005886]	30.46
+Saccharolipid	basement membrane [GO:0005604]	40.42
+Saccharolipid	perinuclear region of cytoplasm [GO:0048471]	40.42
+Saccharolipid	neuromuscular junction [GO:0031594]	40.42
+Saccharolipid	plasma membrane [GO:0005886]	40.42
+Saccharolipid	membrane [GO:0016020]	40.42
+Saccharolipid	side of membrane [GO:0098552]	40.42
+Saccharolipid	synapse [GO:0045202]	40.42
+Saccharolipid	extracellular region [GO:0005576]	40.42
+Saccharolipid	extracellular space [GO:0005615]	40.42
+Saccharolipid	synaptic cleft [GO:0043083]	40.42
+Saccharolipid	nucleus [GO:0005634]	40.42
+Saccharolipid	cell surface [GO:0009986]	40.42
+Saccharolipid	Golgi apparatus [GO:0005794]	40.42
+Saccharolipid	basement membrane [GO:0005604]	32.07
+Saccharolipid	perinuclear region of cytoplasm [GO:0048471]	32.07
+Saccharolipid	neuromuscular junction [GO:0031594]	32.07
+Saccharolipid	plasma membrane [GO:0005886]	32.07
+Saccharolipid	membrane [GO:0016020]	32.07
+Saccharolipid	side of membrane [GO:0098552]	32.07
+Saccharolipid	synapse [GO:0045202]	32.07
+Saccharolipid	extracellular region [GO:0005576]	32.07
+Saccharolipid	extracellular space [GO:0005615]	32.07
+Saccharolipid	synaptic cleft [GO:0043083]	32.07
+Saccharolipid	nucleus [GO:0005634]	32.07
+Saccharolipid	cell surface [GO:0009986]	32.07
+Saccharolipid	Golgi apparatus [GO:0005794]	32.07
+Saccharolipid	membrane [GO:0016020]	15.68
+Saccharolipid	Golgi apparatus [GO:0005794]	15.68
+Saccharolipid	membrane [GO:0016020]	17.19
+Saccharolipid	Golgi apparatus [GO:0005794]	17.19
+Saccharolipid	membrane [GO:0016020]	5.84
+Saccharolipid	plasma membrane [GO:0005886]	2.73
+Saccharolipid	plasma membrane [GO:0005886]	2.73
+Saccharolipid	cytoplasm [GO:0005737]	10.19
+Saccharolipid	cytoplasm [GO:0005737]	12.54
+Saccharolipid	cytoplasm [GO:0005737]	10.19
+Saccharolipid	cytoplasm [GO:0005737]	9.3
+Saccharolipid	membrane [GO:0016020]	5.83
+Saccharolipid	membrane [GO:0016020]	5.83
+Saccharolipid	cytosol [GO:0005829]	28.09
+Saccharolipid	cytosol [GO:0005829]	28.09
+Saccharolipid	mitochondrial membrane [GO:0031966]	31.85
+Saccharolipid	cytosol [GO:0005829]	31.85
+Saccharolipid	glutamatergic synapse [GO:0098978]	31.85
+Saccharolipid	histone acetyltransferase complex [GO:0000123]	31.85
+Saccharolipid	plasma membrane [GO:0005886]	31.85
+Saccharolipid	nucleoplasm [GO:0005654]	31.85
+Saccharolipid	NSL complex [GO:0044545]	31.85
+Saccharolipid	protein-containing complex [GO:0032991]	31.85
+Saccharolipid	protein N-acetylglucosaminyltransferase complex [GO:0017122]	31.85
+Saccharolipid	cell projection [GO:0042995]	31.85
+Saccharolipid	nucleus [GO:0005634]	31.85
+Saccharolipid	mitochondrial membrane [GO:0031966]	34.53
+Saccharolipid	cytosol [GO:0005829]	34.53
+Saccharolipid	glutamatergic synapse [GO:0098978]	34.53
+Saccharolipid	histone acetyltransferase complex [GO:0000123]	34.53
+Saccharolipid	plasma membrane [GO:0005886]	34.53
+Saccharolipid	nucleoplasm [GO:0005654]	34.53
+Saccharolipid	NSL complex [GO:0044545]	34.53
+Saccharolipid	protein-containing complex [GO:0032991]	34.53
+Saccharolipid	protein N-acetylglucosaminyltransferase complex [GO:0017122]	34.53
+Saccharolipid	cell projection [GO:0042995]	34.53
+Saccharolipid	nucleus [GO:0005634]	34.53
+Saccharolipid	mitochondrial membrane [GO:0031966]	30.06
+Saccharolipid	cytosol [GO:0005829]	30.06
+Saccharolipid	glutamatergic synapse [GO:0098978]	30.06
+Saccharolipid	histone acetyltransferase complex [GO:0000123]	30.06
+Saccharolipid	plasma membrane [GO:0005886]	30.06
+Saccharolipid	nucleoplasm [GO:0005654]	30.06
+Saccharolipid	NSL complex [GO:0044545]	30.06
+Saccharolipid	protein-containing complex [GO:0032991]	30.06
+Saccharolipid	protein N-acetylglucosaminyltransferase complex [GO:0017122]	30.06
+Saccharolipid	cell projection [GO:0042995]	30.06
+Saccharolipid	nucleus [GO:0005634]	30.06
+Saccharolipid	mitochondrial membrane [GO:0031966]	27.06
+Saccharolipid	cytosol [GO:0005829]	27.06
+Saccharolipid	glutamatergic synapse [GO:0098978]	27.06
+Saccharolipid	histone acetyltransferase complex [GO:0000123]	27.06
+Saccharolipid	plasma membrane [GO:0005886]	27.06
+Saccharolipid	nucleoplasm [GO:0005654]	27.06
+Saccharolipid	NSL complex [GO:0044545]	27.06
+Saccharolipid	protein-containing complex [GO:0032991]	27.06
+Saccharolipid	protein N-acetylglucosaminyltransferase complex [GO:0017122]	27.06
+Saccharolipid	cell projection [GO:0042995]	27.06
+Saccharolipid	nucleus [GO:0005634]	27.06
+Saccharolipid	mitochondrial membrane [GO:0031966]	27.13
+Saccharolipid	cytosol [GO:0005829]	27.13
+Saccharolipid	glutamatergic synapse [GO:0098978]	27.13
+Saccharolipid	histone acetyltransferase complex [GO:0000123]	27.13
+Saccharolipid	plasma membrane [GO:0005886]	27.13
+Saccharolipid	nucleoplasm [GO:0005654]	27.13
+Saccharolipid	NSL complex [GO:0044545]	27.13
+Saccharolipid	protein-containing complex [GO:0032991]	27.13
+Saccharolipid	protein N-acetylglucosaminyltransferase complex [GO:0017122]	27.13
+Saccharolipid	cell projection [GO:0042995]	27.13
+Saccharolipid	nucleus [GO:0005634]	27.13
+Saccharolipid	mitochondrial membrane [GO:0031966]	-0.67
+Saccharolipid	cytosol [GO:0005829]	-0.67
+Saccharolipid	glutamatergic synapse [GO:0098978]	-0.67
+Saccharolipid	histone acetyltransferase complex [GO:0000123]	-0.67
+Saccharolipid	plasma membrane [GO:0005886]	-0.67
+Saccharolipid	nucleoplasm [GO:0005654]	-0.67
+Saccharolipid	NSL complex [GO:0044545]	-0.67
+Saccharolipid	protein-containing complex [GO:0032991]	-0.67
+Saccharolipid	protein N-acetylglucosaminyltransferase complex [GO:0017122]	-0.67
+Saccharolipid	cell projection [GO:0042995]	-0.67
+Saccharolipid	nucleus [GO:0005634]	-0.67
+Saccharolipid	mitochondrial membrane [GO:0031966]	29.78
+Saccharolipid	cytosol [GO:0005829]	29.78
+Saccharolipid	glutamatergic synapse [GO:0098978]	29.78
+Saccharolipid	histone acetyltransferase complex [GO:0000123]	29.78
+Saccharolipid	plasma membrane [GO:0005886]	29.78
+Saccharolipid	nucleoplasm [GO:0005654]	29.78
+Saccharolipid	NSL complex [GO:0044545]	29.78
+Saccharolipid	protein-containing complex [GO:0032991]	29.78
+Saccharolipid	protein N-acetylglucosaminyltransferase complex [GO:0017122]	29.78
+Saccharolipid	cell projection [GO:0042995]	29.78
+Saccharolipid	nucleus [GO:0005634]	29.78
+Saccharolipid	mitochondrial membrane [GO:0031966]	31.03
+Saccharolipid	cytosol [GO:0005829]	31.03
+Saccharolipid	glutamatergic synapse [GO:0098978]	31.03
+Saccharolipid	histone acetyltransferase complex [GO:0000123]	31.03
+Saccharolipid	plasma membrane [GO:0005886]	31.03
+Saccharolipid	nucleoplasm [GO:0005654]	31.03
+Saccharolipid	NSL complex [GO:0044545]	31.03
+Saccharolipid	protein-containing complex [GO:0032991]	31.03
+Saccharolipid	protein N-acetylglucosaminyltransferase complex [GO:0017122]	31.03
+Saccharolipid	cell projection [GO:0042995]	31.03
+Saccharolipid	nucleus [GO:0005634]	31.03
+Saccharolipid	mitochondrial membrane [GO:0031966]	26.94
+Saccharolipid	cytosol [GO:0005829]	26.94
+Saccharolipid	glutamatergic synapse [GO:0098978]	26.94
+Saccharolipid	histone acetyltransferase complex [GO:0000123]	26.94
+Saccharolipid	plasma membrane [GO:0005886]	26.94
+Saccharolipid	nucleoplasm [GO:0005654]	26.94
+Saccharolipid	NSL complex [GO:0044545]	26.94
+Saccharolipid	protein-containing complex [GO:0032991]	26.94
+Saccharolipid	protein N-acetylglucosaminyltransferase complex [GO:0017122]	26.94
+Saccharolipid	cell projection [GO:0042995]	26.94
+Saccharolipid	nucleus [GO:0005634]	26.94
+Saccharolipid	plasma membrane [GO:0005886]	22.41
+Saccharolipid	mitochondrial membrane [GO:0031966]	24.88
+Saccharolipid	cytosol [GO:0005829]	24.88
+Saccharolipid	glutamatergic synapse [GO:0098978]	24.88
+Saccharolipid	histone acetyltransferase complex [GO:0000123]	24.88
+Saccharolipid	plasma membrane [GO:0005886]	24.88
+Saccharolipid	nucleoplasm [GO:0005654]	24.88
+Saccharolipid	NSL complex [GO:0044545]	24.88
+Saccharolipid	protein-containing complex [GO:0032991]	24.88
+Saccharolipid	protein N-acetylglucosaminyltransferase complex [GO:0017122]	24.88
+Saccharolipid	cell projection [GO:0042995]	24.88
+Saccharolipid	nucleus [GO:0005634]	24.88
+Saccharolipid	mitochondrial membrane [GO:0031966]	28.29
+Saccharolipid	cytosol [GO:0005829]	28.29
+Saccharolipid	glutamatergic synapse [GO:0098978]	28.29
+Saccharolipid	histone acetyltransferase complex [GO:0000123]	28.29
+Saccharolipid	plasma membrane [GO:0005886]	28.29
+Saccharolipid	nucleoplasm [GO:0005654]	28.29
+Saccharolipid	NSL complex [GO:0044545]	28.29
+Saccharolipid	protein-containing complex [GO:0032991]	28.29
+Saccharolipid	protein N-acetylglucosaminyltransferase complex [GO:0017122]	28.29
+Saccharolipid	cell projection [GO:0042995]	28.29
+Saccharolipid	nucleus [GO:0005634]	28.29
+Saccharolipid	mitochondrial membrane [GO:0031966]	23.21
+Saccharolipid	cytosol [GO:0005829]	23.21
+Saccharolipid	glutamatergic synapse [GO:0098978]	23.21
+Saccharolipid	histone acetyltransferase complex [GO:0000123]	23.21
+Saccharolipid	plasma membrane [GO:0005886]	23.21
+Saccharolipid	nucleoplasm [GO:0005654]	23.21
+Saccharolipid	NSL complex [GO:0044545]	23.21
+Saccharolipid	protein-containing complex [GO:0032991]	23.21
+Saccharolipid	protein N-acetylglucosaminyltransferase complex [GO:0017122]	23.21
+Saccharolipid	cell projection [GO:0042995]	23.21
+Saccharolipid	nucleus [GO:0005634]	23.21
+Saccharolipid	mitochondrial membrane [GO:0031966]	28.43
+Saccharolipid	cytosol [GO:0005829]	28.43
+Saccharolipid	glutamatergic synapse [GO:0098978]	28.43
+Saccharolipid	histone acetyltransferase complex [GO:0000123]	28.43
+Saccharolipid	plasma membrane [GO:0005886]	28.43
+Saccharolipid	nucleoplasm [GO:0005654]	28.43
+Saccharolipid	NSL complex [GO:0044545]	28.43
+Saccharolipid	protein-containing complex [GO:0032991]	28.43
+Saccharolipid	protein N-acetylglucosaminyltransferase complex [GO:0017122]	28.43
+Saccharolipid	cell projection [GO:0042995]	28.43
+Saccharolipid	nucleus [GO:0005634]	28.43
+Saccharolipid	plasma membrane [GO:0005886]	-1.44
+Saccharolipid	cell periphery [GO:0071944]	-1.44
+Saccharolipid	cell septum [GO:0030428]	-1.44
+Saccharolipid	chitosome [GO:0045009]	-1.44
+Saccharolipid	plasma membrane [GO:0005886]	-1.44
+Saccharolipid	cell periphery [GO:0071944]	-1.44
+Saccharolipid	cell septum [GO:0030428]	-1.44
+Saccharolipid	chitosome [GO:0045009]	-1.44
+Saccharolipid	plasma membrane [GO:0005886]	0.0
+Saccharolipid	cell periphery [GO:0071944]	0.0
+Saccharolipid	cell septum [GO:0030428]	0.0
+Saccharolipid	chitosome [GO:0045009]	0.0
+Saccharolipid	plasma membrane [GO:0005886]	0.62
+Saccharolipid	cell periphery [GO:0071944]	0.62
+Saccharolipid	cell septum [GO:0030428]	0.62
+Saccharolipid	chitosome [GO:0045009]	0.62
+Saccharolipid	cytoplasm [GO:0005737]	32.7
+Saccharolipid	extrinsic component of plasma membrane [GO:0019897]	32.7

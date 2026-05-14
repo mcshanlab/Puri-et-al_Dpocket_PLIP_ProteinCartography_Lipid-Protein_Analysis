@@ -14,7 +14,7 @@ from pathlib import Path
 # --------------------------------------
 # User configuration
 # --------------------------------------
-base_dir = Path("/Users/amcshan3/Desktop/Manuscripts/PLIP_Dpocket_Lipid_Puri_2025/used-to-make/plip_amino_acid/hydrogen_bonds")
+base_dir = Path(".")
 output_pdf = "donor_acceptor_distance_violin.pdf"
 median_output_txt = "donor_acceptor_distance_medians.txt"
 
@@ -78,6 +78,19 @@ target_classes = merged["class"].unique().tolist()
 merged["class"] = pd.Categorical(merged["class"], categories=target_classes, ordered=True)
 
 data_list = [merged[merged["class"] == c]["distance"] for c in target_classes]
+
+# --------------------------------------
+# EXPORT EXACT VALUES USED IN VIOLIN PLOT
+# --------------------------------------
+violin_output_file = "dist_DA_violin_values.tsv"
+
+with open(violin_output_file, "w") as f:
+    f.write("class\tdist_DA\n")
+    for cls, vals in zip(target_classes, data_list):
+        for v in vals:
+            f.write(f"{cls}\t{v}\n")
+
+print(f"Saved violin plot values to: {violin_output_file}")
 
 # --------------------------------------
 # Save medians

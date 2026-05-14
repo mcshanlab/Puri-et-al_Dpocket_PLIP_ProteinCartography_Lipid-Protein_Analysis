@@ -1,0 +1,2147 @@
+================================================================================
+GO Cellular Component: membrane raft [GO:0045121]
+================================================================================
+
+hydrophobic: mean=13.111, sd=5.883, threshold=24.877
+  none
+
+hbond: mean=3.000, sd=1.658, threshold=6.317
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=1.000, sd=0.707, threshold=2.414
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: endosome membrane [GO:0010008]
+================================================================================
+
+hydrophobic: mean=13.819, sd=7.661, threshold=29.141
+  none
+
+hbond: mean=3.014, sd=2.223, threshold=7.461
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD2akr-C-C-CIS1/report.txt  (count=8)
+
+pistacking: mean=0.014, sd=0.118, threshold=0.250
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD6c6f-A-A-ELS1/report.txt  (count=1)
+
+pication: mean=0.028, sd=0.236, threshold=0.499
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8sgb-A-A-FO41/report.txt  (count=2)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.778, sd=1.406, threshold=3.591
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4k80-A-A-1PW1/report.txt  (count=4)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4k85-B-B-1PZ1/report.txt  (count=4)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4k85-D-D-1PZ1/report.txt  (count=4)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4k8n-A-A-1Q01/report.txt  (count=4)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4k8n-B-B-1Q01/report.txt  (count=4)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4k8n-C-C-1Q01/report.txt  (count=4)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4k8n-F-F-1Q01/report.txt  (count=4)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: plasma membrane [GO:0005886]
+================================================================================
+
+hydrophobic: mean=7.032, sd=6.697, threshold=20.426
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4mq7-A-A-CIS1/report.txt  (count=29)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4mng-C-C-CIS1/report.txt  (count=23)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4k84-B-B-1PX1/report.txt  (count=21)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4mng-A-A-CIS1/report.txt  (count=21)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD7ryn-A-A-CIS1/report.txt  (count=21)
+
+hbond: mean=1.691, sd=1.672, threshold=5.036
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD7c4s-A-A-S1P1/report.txt  (count=7)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD7c4s-B-B-S1P1/report.txt  (count=7)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD7ew3-R-R-S1P1/report.txt  (count=6)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.021, sd=0.206, threshold=0.434
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8sgb-A-A-FO41/report.txt  (count=2)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.723, sd=1.273, threshold=3.270
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4k80-A-A-1PW1/report.txt  (count=4)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4k85-B-B-1PZ1/report.txt  (count=4)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4k85-D-D-1PZ1/report.txt  (count=4)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4k8n-A-A-1Q01/report.txt  (count=4)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4k8n-B-B-1Q01/report.txt  (count=4)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4k8n-C-C-1Q01/report.txt  (count=4)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4k8n-F-F-1Q01/report.txt  (count=4)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: extracellular space [GO:0005615]
+================================================================================
+
+hydrophobic: mean=14.322, sd=7.971, threshold=30.263
+  none
+
+hbond: mean=3.441, sd=2.254, threshold=7.948
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD2akr-C-C-CIS1/report.txt  (count=8)
+
+pistacking: mean=0.017, sd=0.130, threshold=0.277
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD6c6f-A-A-ELS1/report.txt  (count=1)
+
+pication: mean=0.034, sd=0.260, threshold=0.555
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8sgb-A-A-FO41/report.txt  (count=2)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.203, sd=0.484, threshold=1.170
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD1onq-A-A-SLF1/report.txt  (count=2)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD5ksi-A-A-S1P1/report.txt  (count=2)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: external side of plasma membrane [GO:0009897]
+================================================================================
+
+hydrophobic: mean=15.296, sd=7.306, threshold=29.909
+  none
+
+hbond: mean=3.907, sd=2.031, threshold=7.969
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD2akr-C-C-CIS1/report.txt  (count=8)
+
+pistacking: mean=0.019, sd=0.136, threshold=0.291
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD6c6f-A-A-ELS1/report.txt  (count=1)
+
+pication: mean=0.037, sd=0.272, threshold=0.581
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8sgb-A-A-FO41/report.txt  (count=2)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.204, sd=0.491, threshold=1.185
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD1onq-A-A-SLF1/report.txt  (count=2)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD7td3-R-R-S1P1/report.txt  (count=2)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: late endosome [GO:0005770]
+================================================================================
+
+hydrophobic: mean=17.694, sd=6.292, threshold=30.279
+  none
+
+hbond: mean=4.611, sd=1.886, threshold=8.384
+  none
+
+pistacking: mean=0.028, sd=0.167, threshold=0.361
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD6c6f-A-A-ELS1/report.txt  (count=1)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.028, sd=0.167, threshold=0.361
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD2akr-C-C-CIS1/report.txt  (count=1)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: endoplasmic reticulum [GO:0005783]
+================================================================================
+
+hydrophobic: mean=10.412, sd=8.067, threshold=26.546
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4mq7-A-A-CIS1/report.txt  (count=29)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD3rzc-A-A-LGN1/report.txt  (count=27)
+
+hbond: mean=2.847, sd=2.307, threshold=7.461
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD2akr-C-C-CIS1/report.txt  (count=8)
+
+pistacking: mean=0.012, sd=0.108, threshold=0.229
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD6c6f-A-A-ELS1/report.txt  (count=1)
+
+pication: mean=0.024, sd=0.217, threshold=0.457
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8sgb-A-A-FO41/report.txt  (count=2)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.035, sd=0.186, threshold=0.407
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD2akr-C-C-CIS1/report.txt  (count=1)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8sjx-A-A-HWP3/report.txt  (count=1)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8sjy-A-A-HWP1/report.txt  (count=1)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: cytoplasm [GO:0005737]
+================================================================================
+
+hydrophobic: mean=12.132, sd=8.261, threshold=28.653
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4mq7-A-A-CIS1/report.txt  (count=29)
+
+hbond: mean=3.426, sd=2.358, threshold=8.143
+  none
+
+pistacking: mean=0.015, sd=0.121, threshold=0.257
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD6c6f-A-A-ELS1/report.txt  (count=1)
+
+pication: mean=0.029, sd=0.243, threshold=0.514
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8sgb-A-A-FO41/report.txt  (count=2)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.456, sd=0.937, threshold=2.331
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4ntg-A-A-1PZ1/report.txt  (count=3)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4nti-A-A-1PZ1/report.txt  (count=3)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4nti-B-B-1PZ1/report.txt  (count=3)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4nto-A-A-1PW1/report.txt  (count=3)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4nto-B-B-1PW2/report.txt  (count=3)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4nto-C-C-1PW2/report.txt  (count=3)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: lysosome [GO:0005764]
+================================================================================
+
+hydrophobic: mean=17.425, sd=6.089, threshold=29.602
+  none
+
+hbond: mean=4.475, sd=1.840, threshold=8.154
+  none
+
+pistacking: mean=0.025, sd=0.158, threshold=0.341
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD6c6f-A-A-ELS1/report.txt  (count=1)
+
+pication: mean=0.050, sd=0.316, threshold=0.682
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8sgb-A-A-FO41/report.txt  (count=2)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.025, sd=0.158, threshold=0.341
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD2akr-C-C-CIS1/report.txt  (count=1)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: early endosome [GO:0005769]
+================================================================================
+
+hydrophobic: mean=16.763, sd=7.313, threshold=31.390
+  none
+
+hbond: mean=4.447, sd=1.969, threshold=8.385
+  none
+
+pistacking: mean=0.026, sd=0.162, threshold=0.351
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD6c6f-A-A-ELS1/report.txt  (count=1)
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.053, sd=0.226, threshold=0.505
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD2akr-C-C-CIS1/report.txt  (count=1)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD7mlm-A-A-ZKM1/report.txt  (count=1)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: lysosomal membrane [GO:0005765]
+================================================================================
+
+hydrophobic: mean=17.146, sd=6.271, threshold=29.689
+  none
+
+hbond: mean=4.390, sd=1.896, threshold=8.182
+  none
+
+pistacking: mean=0.024, sd=0.156, threshold=0.337
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD6c6f-A-A-ELS1/report.txt  (count=1)
+
+pication: mean=0.049, sd=0.312, threshold=0.673
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8sgb-A-A-FO41/report.txt  (count=2)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.024, sd=0.156, threshold=0.337
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD2akr-C-C-CIS1/report.txt  (count=1)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: cell surface [GO:0009986]
+================================================================================
+
+hydrophobic: mean=13.685, sd=8.341, threshold=30.368
+  none
+
+hbond: mean=3.519, sd=2.313, threshold=8.144
+  none
+
+pistacking: mean=0.019, sd=0.136, threshold=0.291
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD6c6f-A-A-ELS1/report.txt  (count=1)
+
+pication: mean=0.037, sd=0.272, threshold=0.581
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8sgb-A-A-FO41/report.txt  (count=2)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.037, sd=0.191, threshold=0.418
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD2akr-C-C-CIS1/report.txt  (count=1)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD7mlm-A-A-ZKM1/report.txt  (count=1)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: cytosol [GO:0005829]
+================================================================================
+
+hydrophobic: mean=6.691, sd=6.850, threshold=20.391
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD3s0i-A-A-CIS1/report.txt  (count=24)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4k84-B-B-1PX1/report.txt  (count=21)
+
+hbond: mean=1.745, sd=1.838, threshold=5.422
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD2e3o-A-A-16C1/report.txt  (count=6)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD2e3r-A-A-18C1/report.txt  (count=6)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8ijq-F-F-16C1/report.txt  (count=6)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=1.091, sd=1.519, threshold=4.128
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: nucleoplasm [GO:0005654]
+================================================================================
+
+hydrophobic: mean=11.364, sd=7.325, threshold=26.013
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8sos-E-E-FO41/report.txt  (count=27)
+
+hbond: mean=4.000, sd=1.732, threshold=7.464
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.727, sd=0.905, threshold=2.536
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: endoplasmic reticulum membrane [GO:0005789]
+================================================================================
+
+hydrophobic: mean=8.294, sd=6.873, threshold=22.041
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4mq7-A-A-CIS1/report.txt  (count=29)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4mng-C-C-CIS1/report.txt  (count=23)
+
+hbond: mean=2.941, sd=1.890, threshold=6.721
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.059, sd=0.343, threshold=0.745
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8sgb-A-A-FO41/report.txt  (count=2)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: mitochondrion [GO:0005739]
+================================================================================
+
+hydrophobic: mean=9.000, sd=6.000, threshold=21.000
+  none
+
+hbond: mean=3.833, sd=2.639, threshold=9.112
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: Golgi apparatus [GO:0005794]
+================================================================================
+
+hydrophobic: mean=7.226, sd=6.766, threshold=20.758
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4k84-B-B-1PX1/report.txt  (count=21)
+
+hbond: mean=1.484, sd=1.651, threshold=4.785
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD2e3o-A-A-16C1/report.txt  (count=6)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD2e3r-A-A-18C1/report.txt  (count=6)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD2e3p-A-A-16C1/report.txt  (count=5)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD2e3q-A-A-18C1/report.txt  (count=5)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=1.645, sd=1.762, threshold=5.168
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: very-low-density lipoprotein particle [GO:0034361]
+================================================================================
+
+hydrophobic: mean=11.000, sd=1.414, threshold=13.828
+  none
+
+hbond: mean=2.500, sd=0.707, threshold=3.914
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=2.000, sd=0.000, threshold=2.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: low-density lipoprotein particle [GO:0034362]
+================================================================================
+
+hydrophobic: mean=11.000, sd=1.414, threshold=13.828
+  none
+
+hbond: mean=2.500, sd=0.707, threshold=3.914
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=2.000, sd=0.000, threshold=2.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: spherical high-density lipoprotein particle [GO:0034366]
+================================================================================
+
+hydrophobic: mean=11.000, sd=1.414, threshold=13.828
+  none
+
+hbond: mean=2.500, sd=0.707, threshold=3.914
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=2.000, sd=0.000, threshold=2.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: extracellular region [GO:0005576]
+================================================================================
+
+hydrophobic: mean=3.286, sd=4.103, threshold=11.492
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD2yg2-A-A-S1P1/report.txt  (count=12)
+
+hbond: mean=1.571, sd=1.555, threshold=4.681
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD2zxc-B-B-2ED1/report.txt  (count=5)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.714, sd=0.825, threshold=2.365
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: high-density lipoprotein particle [GO:0034364]
+================================================================================
+
+hydrophobic: mean=11.000, sd=1.414, threshold=13.828
+  none
+
+hbond: mean=2.500, sd=0.707, threshold=3.914
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=2.000, sd=0.000, threshold=2.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: discoidal high-density lipoprotein particle [GO:0034365]
+================================================================================
+
+hydrophobic: mean=11.000, sd=1.414, threshold=13.828
+  none
+
+hbond: mean=2.500, sd=0.707, threshold=3.914
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=2.000, sd=0.000, threshold=2.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: alpha-beta T cell receptor complex [GO:0042105]
+================================================================================
+
+hydrophobic: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+hbond: mean=2.444, sd=1.333, threshold=5.111
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.111, sd=0.333, threshold=0.778
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4apq-C-A-CIS1/report.txt  (count=1)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: protein-containing complex [GO:0032991]
+================================================================================
+
+hydrophobic: mean=2.000, sd=1.414, threshold=4.828
+  none
+
+hbond: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.500, sd=1.000, threshold=2.500
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: spindle pole [GO:0000922]
+================================================================================
+
+hydrophobic: mean=2.000, sd=1.414, threshold=4.828
+  none
+
+hbond: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.500, sd=1.000, threshold=2.500
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: basolateral plasma membrane [GO:0016323]
+================================================================================
+
+hydrophobic: mean=19.000, sd=6.028, threshold=31.055
+  none
+
+hbond: mean=3.857, sd=0.900, threshold=5.657
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.286, sd=0.756, threshold=1.798
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8sgb-A-A-FO41/report.txt  (count=2)
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: clathrin-coated pit [GO:0005905]
+================================================================================
+
+hydrophobic: mean=5.500, sd=2.121, threshold=9.743
+  none
+
+hbond: mean=2.500, sd=2.121, threshold=6.743
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: membrane [GO:0016020]
+================================================================================
+
+hydrophobic: mean=4.407, sd=3.925, threshold=12.257
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8c6d-A-A-SQS1/report.txt  (count=16)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8ex4-A-A-S1P1/report.txt  (count=13)
+
+hbond: mean=1.963, sd=1.698, threshold=5.359
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8ijq-F-F-16C1/report.txt  (count=6)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.185, sd=0.483, threshold=1.152
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD5ksi-A-A-S1P1/report.txt  (count=2)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: endocytic vesicle [GO:0030139]
+================================================================================
+
+hydrophobic: mean=5.500, sd=2.121, threshold=9.743
+  none
+
+hbond: mean=2.500, sd=2.121, threshold=6.743
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: intracellular membrane-bounded organelle [GO:0043231]
+================================================================================
+
+hydrophobic: mean=5.833, sd=1.169, threshold=8.171
+  none
+
+hbond: mean=3.167, sd=1.835, threshold=6.836
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.667, sd=0.816, threshold=2.300
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: presynapse [GO:0098793]
+================================================================================
+
+hydrophobic: mean=5.500, sd=2.121, threshold=9.743
+  none
+
+hbond: mean=2.500, sd=2.121, threshold=6.743
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: early endosome membrane [GO:0031901]
+================================================================================
+
+hydrophobic: mean=5.500, sd=2.121, threshold=9.743
+  none
+
+hbond: mean=2.500, sd=2.121, threshold=6.743
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: nucleus [GO:0005634]
+================================================================================
+
+hydrophobic: mean=14.500, sd=10.847, threshold=36.195
+  none
+
+hbond: mean=2.250, sd=1.258, threshold=4.767
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=1.000, sd=1.155, threshold=3.309
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: nuclear outer membrane [GO:0005640]
+================================================================================
+
+hydrophobic: mean=7.455, sd=7.130, threshold=21.714
+  none
+
+hbond: mean=0.864, sd=0.468, threshold=1.799
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD4k8n-E-A-1Q01/report.txt  (count=2)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=2.273, sd=1.723, threshold=5.719
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: endocytic vesicle lumen [GO:0071682]
+================================================================================
+
+hydrophobic: mean=0.778, sd=0.972, threshold=2.721
+  none
+
+hbond: mean=0.778, sd=0.833, threshold=2.444
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.667, sd=0.707, threshold=2.081
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: extracellular exosome [GO:0070062]
+================================================================================
+
+hydrophobic: mean=0.778, sd=0.972, threshold=2.721
+  none
+
+hbond: mean=0.778, sd=0.833, threshold=2.444
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.667, sd=0.707, threshold=2.081
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: blood microparticle [GO:0072562]
+================================================================================
+
+hydrophobic: mean=0.778, sd=0.972, threshold=2.721
+  none
+
+hbond: mean=0.778, sd=0.833, threshold=2.444
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.667, sd=0.707, threshold=2.081
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: hemoglobin complex [GO:0005833]
+================================================================================
+
+hydrophobic: mean=0.778, sd=0.972, threshold=2.721
+  none
+
+hbond: mean=0.778, sd=0.833, threshold=2.444
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.667, sd=0.707, threshold=2.081
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: haptoglobin-hemoglobin complex [GO:0031838]
+================================================================================
+
+hydrophobic: mean=0.778, sd=0.972, threshold=2.721
+  none
+
+hbond: mean=0.778, sd=0.833, threshold=2.444
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.667, sd=0.707, threshold=2.081
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: tertiary granule lumen [GO:1904724]
+================================================================================
+
+hydrophobic: mean=0.800, sd=1.095, threshold=2.991
+  none
+
+hbond: mean=0.600, sd=0.548, threshold=1.695
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.400, sd=0.548, threshold=1.495
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: ficolin-1-rich granule lumen [GO:1904813]
+================================================================================
+
+hydrophobic: mean=0.800, sd=1.095, threshold=2.991
+  none
+
+hbond: mean=0.600, sd=0.548, threshold=1.695
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.400, sd=0.548, threshold=1.495
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: axon terminus [GO:0043679]
+================================================================================
+
+hydrophobic: mean=3.273, sd=2.370, threshold=8.013
+  none
+
+hbond: mean=0.636, sd=0.924, threshold=2.485
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8uec-A-A-16C1/report.txt  (count=3)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: voltage-gated potassium channel complex [GO:0008076]
+================================================================================
+
+hydrophobic: mean=3.273, sd=2.370, threshold=8.013
+  none
+
+hbond: mean=0.636, sd=0.924, threshold=2.485
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8uec-A-A-16C1/report.txt  (count=3)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: apical plasma membrane [GO:0016324]
+================================================================================
+
+hydrophobic: mean=3.696, sd=3.281, threshold=10.258
+  none
+
+hbond: mean=0.609, sd=0.891, threshold=2.391
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8sjy-A-A-HWP2/report.txt  (count=3)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8uec-A-A-16C1/report.txt  (count=3)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.087, sd=0.288, threshold=0.663
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8sjx-A-A-HWP3/report.txt  (count=1)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8sjy-A-A-HWP1/report.txt  (count=1)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: astrocyte projection [GO:0097449]
+================================================================================
+
+hydrophobic: mean=3.273, sd=2.370, threshold=8.013
+  none
+
+hbond: mean=0.636, sd=0.924, threshold=2.485
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8uec-A-A-16C1/report.txt  (count=3)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: axon [GO:0030424]
+================================================================================
+
+hydrophobic: mean=4.471, sd=2.741, threshold=9.953
+  none
+
+hbond: mean=0.882, sd=0.993, threshold=2.868
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD7w9p-A-A-1PW1/report.txt  (count=3)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8uec-A-A-16C1/report.txt  (count=3)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: calyx of Held [GO:0044305]
+================================================================================
+
+hydrophobic: mean=3.273, sd=2.370, threshold=8.013
+  none
+
+hbond: mean=0.636, sd=0.924, threshold=2.485
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8uec-A-A-16C1/report.txt  (count=3)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: neuronal cell body [GO:0043025]
+================================================================================
+
+hydrophobic: mean=3.273, sd=2.370, threshold=8.013
+  none
+
+hbond: mean=0.636, sd=0.924, threshold=2.485
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8uec-A-A-16C1/report.txt  (count=3)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: recycling endosome [GO:0055037]
+================================================================================
+
+hydrophobic: mean=2.500, sd=0.707, threshold=3.914
+  none
+
+hbond: mean=0.500, sd=0.707, threshold=1.914
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: endosome [GO:0005768]
+================================================================================
+
+hydrophobic: mean=4.600, sd=2.074, threshold=8.747
+  none
+
+hbond: mean=2.800, sd=2.280, threshold=7.361
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.800, sd=0.837, threshold=2.473
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: Golgi membrane [GO:0000139]
+================================================================================
+
+hydrophobic: mean=2.500, sd=0.707, threshold=3.914
+  none
+
+hbond: mean=0.500, sd=0.707, threshold=1.914
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: serine C-palmitoyltransferase complex [GO:0017059]
+================================================================================
+
+hydrophobic: mean=4.400, sd=1.817, threshold=8.033
+  none
+
+hbond: mean=0.600, sd=0.894, threshold=2.389
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: viral envelope [GO:0019031]
+================================================================================
+
+hydrophobic: mean=9.000, sd=nan, threshold=nan
+  none
+
+hbond: mean=1.000, sd=nan, threshold=nan
+  none
+
+pistacking: mean=0.000, sd=nan, threshold=nan
+  none
+
+pication: mean=0.000, sd=nan, threshold=nan
+  none
+
+halogen: mean=0.000, sd=nan, threshold=nan
+  none
+
+saltbridge: mean=0.000, sd=nan, threshold=nan
+  none
+
+metal: mean=0.000, sd=nan, threshold=nan
+  none
+
+
+================================================================================
+GO Cellular Component: host cell endoplasmic reticulum membrane [GO:0044167]
+================================================================================
+
+hydrophobic: mean=9.000, sd=nan, threshold=nan
+  none
+
+hbond: mean=1.000, sd=nan, threshold=nan
+  none
+
+pistacking: mean=0.000, sd=nan, threshold=nan
+  none
+
+pication: mean=0.000, sd=nan, threshold=nan
+  none
+
+halogen: mean=0.000, sd=nan, threshold=nan
+  none
+
+saltbridge: mean=0.000, sd=nan, threshold=nan
+  none
+
+metal: mean=0.000, sd=nan, threshold=nan
+  none
+
+
+================================================================================
+GO Cellular Component: viral nucleocapsid [GO:0019013]
+================================================================================
+
+hydrophobic: mean=9.000, sd=nan, threshold=nan
+  none
+
+hbond: mean=1.000, sd=nan, threshold=nan
+  none
+
+pistacking: mean=0.000, sd=nan, threshold=nan
+  none
+
+pication: mean=0.000, sd=nan, threshold=nan
+  none
+
+halogen: mean=0.000, sd=nan, threshold=nan
+  none
+
+saltbridge: mean=0.000, sd=nan, threshold=nan
+  none
+
+metal: mean=0.000, sd=nan, threshold=nan
+  none
+
+
+================================================================================
+GO Cellular Component: virion membrane [GO:0055036]
+================================================================================
+
+hydrophobic: mean=9.000, sd=nan, threshold=nan
+  none
+
+hbond: mean=1.000, sd=nan, threshold=nan
+  none
+
+pistacking: mean=0.000, sd=nan, threshold=nan
+  none
+
+pication: mean=0.000, sd=nan, threshold=nan
+  none
+
+halogen: mean=0.000, sd=nan, threshold=nan
+  none
+
+saltbridge: mean=0.000, sd=nan, threshold=nan
+  none
+
+metal: mean=0.000, sd=nan, threshold=nan
+  none
+
+
+================================================================================
+GO Cellular Component: chloroplast membrane [GO:0031969]
+================================================================================
+
+hydrophobic: mean=2.667, sd=1.528, threshold=5.722
+  none
+
+hbond: mean=0.333, sd=0.577, threshold=1.488
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.333, sd=0.577, threshold=1.488
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: perinuclear region of cytoplasm [GO:0048471]
+================================================================================
+
+hydrophobic: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+hbond: mean=1.500, sd=0.707, threshold=2.914
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.500, sd=0.707, threshold=1.914
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: phagocytic cup [GO:0001891]
+================================================================================
+
+hydrophobic: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+hbond: mean=1.500, sd=0.707, threshold=2.914
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.500, sd=0.707, threshold=1.914
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: ruffle [GO:0001726]
+================================================================================
+
+hydrophobic: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+hbond: mean=1.500, sd=0.707, threshold=2.914
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.500, sd=0.707, threshold=1.914
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: lipopolysaccharide receptor complex [GO:0046696]
+================================================================================
+
+hydrophobic: mean=7.000, sd=6.856, threshold=20.711
+  none
+
+hbond: mean=1.000, sd=1.000, threshold=3.000
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.200, sd=0.447, threshold=1.094
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: receptor complex [GO:0043235]
+================================================================================
+
+hydrophobic: mean=7.000, sd=6.856, threshold=20.711
+  none
+
+hbond: mean=1.000, sd=1.000, threshold=3.000
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.200, sd=0.447, threshold=1.094
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: postsynapse [GO:0098794]
+================================================================================
+
+hydrophobic: mean=4.167, sd=3.601, threshold=11.369
+  none
+
+hbond: mean=1.167, sd=1.472, threshold=4.111
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.167, sd=0.408, threshold=0.983
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD7t6b-R-R-S1P1/report.txt  (count=1)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: voltage-gated sodium channel complex [GO:0001518]
+================================================================================
+
+hydrophobic: mean=6.667, sd=1.966, threshold=10.599
+  none
+
+hbond: mean=1.333, sd=1.033, threshold=3.399
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: voltage-gated calcium channel complex [GO:0005891]
+================================================================================
+
+hydrophobic: mean=6.667, sd=1.966, threshold=10.599
+  none
+
+hbond: mean=1.333, sd=1.033, threshold=3.399
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: secretory granule membrane [GO:0030667]
+================================================================================
+
+hydrophobic: mean=3.000, sd=nan, threshold=nan
+  none
+
+hbond: mean=3.000, sd=nan, threshold=nan
+  none
+
+pistacking: mean=0.000, sd=nan, threshold=nan
+  none
+
+pication: mean=0.000, sd=nan, threshold=nan
+  none
+
+halogen: mean=0.000, sd=nan, threshold=nan
+  none
+
+saltbridge: mean=0.000, sd=nan, threshold=nan
+  none
+
+metal: mean=0.000, sd=nan, threshold=nan
+  none
+
+
+================================================================================
+GO Cellular Component: SPOTS complex [GO:0035339]
+================================================================================
+
+hydrophobic: mean=5.200, sd=1.476, threshold=8.151
+  none
+
+hbond: mean=1.000, sd=1.054, threshold=3.108
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: specific granule membrane [GO:0035579]
+================================================================================
+
+hydrophobic: mean=3.000, sd=nan, threshold=nan
+  none
+
+hbond: mean=3.000, sd=nan, threshold=nan
+  none
+
+pistacking: mean=0.000, sd=nan, threshold=nan
+  none
+
+pication: mean=0.000, sd=nan, threshold=nan
+  none
+
+halogen: mean=0.000, sd=nan, threshold=nan
+  none
+
+saltbridge: mean=0.000, sd=nan, threshold=nan
+  none
+
+metal: mean=0.000, sd=nan, threshold=nan
+  none
+
+
+================================================================================
+GO Cellular Component: vacuole [GO:0005773]
+================================================================================
+
+hydrophobic: mean=3.000, sd=1.000, threshold=5.000
+  none
+
+hbond: mean=1.000, sd=0.000, threshold=1.000
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: host cell cytoplasmic vesicle membrane [GO:0044162]
+================================================================================
+
+hydrophobic: mean=16.000, sd=nan, threshold=nan
+  none
+
+hbond: mean=3.000, sd=nan, threshold=nan
+  none
+
+pistacking: mean=0.000, sd=nan, threshold=nan
+  none
+
+pication: mean=0.000, sd=nan, threshold=nan
+  none
+
+halogen: mean=0.000, sd=nan, threshold=nan
+  none
+
+saltbridge: mean=0.000, sd=nan, threshold=nan
+  none
+
+metal: mean=0.000, sd=nan, threshold=nan
+  none
+
+
+================================================================================
+GO Cellular Component: T=pseudo3 icosahedral viral capsid [GO:0039618]
+================================================================================
+
+hydrophobic: mean=16.000, sd=nan, threshold=nan
+  none
+
+hbond: mean=3.000, sd=nan, threshold=nan
+  none
+
+pistacking: mean=0.000, sd=nan, threshold=nan
+  none
+
+pication: mean=0.000, sd=nan, threshold=nan
+  none
+
+halogen: mean=0.000, sd=nan, threshold=nan
+  none
+
+saltbridge: mean=0.000, sd=nan, threshold=nan
+  none
+
+metal: mean=0.000, sd=nan, threshold=nan
+  none
+
+
+================================================================================
+GO Cellular Component: host cell nucleus [GO:0042025]
+================================================================================
+
+hydrophobic: mean=16.000, sd=nan, threshold=nan
+  none
+
+hbond: mean=3.000, sd=nan, threshold=nan
+  none
+
+pistacking: mean=0.000, sd=nan, threshold=nan
+  none
+
+pication: mean=0.000, sd=nan, threshold=nan
+  none
+
+halogen: mean=0.000, sd=nan, threshold=nan
+  none
+
+saltbridge: mean=0.000, sd=nan, threshold=nan
+  none
+
+metal: mean=0.000, sd=nan, threshold=nan
+  none
+
+
+================================================================================
+GO Cellular Component: gap junction [GO:0005921]
+================================================================================
+
+hydrophobic: mean=4.083, sd=4.010, threshold=12.104
+  none
+
+hbond: mean=0.583, sd=0.900, threshold=2.384
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8sjy-A-A-HWP2/report.txt  (count=3)
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.167, sd=0.389, threshold=0.945
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8sjx-A-A-HWP3/report.txt  (count=1)
+  /Volumes/GigiMurin/plip/sphingo_lipids/BD8sjy-A-A-HWP1/report.txt  (count=1)
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: transcription regulator complex [GO:0005667]
+================================================================================
+
+hydrophobic: mean=23.500, sd=4.950, threshold=33.399
+  none
+
+hbond: mean=2.000, sd=0.000, threshold=2.000
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=2.000, sd=0.000, threshold=2.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: chromatin [GO:0000785]
+================================================================================
+
+hydrophobic: mean=23.500, sd=4.950, threshold=33.399
+  none
+
+hbond: mean=2.000, sd=0.000, threshold=2.000
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=2.000, sd=0.000, threshold=2.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: nuclear chromosome [GO:0000228]
+================================================================================
+
+hydrophobic: mean=23.500, sd=4.950, threshold=33.399
+  none
+
+hbond: mean=2.000, sd=0.000, threshold=2.000
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=2.000, sd=0.000, threshold=2.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: RNA polymerase II transcription regulator complex [GO:0090575]
+================================================================================
+
+hydrophobic: mean=23.500, sd=4.950, threshold=33.399
+  none
+
+hbond: mean=2.000, sd=0.000, threshold=2.000
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=2.000, sd=0.000, threshold=2.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: transcription factor AP-1 complex [GO:0035976]
+================================================================================
+
+hydrophobic: mean=23.500, sd=4.950, threshold=33.399
+  none
+
+hbond: mean=2.000, sd=0.000, threshold=2.000
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=2.000, sd=0.000, threshold=2.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: euchromatin [GO:0000791]
+================================================================================
+
+hydrophobic: mean=23.500, sd=4.950, threshold=33.399
+  none
+
+hbond: mean=2.000, sd=0.000, threshold=2.000
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=2.000, sd=0.000, threshold=2.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+
+================================================================================
+GO Cellular Component: Schaffer collateral - CA1 synapse [GO:0098685]
+================================================================================
+
+hydrophobic: mean=3.200, sd=3.033, threshold=9.266
+  none
+
+hbond: mean=0.800, sd=1.304, threshold=3.408
+  none
+
+pistacking: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+pication: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+halogen: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+saltbridge: mean=0.000, sd=0.000, threshold=0.000
+  none
+
+metal: mean=0.000, sd=0.000, threshold=0.000
+  none
+
